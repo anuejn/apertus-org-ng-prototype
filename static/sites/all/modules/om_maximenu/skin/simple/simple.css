@@ -1,0 +1,62 @@
+/* $Id$ */
+
+/**
+ * @file
+ * OM Maximenu Simple Skin
+ *
+ * @author: Daniel Honrade http://drupal.org/user/351112
+ *
+ */
+
+/* OM Maximenu Content - simple style - general */
+.om-maximenu-simple .om-maximenu-top { display: none; }
+.om-maximenu-simple .om-maximenu-top-left { display: none; }
+.om-maximenu-simple .om-maximenu-top-right { display: none; }
+
+.om-maximenu-simple .om-maximenu-middle {  }
+.om-maximenu-simple .om-maximenu-middle-left { 
+	margin-top:10px; 
+	background: -moz-linear-gradient(center top , #FFFFFF, #DDDDDD); /* FF 3.6+ */  
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #DDDDDD)); /* Safari 4+, Chrome 2+ */  
+    background: -webkit-linear-gradient(center top, #FFFFFF, #DDDDDD); /* Safari 5.1+, Chrome 10+ */  
+    background: -o-linear-gradient(center top, #FFFFFF, #DDDDDD); /* Opera 11.10 */  
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#DDDDDD'); /* IE6 & IE7 */  
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#DDDDDD')"; /* IE8+ */  
+    background: linear-gradient(center top, #FFFFFF, #DDDDDD); /* the standard */ 
+	border-bottom:1px solid #AAAAAA; 
+	border-right:1px solid #AAAAAA; 
+	border-left:1px solid #AAAAAA; 
+	border-top:none; 
+	-webkit-box-shadow:  0px 0px 8px 0px rgba(0, 0, 0, 0.5);
+	box-shadow:  0px 0px 8px 0px rgba(0, 0, 0, 0.5);
+}
+.om-maximenu-simple .om-maximenu-middle-right {  }
+
+.om-maximenu-simple .om-maximenu-bottom { display: none; }
+.om-maximenu-simple .om-maximenu-bottom-left { display: none; }
+.om-maximenu-simple .om-maximenu-bottom-right { display: none; }
+
+
+/* OM Maximenu Content - simple style - main menu */
+.om-maximenu-simple.om-maximenu-main-menu .om-maximenu-content .om-maximenu-top { display: none; }
+ 
+/* OM Maximenu Content - simple style - block down/down */
+.om-maximenu-simple.om-maximenu-block.om-maximenu-row.om-maximenu-block-down .om-maximenu-content .om-maximenu-top { display: none; }
+.om-maximenu-simple.om-maximenu-block.om-maximenu-row.om-maximenu-block-up .om-maximenu-content .om-maximenu-bottom { display: none; }
+
+
+/* OM Maximenu Content - simple style - block left */
+
+/* OM Maximenu Content - simple style - block right */
+
+/* OM Maximenu Content - simple style - float top/bottom */
+.om-maximenu-simple.om-maximenu-float.om-maximenu-row.om-maximenu-top .om-maximenu-content .om-maximenu-top { display: none; }
+.om-maximenu-simple.om-maximenu-float.om-maximenu-row.om-maximenu-bottom .om-maximenu-content .om-maximenu-bottom { display: none; }
+
+.om-maximenu .om-maximenu-open {
+    display:none;
+}
+
+
+
+

@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="/taxonomy/term/1/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>developer</title>
+    <link>/taxonomy/term/1/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="/taxonomy/term/1/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Application Form</title>
+    <link>/node/21</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;todo&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 27 Sep 2011 20:48:06 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">21 at </guid>
+  </item>
+  <item>
+    <title>Articles</title>
+    <link>/node/71</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;
+Todo: Introduction text
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;?
+echo views_embed_view(&quot;knowledge_article_list&quot;);
+?&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 16 Dec 2011 14:55:18 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">71 at </guid>
+  </item>
+  <item>
+    <title>Audio Recording</title>
+    <link>/node/75</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Recording audio in sync with video is done by using Linux-compatible (since most USB devices do not require additional drivers they just need to be plugged in and are ready to go - so far we did not find any incompatible devices) USB audio devices. These are widely available and range from simple thumb sticks with two 3.5mm jacks to multi channel recording devices with phantom powered XLR jacks.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;/sites/default/files/usb-16a_001_1665_detail.jpg&quot;&gt;&lt;img src=&quot;/sites/default/files/usb-16a_001_1665_detail.jpg&quot; width=&quot;300px&quot; title=&quot;USB XLR audio hardware&quot; alt=&quot;USB XLR audio hardware&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please note that the USB connector on the Elphel 353 cameras is USB 1.1 and therefore has a max. data throughput of 12 Mbit/s (~1.43 MB/s) and a maximum cable length of 3 metres (9.8 ft). If you think this datarate is too low consider that an audio-CD (44100 Hz × 16 bits/sample × 2 channels) has a datarate of 150 KiB/s which is roughly 10% of the available bandwidth. The next generation Elphel 373 will feature a full speed USB 2.0 port.&lt;/p&gt;
+
+&lt;p&gt;The Elphel Wiki features a page with some more detailed audio hardware reports and instructions on how to get started with audio recording &lt;a href=&quot;http://wiki.elphel.com/index.php?title=Audio&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 16 Dec 2011 23:38:17 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">75 at </guid>
+  </item>
+  <item>
+    <title>Bug Management</title>
+    <link>/node/14</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Bug Management System is currently taken offline due to excessive spam weaknesses of the used system: bug genie&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 27 Sep 2011 19:34:04 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">14 at </guid>
+  </item>
+  <item>
+    <title>Camera Viewfinder </title>
+    <link>/node/73</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The viewfinder hardware is a computer or embedded device connected to the camera over Ethernet. Using a router or switch there can be multiple cameras and/or viewfinders in the network. A wireless router can be used to free the connection from the wire and allow wireless communications/video transmission between the camera and viewfinder.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What devices can be used:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;any laptop&lt;/li&gt;
+&lt;li&gt;any netbook&lt;/li&gt;
+&lt;li&gt;any desktop PC as well of course&lt;/li&gt;
+&lt;li&gt;embedded devices, PDAs, MIDs, Smartphones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ethernet Interface (or wifi)&lt;/li&gt;
+&lt;li&gt;Software that can receive and display an rtsp video stream (VLC, Mplayer, Gstreamer or &lt;a href=&quot;software&quot;&gt; ElphelVision&lt;/a&gt; which works under Linux, Windows and OS X)&lt;/li&gt;
+&lt;li&gt;Enough horsepower for the certain desired resolution/fps, Full HD@25fps will most likely NOT play back smoothly on a small cellphone (we tested: 720p@25fps works fine on a Netbook)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The official Apertus viewfinder (name still needs to be found)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are creating a viewfinder device that works out of the box and has all the required features that professional filmmakers are looking for. The plans are still a little fuzzy but here is a rough overview of what will be in this device:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ARM CPU based &lt;a href=&quot;http://beagleboard.org/&quot;&gt;beagleboard&lt;/a&gt; with daugtherboard or clone (e.g. &lt;a href=&quot;http://embedinfo.com/English/product/devkit8000.asp&quot;&gt;DevKit8000&lt;/a&gt;, &lt;a href=&quot;http://www.igep-platform.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=46&amp;amp;Itemid=55&quot;&gt;IGEPv2&lt;/a&gt;) or &lt;a href=&quot;http://www.gumstix.com/&quot;&gt;Gumstix&lt;/a&gt; with &lt;a href=&quot;http://www.gumstix.com/store/catalog/product_info.php?products_id=230&quot;&gt;HDMI/LCD and Ethernet expansion board&lt;/a&gt;, this &lt;a href=&quot;http://elinux.org/BeagleBoard#Clones&quot;&gt;wiki&lt;/a&gt; has a great list of beagleboard clones&lt;/li&gt;
+&lt;li&gt;beagleboard features: HDMI/DVI, S-Video connectors, headphones jack&lt;/li&gt;
+&lt;li&gt;custom (fast booting) Linux distro (that starts right into ElphelVision with live video feed from the camera)&lt;/li&gt;
+&lt;li&gt;touchscreen LCD in the 10&quot; region with a resolution of at least 1280x720 pixels&lt;/li&gt;
+&lt;li&gt;sunshades&lt;/li&gt;
+&lt;li&gt;arm to mount it on the camera&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The device will run the touchscreen oriented viewfinder software &lt;a href=&quot;http://cinema.elphel.com/software&quot;&gt;ElphelVision&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Elphel 373 will introduce a second FPGA based video pipeline that provides real time video at a lower resolution. This allows the viewfinder to display a lower resolution video stream like (1280x720) while the camera is recording the full resolution video stream to HDD/SSD/etc.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;ov&quot; id=&quot;ov&quot;&gt;&lt;/a&gt;Optical viewfinder:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our first attempt to make a real optical viewfinder was based on parts used from a super8 camera, because it somewhat matches the size of the sensor. There is still interest in the development for an optical viewfinder, but it would greatly depend on the size of the new sensor.&lt;/p&gt;
+&lt;p&gt;The project includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;research and find all necessary optics.&lt;/li&gt;
+&lt;li&gt;Design the enclosures and eyepiece (using as much existing/affordable  parts as possible)&lt;/li&gt;
+&lt;li&gt;designing a modified Elphel front-end.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;http://www.dvinfo.net/forum/attachments/apertus-open-source-cinema-project/5821d1200170306-high-definition-elphel-model-333-camera-viewfinder8.jpg&quot; alt=&quot;&quot; width=&quot;347&quot; height=&quot;261&quot; /&gt;&lt;/strong&gt;&lt;strong&gt;  &lt;img src=&quot;http://www.dvinfo.net/forum/attachments/apertus-open-source-cinema-project/6046d1201999619-optical-viewfinder-discussion-elphel-opt-viewfinder.jpg&quot; alt=&quot;&quot; width=&quot;373&quot; height=&quot;232&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;address&gt;First prototype and designs of Elphel with optical viewfinder.&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/address&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div class=&quot;task&quot;&gt;&lt;img class=&quot;taskicon&quot; src=&quot;/images/project.png&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;tasktext&quot;&gt;
+&lt;h1&gt;Task: Custom Viewfinder Linux Distribution&lt;br /&gt;&lt;/h1&gt;
+The Apertus &lt;a href=&quot;/viewfinder&quot;&gt;Viewfinder&lt;/a&gt; (still looking for a name) will be a bagleboard like embedded device with a touchscreen LCD. We are looking for someone to create a custom Linux distribution (based on Ubuntu for example) for the ARM architecture to run on this viewfinder computer. This means we will need to remove a lot of what comes with Ubuntu by default that we do not need while new things like touchscreen oriented tools need to be added, etc. This task will most likely never be finished as the distribution will grow and evolve with the project. What we are primarily looking for now is someone who gets the stone rolling.&lt;/div&gt;
+&lt;hr /&gt;
+&lt;img class=&quot;taskicon&quot; src=&quot;/images/assoc.png&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;tasktext&quot;&gt;
+&lt;h1&gt;Contacts&lt;/h1&gt;
+Please &lt;a href=&quot;http://cinema.elphel.com/contact&quot;&gt;contact us&lt;/a&gt; when you decide to start working on this task so we can add a note to the task history about your goals.&lt;br /&gt;&lt;/div&gt;
+&lt;hr /&gt;
+&lt;img class=&quot;taskicon&quot; src=&quot;/images/idea.png&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;tasktext&quot;&gt;
+&lt;h1&gt;History&lt;/h1&gt;
+30th Dec. 2009: Task openend&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 16 Dec 2011 23:06:17 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">73 at </guid>
+  </item>
+  <item>
+    <title>Code Repository</title>
+    <link>/node/13</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;What is SVN?&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://subversion.tigris.org/&quot;&gt;SVN or Subversion&lt;/a&gt; is a version control system holding all revision of the source code of the project.&lt;br /&gt; 
+The source code is kindly hosted by the Elphel project on &lt;a href=&quot;http://sourceforge.net/&quot;&gt;sourceforge.net&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;Access&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://elphel.svn.sourceforge.net/viewvc/elphel/&quot;&gt;Browse SVN &lt;/a&gt;&lt;br /&gt;View the source tree in a webview.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;With a commandline SVN client you can check out the full code tree by typing:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;svn co https://elphel.svn.sourceforge.net/svnroot/elphel elphel&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Alternatively you can use an SVN GUI like &lt;a href=&quot;http://tortoisesvn.tigris.org/&quot;&gt;tortoisesvn&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 27 Sep 2011 18:14:22 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">13 at </guid>
+  </item>
+  <item>
+    <title>Developer Agreement</title>
+    <link>/node/20</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Do not be scared by the following agreement, it&#039;s just to clarify the obvious and put it on paper.&lt;/p&gt;
+
+&lt;h3&gt;Development and Documentation Goals&lt;/h3&gt;
+&lt;p&gt;You  probably already learned that there is no such thing as a &quot;free lunch&quot;  so we tell you right away what we expect in return for providing your  with sponsored hardware.
+In most cases this simply means that we  want you to publish a project description of what you plan to do in your  project on the &lt;a href=&quot;http://wiki.elphel.com&quot;&gt;Elphel wiki&lt;/a&gt; and to blog about your projects progress to provide  us with regular progress updates on the &lt;a href=&quot;http://blog.elphel.com&quot;&gt;Elphel Development Blog&lt;/a&gt;. Another requirement is that you release ALL your work related to the project (code, schematics, documentation etc.) to the public under the GNU GPL (for software) and CERN OHL (for hardware), see &lt;i&gt;Contribution License&lt;/i&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Provided Hardware&lt;/h3&gt;
+&lt;p&gt;Elphel/Apertus will provide you with the hardware required for your planned  developments free of charge. You only have to pay the shipping cost. Import duties or custom fees as well as  potential taxes might apply for certain countries and have to be paid by you upon receiving the goods.&lt;/p&gt;
+
+&lt;h3&gt;Time Schedule&lt;/h3&gt;
+&lt;p&gt;In  most cases we will lend the hardware to you for a certain amount of  time that is initially agreed on. After your project is completed we ask  you to return the equipment to us or a different developer.&lt;br /&gt;&lt;br /&gt;
+In rare cases:
+&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;your project is going horribly wrong&lt;/li&gt;
+&lt;li&gt;you misinformed us in your application&lt;/li&gt;
+&lt;li&gt;you repeatedly fail to post any progress reports or developments as initially agreed on&lt;/li&gt;
+&lt;/ul&gt;
+we will ask you to return the hardware before the initial time-frame has ended.&lt;br /&gt;&lt;br /&gt;
+Return shipping cost has to be paid by you.
+
+&lt;h3&gt;Contribution License&lt;/h3&gt;
+&lt;p&gt;You  agree that all contributed source code is released under the GNU General Public License, version 3 or later, all contributed documentation under the GNU Free Documentation License, version 1.3 or later and all hardware under the Cern OHL 1.1 or later.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 27 Sep 2011 20:46:40 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">20 at </guid>
+  </item>
+  <item>
+    <title>Developer Area</title>
+    <link>/node/2</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Todo!!&lt;br /&gt;
+&lt;br /&gt;
+&lt;p&gt;New Line added here.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 27 Sep 2011 14:16:37 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">2 at </guid>
+  </item>
+  <item>
+    <title>DNG Converter Usage</title>
+    <link>/node/80</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;movie2dng&lt;/h2&gt;
+&lt;h3&gt;Commandline Program&lt;/h3&gt;
+&lt;p&gt;When shooting video footage in JP4-RAW mode the files need to be converted to a postprocessing friendly format: a DNG sequence. This software takes care of that. The resulting DNG files contain the EXIF fields of the original frames and are stored with 16 bits (linear colorspace) per channel.&lt;/p&gt;
+&lt;pre&gt;
+movie2dng 
+Usage:
+
+movie2dng [options] (at least one of --jp4, --jpeg, --dng or --pgm) SOURCE [DEST]
+
+This program will convert the SOURCE JP4 movie to individual frames named
+DEST-NNNNNN.dng, where NNNNNN will be replaced by the frame number starting
+at 1. Note that there is no need to specify the .dng extension on the frame
+name, it will be added automatically. If you want to save frames on a different
+directory, use something like DIRECTORY/DEST, for example.
+If you want to convert individual frames, pass they as SOURCE, DEST will be filled for you.
+
+[output formats]
+	--jp4              save frames in JP4 format.
+	--jpeg             save frames in JPEG format (JP4 after deblock) format.
+	--dng              save frames in DNG format.
+	--pgm              save frames in 16 bit PGM (ASCII) format.
+[options]
+	--stdout           write frame data to stdout (only for single format output &lt;br /&gt;	                   and JP4 or JP46 inputs).
+	--gui              output information in a format suitable for a GUI program.
+	--frames N         convert only the N-th first frames.
+	--shift N,         Bayer shift, 0-3 (default: detect from MakerNote).
+	--jpeg-quality N   set --jpeg quality factor (1...100), default=100.
+	-v, --version      display program version information.
+	-h, --help         show this help message.
+
+&lt;/pre&gt;
+&lt;p&gt;More information on the &lt;a href=&quot;http://wiki.elphel.com/index.php?title=Movie2dng&quot;&gt;Wiki Page&lt;/a&gt;
+&lt;/p&gt;&lt;h2&gt;movie2dnggui&lt;/h2&gt;
+&lt;h3&gt;Graphical User Interface&lt;/h3&gt;
+&lt;p&gt;This application parses the commands to movie2dng and is written in Java&lt;/p&gt;
+&lt;a href=&quot;http://cinema.elphel.com/sites/default/files/movie2dnggui.jpg&quot;&gt;&lt;img src=&quot;http://cinema.elphel.com/sites/default/files/movie2dnggui.jpg&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;
+
+&lt;h2&gt;Installation&lt;/h2&gt;
+&lt;p&gt;Ubuntu: Install movie2dng by executing:
+&lt;/p&gt;&lt;pre&gt;
+ sudo add-apt-repository ppa:phsilva/ppa
+ sudo apt-get update
+ sudo apt-get install movie2dng
+&lt;/pre&gt;
+&lt;p&gt;Download the GUI from &lt;a href=&quot;http://elphel.svn.sourceforge.net/viewvc/elphel/tools/Movie2DNGGUI/release/&quot;&gt;Sourceforge&lt;/a&gt; and execute the included script relevant for your OS (Please note that currently only Linux is supported).&lt;/p&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 29 Dec 2011 18:28:03 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">80 at </guid>
+  </item>
+  <item>
+    <title>GPL Workflow Research</title>
+    <link>/node/81</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+The research presented here aims at establishing a digital cinema editing workflow made exclusively under Linux machines. The steps described below start at the point in which we already have a sequence, or many sequences, of digital negative (DNG) files. In the diagram, they correspond to the stages immediately after the third grey box. Everything described from there on has been tested and is documented here. 
+ &lt;br /&gt;&lt;br /&gt;Even though it is the aim of this documentation to gather information related to the whole process – which includes capturing and monitoring the recording, transferring the data to the computer, playing the JP4 files and finally converting them to DNG sequences - the previous parts are can be retraced by putting together information that can be found at Apertus’ site or that is spread throughout Elphel’s Wiki. We can consider that, therefore, as a second step towards our objective.
+ &lt;br /&gt;&lt;br /&gt;This research first tests which format is best to be used as proxy. It takes into consideration that editors will need to do many test renders during editing and that a fine photographic adjustment of the images will be done only at the final stages (those proxies, then, must be easily replaceable), in which the workflow is divided between the photographer, the audio technician and the final retouches by the editor.
+ &lt;br /&gt;&lt;br /&gt;Finally, this page is currently also mantained at the &lt;a href=&quot;http://szaszak.wordpress.com/linux/&quot; target=&quot;_blank&quot;&gt;author&#039;s blog&lt;/a&gt;, where it should be translated to Portuguese.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;strong&gt;Index&lt;/strong&gt;
+	&lt;ol&gt;
+		&lt;li&gt;&lt;a href=&quot;#preparations&quot;&gt;Preparations for editing&lt;/a&gt;&lt;/li&gt; &lt;!--start list--&gt;
+			&lt;ol&gt;
+				&lt;li&gt;&lt;a href=&quot;#proxies&quot;&gt;Files to be used as proxies&lt;/a&gt;&lt;/li&gt; &lt;!--start sublist--&gt;
+				&lt;li&gt;&lt;a href=&quot;#test1&quot;&gt;Test 1&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#test2&quot;&gt;Test 2&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#disk_space&quot;&gt;Space in disk worries&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#rendering_proxies&quot;&gt;Rendering tests using the proxy files&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#test3&quot;&gt;Test 3&lt;/a&gt;&lt;/li&gt;
+			&lt;/ol&gt; &lt;!--end sublist--&gt;
+		&lt;li&gt;&lt;a href=&quot;#overall_conclusion&quot;&gt;Overall conclusion from the tests&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;#editing&quot;&gt;Editing&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;#post_production&quot;&gt;Post-production&lt;/a&gt;&lt;/li&gt;
+	&lt;/ol&gt; &lt;!--end list--&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;a href=&quot;http://szaszak.files.wordpress.com/2010/10/gpl_workflow.png&quot; target=&quot;_blank&quot;&gt;
+		&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/gpl_workflow.png?w=619&quot; alt=&quot;&quot; title=&quot;workflow&quot; width=&quot;619&quot; height=&quot;1024&quot; class=&quot;aligncenter size-large wp-image-865&quot; /&gt;
+	&lt;/a&gt;
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;
+	&lt;/h2&gt;&lt;p style=&quot;text-align:left;&quot;&gt;
+		&lt;span style=&quot;color:#ff9900;&quot;&gt;
+			&lt;a name=&quot;preparations&quot; id=&quot;preparations&quot;&gt; 
+			Preparations for editing
+			&lt;/a&gt;
+		&lt;/span&gt;
+	&lt;/p&gt;
+
+&lt;h3&gt;
+	&lt;/h3&gt;&lt;p style=&quot;text-align:left;&quot;&gt;
+		&lt;span style=&quot;color:#ff9900;&quot;&gt;
+			&lt;a name=&quot;proxies&quot; id=&quot;proxies&quot;&gt;
+			Files to be used as proxies
+			&lt;/a&gt;
+		&lt;/span&gt;
+	&lt;/p&gt;
+
+We could render the DNG files generated by &lt;a href=&quot;http://wiki.elphel.com/index.php?title=Movie2dng&quot; target=&quot;_blank&quot;&gt;movie2dng&lt;/a&gt; using &lt;a href=&quot;http://ufraw.sourceforge.net/&quot; target=&quot;_blank&quot;&gt;ufraw-batch&lt;/a&gt;. At this moment of the workflow, we are interested in generating proxies files - that is, light files that have three characteristics: they have to be able to used for editing; they have to present a good preview of the final video without compromising too much of the quality; and they have to register fast rendering times in our NLE (be it &lt;em&gt;Cinelerra&lt;/em&gt; or &lt;em&gt;Blender&lt;/em&gt;) so that we can do preview-renders of our edited video quickly and leave high CPU demands for post-editing.
+&lt;br /&gt;&lt;br /&gt;To achieve so, however, we have to test which type of file would best fit into all these requirements. Would the best format be TIF of JPG? For the test below, I used 4 sample DNGs generated by Elphel downloaded from Apertus Project&#039;s website. I copied them and pasted them into the same folder so that I would have 360 frames - or a good preview of what to expect from 15 seconds of a CIMAX recording (2592x1120) at 24fps. Note that the frames I used were even larger than the CIMAX format.
+&lt;br /&gt;
+&lt;h3&gt;
+	&lt;/h3&gt;&lt;p style=&quot;text-align:left;&quot;&gt;
+		&lt;span style=&quot;color:#ff9900;&quot;&gt;
+			&lt;a name=&quot;test1&quot; id=&quot;test1&quot;&gt;
+			Test 1
+			&lt;/a&gt;
+		&lt;/span&gt;
+	&lt;/p&gt;
+
+Process 360 DNG frames (occupying 3,4GB of disk space), or 15s of RAW video footage
+&lt;br /&gt;&lt;br /&gt;Command line used:
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;ufraw-batch --conf=apertus_teste.ufraw *.dng&lt;/code&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/table_test1.jpg&quot; title=&quot;table_test1&quot; width=&quot;600&quot; height=&quot;209&quot; /&gt;
+&lt;/p&gt;
+&lt;em&gt;Results:&lt;/em&gt; For what we can see from this first test, four formats have the potential to be used as proxies: &lt;em&gt;JPEG 50% PPG&lt;/em&gt;, &lt;em&gt;JPEG 50% Bilinear&lt;/em&gt;, &lt;em&gt;TIF Uncompressed Bilinear&lt;/em&gt; and &lt;em&gt;TIF Uncompressed PPG&lt;/em&gt;. The first two have the advantage of occupying very low disk space if compared to the third and fourth ones (44MB~ x 5,1GB). They can be a very interesting solution, especially for larger projects. But if we consider the workflow as a whole, the TIF formats should make out life easier at post-production. The problem with this test is that the command line above processes only one image at a time. With some research, I came across a very simple software called &lt;a href=&quot;http://www.gnu.org/software/parallel/&quot; target=&quot;_blank&quot;&gt;parallel&lt;/a&gt;, that can be easily compiled (don&#039;t use the pre-packaged versions, they are too old) and will help us to use all the cores of a multi-threaded processor, in my case, the Intel i7 860. Dividing the work between the cores of the processor dramatically reduced the time in my tests - generally, it took him half the time to complete the task; in some cases, it took him one third of the time.
+&lt;br /&gt;
+&lt;h3&gt;
+	&lt;/h3&gt;&lt;p style=&quot;text-align:left;&quot;&gt;
+		&lt;span style=&quot;color:#ff9900;&quot;&gt;
+			&lt;a name=&quot;test2&quot; id=&quot;test2&quot;&gt;
+			Test 2
+			&lt;/a&gt;
+		&lt;/span&gt;
+	&lt;/p&gt;
+
+Process 360 DNG frames (occupying 3,4GB of disk space), or 15s of RAW video footage - &lt;em&gt;using multi-threaded processing&lt;/em&gt;
+&lt;br /&gt;&lt;br /&gt;Command line used:
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;ls *.dng | parallel -j +0 ufraw-batch --conf=apertus02.ufraw --silent {}&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/table_test2.jpg&quot; title=&quot;table_test2&quot; width=&quot;600&quot; height=&quot;345&quot; /&gt;
+&lt;/p&gt;
+&lt;em&gt;Results:&lt;/em&gt; As it turns out, it seems that the best formats to be used as proxy are the &lt;em&gt;JPEG 50% Bilinear&lt;/em&gt; and the &lt;em&gt;JPEG 50% PPG&lt;/em&gt;. The observation about disk space occupied by both (see previous results) is still pertinent and reducing further the quality of the JPEGs (below 50%) may even fasten the overall conversion, but that must be tested in the timeline of the NLE, during a real editing project. The JPEG formats also benefited most from the multi-threaded task. 
+&lt;br /&gt;
+&lt;h3&gt;
+	&lt;/h3&gt;&lt;p style=&quot;text-align:left;&quot;&gt;
+		&lt;span style=&quot;color:#ff9900;&quot;&gt;
+			&lt;a name=&quot;disk_space&quot; id=&quot;disk_space&quot;&gt;
+			Space in disk worries
+			&lt;/a&gt;
+		&lt;/span&gt;
+	&lt;/p&gt;
+
+For the &lt;em&gt;TIF formats&lt;/em&gt;, we must consider the enormous amount of disk space occupied by them. The table below is just a rough preview. I take into consideration only the DNGs converted by movie2dng and their processed TIF counterparts, by ufraw-batch. You should have in mind that there are still the original Elphel&#039;s JP4 files, (many) Cinelerra preview renders you should make along the way, the temporary files you should use as the project goes through the whole process, original audio, audio for post-production and the final movie render.
+&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/disk_space.jpg&quot; title=&quot;disk_space&quot; width=&quot;600&quot; height=&quot;93&quot; /&gt;
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;h3&gt;
+	&lt;/h3&gt;&lt;p style=&quot;text-align:left;&quot;&gt;
+		&lt;span style=&quot;color:#ff9900;&quot;&gt;
+			&lt;a name=&quot;rendering_proxies&quot; id=&quot;rendering_proxies&quot;&gt; 
+			Rendering tests using the proxy files
+			&lt;/a&gt;
+		&lt;/span&gt;
+	&lt;/p&gt;
+
+It is now time to check how these image sequences will behave in our NLE. My initial intent is to use &lt;em&gt;Cinelerra&lt;/em&gt; as editor and &lt;em&gt;Blender&lt;/em&gt; for effects, such as titles or post-production. So I imported the files generated by the tests above into a timeline, using CIMAX standard as reference (2592x1120 at 24fps). Note that for this test, I use only the video stream, since it&#039;s too soon to preview which will be the best workflow for audio.
+&lt;br /&gt;
+&lt;h3&gt;
+	&lt;/h3&gt;&lt;p style=&quot;text-align:left;&quot;&gt;
+		&lt;span style=&quot;color:#ff9900;&quot;&gt;
+			&lt;a name=&quot;test3&quot; id=&quot;test3&quot;&gt;
+			Test 3
+			&lt;/a&gt;
+		&lt;/span&gt;
+	&lt;/p&gt;
+
+Render 360 frames, or 15s of 2592x1120 video footage at 24fps from Cinelerra&#039;s Timeline
+&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/table_test3.jpg&quot; title=&quot;table_test3&quot; width=&quot;600&quot; height=&quot;258&quot; /&gt;
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;em&gt;Results:&lt;/em&gt; The &lt;em&gt;JPEG 50% Bilinear&lt;/em&gt; and &lt;em&gt;JPEG 50% PPG&lt;/em&gt; are the fastest, both rendering at similar speeds. The difference in time when rendering these formats with the &lt;em&gt;JPEG Photo&lt;/em&gt; codec at 50% or 100% is almost irrelevant, but the space in disk occupied by them should weight in favour of JPEG Photo at 50%&#039;s side. It is worthy noticing the behaviour of JPEG brought to Cinelerra using AHD. It takes about 4x to render when compared to its cousins - if rendered with JPEG Photo at 100%, it also takes way more space in disk. Working with TIF here serves for us to have an idea of the necessary time to render the &lt;em&gt;final&lt;/em&gt; version of the video, that should be brought here using &lt;em&gt;TIF Uncompressed AHD&lt;/em&gt; and rendered either as a TIF Uncompressed Sequence (to be encoded by MEncoder for standard outputs) or as JPEG Photo at 100% with PCM audio in a MOV container.
+&lt;br /&gt;
+&lt;h3&gt;
+	&lt;/h3&gt;&lt;p style=&quot;text-align:left;&quot;&gt;
+		&lt;span style=&quot;color:#ff9900;&quot;&gt;
+			&lt;a name=&quot;overall_conclusion&quot; id=&quot;overall_conclusion&quot;&gt;
+			Overall conclusion from the tests
+			&lt;/a&gt;
+		&lt;/span&gt;
+	&lt;/p&gt;
+
+There are two main conclusions to be drawn from these tests. The first one is that the &lt;em&gt;JPEG 50% Bilinear&lt;/em&gt; and &lt;em&gt;JPEG 50% PPG&lt;/em&gt; are the best ones to be used as proxies. They are the fastest to be processed, both during ufraw&#039;s batch conversion and cinelerra&#039;s render: they take 7x real-time to be processed at the first step and only 2x real-time at the second one. They also occupy minimum space in disk, and can be easily previewed by MPlayer at anytime during the workflow. 
+&lt;br /&gt;&lt;br /&gt;But there is a major drawback in using the JPEG formats. If we combine them with img2list, we&#039;ll have a hard time replacing the JPEGs at Cinelerra&#039;s timeline with the final TIFs due to how img2list and Cinelerra work together (Cinelerra&#039;s XML don&#039;t point to the images, but to img2list&#039;s generated list, which can&#039;t be changed without harming Cinelerra&#039;s interpretation of it). That should leave you two options. You can invert the workflow and do the photographic treatment before editing. That can be done for some movies; for others, it will be unthinkable. Or, more reasonably, you could replace the JPEG image blocks manually in Cinelerra&#039;s timeline for the TIF ones. That can be less work than it seems, but you&#039;d have to have the very final cut of the movie at the moment of replacement, since further editing - even a minor tweak - will become quite hard. In other words, you&#039;d be fronzen there.
+&lt;br /&gt;&lt;br /&gt;The second conclusion is that, even though the &lt;em&gt;TIF Uncompressed PPG&lt;/em&gt; and the &lt;em&gt;TIF Uncompressed Bilinear&lt;/em&gt; will occupy way more space than the JPEGs and will take longer to be processed both at ufraw&#039;s batch and cinelerra&#039;s render phases, they may have advantages if you consider the workflow as a whole. Firstly, they will take 12x real-time at the first step and 7x real-time at render, should you combine them with JPEG Photo 50% for render previews. That is slow. However, that might be compensated at post-production. When you do the photographic treatment in UFRaw and generate new TIFs, you&#039;ll be able to simpy replace the TIFs you had used for the new ones in the folder. Cinelerra will read the alterings just fine, even though its XML points to the img2list&#039;s lists. The lists, in their turn, are already pointing to TIF files (this won&#039;t work for JPEG, though. You won&#039;t be able to use, for example, JPEG at 100% and replace the JPEG proxies at the folder - Cinelerra will break if you do that).
+&lt;br /&gt;&lt;br /&gt;This means that you will still have your image sequences behaving like movie blocks at the timeline, which is crucial. In case you must change that single frame that went unnoticed or change the duration or order of anything, that should be quite smooth and effortless. You will also lose MPlayer&#039;s ability of previewing a sequence of images as a file, which can be vey handy - but since the TIFs can be replaced at the folder and instantly read by Cinelerra, you might be able to check them directly at the timeline.
+&lt;br /&gt;&lt;br /&gt;In both cases, though, you will have to be very organized with your files and UFRaw&#039;s configuration files. Which way is best? Consider your project; consider the gear you have and judge for yourself.
+&lt;br /&gt;
+&lt;h2&gt;
+	&lt;/h2&gt;&lt;p style=&quot;text-align:left;&quot;&gt;
+		&lt;span style=&quot;color:#ff9900;&quot;&gt;
+			&lt;a name=&quot;editing&quot; id=&quot;editing&quot;&gt;
+			Editing
+			&lt;/a&gt;
+		&lt;/span&gt;
+	&lt;/p&gt;
+
+To edit the image sequences, we should use a tool called &lt;a href=&quot;http://www.malefico3d.org/blog-en/?page_id=224&quot; target=&quot;_blank&quot;&gt;img2list&lt;/a&gt;, developed by Claudio &#039;Malefico&#039;. If we simply import these frames into Cinelerra, they will be treated as single images by the software. Well, that&#039;s what they actually are, but img2list will help Cinelerra read the frames as a &#039;sequence of images&#039; (that is, a movie), which is exactly what we want to do. Now, they will behave exactly as movie blocks in the timeline. You will be able to split them, to stretch or shrink them exactly as if they were, for example, a DV file. As an aditional comment, img2list will work only if the image sequence is named in a certain pattern, which happens to be compatible with the pattern used by movie2dng.
+&lt;br /&gt;&lt;br /&gt;Editing in Cinelerra is quite well known and &lt;a href=&quot;http://cinelerra.org/docs.php&quot; target=&quot;_blank&quot;&gt;very well documented&lt;/a&gt;, so I will skip the introductory steps here. Rendering the video in Cinelerra to preview the final result should take into consideration the tests presented above, so you should probably want to render the video in a MOV container, using &lt;em&gt;JPEG Photo&lt;/em&gt; at 50% or 100% as codec settings.
+&lt;br /&gt;
+&lt;h2&gt;
+	&lt;/h2&gt;&lt;p style=&quot;text-align:left;&quot;&gt;
+		&lt;span style=&quot;color:#ff9900;&quot;&gt;
+			&lt;a name=&quot;post_production&quot; id=&quot;post_production&quot;&gt;
+			Post-production
+			&lt;/a&gt;
+		&lt;/span&gt;
+	&lt;/p&gt;
+
+Image treatment should be done using the original DNG files, for the simple reason that they are RAW. Both &lt;em&gt;Cinelerra&lt;/em&gt; and &lt;em&gt;Blender&lt;/em&gt; are able to open DNG files from cameras, such as Pentax&#039;s DNGs. But it seems that only Cinelerra will open Elphel&#039;s converted DNGs without having to recompile the software. To work with DNGs in Cinelerra will be extremely time consuming, though. Minor tweaks in colour or slightly altering contrast will take an enormously long time to be previewed, transforming a delicate process into nightmarish hell (that&#039;s the main reason why we transformed the original DNG into JPEG proxies in the first place).
+&lt;br /&gt;&lt;br /&gt;A reasonable option would be to make Blender read Elphel&#039;s DNG-converted files and use its &lt;a href=&quot;http://blenderunderground.com/2008/03/31/introduction-to-composite-nodes-part-1/&quot; target=&quot;_blank&quot;&gt;compositing nodes tool&lt;/a&gt; to do the colour correction. That has yet to be tested. Also, we would have to establish a communication between Cinelerra&#039;s EDL (a XML file) and Blender, so that we could import our EDL in Blender.
+&lt;br /&gt;&lt;br /&gt;&lt;em&gt;UFRaw&lt;/em&gt;, however, has the right tools and immediate preview. Its main problem is that it lacks the time-lapse factor (that is, you can only view a single, still, frame). That can arranged in terms, using &lt;em&gt;MPlayer&lt;/em&gt; to preview the processed sequence (see below), but it should present difficulties in scenes that have moving cameras or strong changes in contrast. The following will consider a workflow using UFRaw.
+&lt;br /&gt;&lt;br /&gt;First of all, we need to know which DNG files we&#039;ll be working with. It would make no sense to go through DNGs that belong to recorded sequences we didn&#039;t use in the final editing cut. The information we need is inside Cinelerra&#039;s EDL, which is a XML file. By going through this file, you can know precisely which frames have to go through post-production. An example of the section we need inside Cinelerra&#039;s XML is (click on image to enlarge):
+&lt;br /&gt;&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;a href=&quot;http://szaszak.files.wordpress.com/2010/10/cinelerra_xml.png&quot; target=&quot;_blank&quot;&gt;
+		&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/cinelerra_xml.png?w=1024&quot; alt=&quot;&quot; title=&quot;cinelerra_xml&quot; width=&quot;450&quot; height=&quot;63&quot; class=&quot;aligncenter size-small wp-image-840&quot; /&gt;
+	&lt;/a&gt;
+&lt;/p&gt;
+&lt;br /&gt;&lt;br /&gt;This excerpt show two very small blocks of video in a single track, called &quot;Video 1&quot;. The first one uses 7 frames, there is a 3-frames space between the blocks and then there is a 6-frames video block. Visually, it would look like this in your timeline:
+&lt;br /&gt;&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/cinelerra_timeline_img2list.jpg&quot; alt=&quot;&quot; title=&quot;cinelerra_timeline_img2list&quot; width=&quot;500&quot; height=&quot;145&quot; class=&quot;aligncenter size-full wp-image-841&quot; /&gt;
+&lt;/p&gt;
+&lt;br /&gt;&lt;br /&gt;Now we must translate that information into human-readable terms. It must be simple to understand. We can &lt;em&gt;make a script&lt;/em&gt; using the long command line below. For file &quot;cinelerra.xml&quot; as input, it will give us a file called &quot;List_of_DNGs_for_post_production.txt&quot;, which is a text file you can print or read in the computer, the way you feel more comfortable with. The line:
+&lt;br /&gt;&lt;br /&gt;
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;grep &quot;EDIT STARTSOURCE=&quot; cinelerra_outra_pasta.xml | cut -d&quot;&amp;gt;&quot; -f1,2 | cut -d&quot;=&quot; -f1,2,4,5 &amp;gt; temp_readableXML.txt &amp;amp;&amp;amp; sed -ie &#039;s/&amp;lt;EDIT STARTSOURCE=&quot;/- frames /g&#039; temp_readableXML.txt &amp;amp;&amp;amp; sed -ie &#039;s/&quot; CHANNEL=&quot;/ to /g&#039; temp_readableXML.txt &amp;amp;&amp;amp; sed -ie &#039;s/&quot;&amp;gt;&amp;lt;FILE SRC=/ File: /g&#039; temp_readableXML.txt &amp;amp;&amp;amp; grep File temp_readableXML.txt &amp;gt; temp_readableXML2.txt &amp;amp;&amp;amp; gawk &#039;{ $8 = $5 + $3; $9 = $3+1 ;print $6,$7,$1,$2,$9,$4,$8 }&#039; temp_readableXML2.txt &amp;gt; List_of_DNGs_for_post_production.txt &amp;amp;&amp;amp; rm temp_readableXML*.txt temp_readableXML.txte&lt;/code&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;&lt;br /&gt;Will give us this more reassuring output in the text file:
+&lt;br /&gt;&lt;br /&gt;
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;File: &quot;/home/livre/Desktop/testes_e_exemplos_elphel/dngs/img2list/lista&quot; - frames 1 to 7&lt;br /&gt;
+			File: &quot;/home/livre/Desktop/testes_e_exemplos_elphel/dngs/img2list/lista&quot; - frames 8 to 13&lt;/code&gt;&lt;br /&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;Now it is clear which DNGs we should use. In this case, I&#039;d just go through my file &quot;lista&quot; (which is a img2list file I had created previously for editing) and see which DNGs I&#039;ll have to reprocess in &lt;em&gt;UFRaw&lt;/em&gt; and &lt;em&gt;ufraw-batch&lt;/em&gt;. The easiest way to do that would be to copy those files to a temporary folder, treat them and check them out directly at Cinelerra&#039;s timeline or with MPlayer:
+&lt;br /&gt;&lt;br /&gt;Command line used:
+&lt;br /&gt;&lt;br /&gt;
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;mplayer &quot;mf://*.jpg&quot; -mf fps=24:type=jpg -fs -vf dsize=2592:1120&lt;/code&gt;&lt;br /&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;When you&#039;re satisfied with the results, copy the resulting files (probably &lt;em&gt;Uncompressed AHD TIFs&lt;/em&gt;) and paste them into the original DNG&#039;s folder. If you have used Uncompressed TIFs as proxies, you will be prompted to replace the TIFs in that folder. Do it, replace them. And you&#039;re done. 
+&lt;br /&gt;&lt;br /&gt;Now, when you open your Cinelerra project again (that cinelerra.xml file, in our example), the program will read your new TIFs instead of the old ones and you&#039;re ready to mix the other final sources (audio and lettering) for a final render.
+&lt;br /&gt;&lt;br /&gt;Lettering and other effects should be done in Blender. Depending on Blender&#039;s behaviour, we can use proxies to do it and export the result using an alpha channel, so that it can be brought into Cinelerra&#039;s timeline for the final render. In case Blender is able to read our original files, we can do the final render inside it. In both scenarios, a Render Farm can be built to help the CPU efforts.
+&lt;br /&gt;
+&lt;h3&gt;
+	&lt;/h3&gt;&lt;p style=&quot;text-align:left;&quot;&gt;
+		&lt;span style=&quot;color:#ff9900;&quot;&gt;
+		&lt;strong&gt;Research continues...&lt;/strong&gt;
+		&lt;/span&gt;
+	&lt;/p&gt;
+
+	&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 29 Dec 2011 18:32:16 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">81 at </guid>
+  </item>
+  <item>
+    <title>Lenses and Lens Mounts</title>
+    <link>/node/72</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;notice&quot;&gt;Please note that the following information applies only to the Elphel 10338 Sensor Front End and not to &lt;i&gt;Apertus Prime&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;Elphel 353 cameras have a C/CS mount which is basically just a female thread (nominally 1 inch/25 mm in diameter, with 32 threads per inch). The flange focal distance is 0.6900 in/17.526 mm for a C-mount.&lt;/p&gt;
+&lt;p&gt;C-Mount (The letter &quot;C&quot; is said to stand for &quot;cine&quot;) is common for 16mm lenses as well as machine vision, automation and specialised television applications. Which has lead to a very wide range of lenses to choose from: &lt;a href=&quot;http://us.c-mount.passion.pro/&quot;&gt;List of almost 300 C/CS-mount lenses with sample images&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/C_mount_lens_Pentax_12mm_f1.2.jpg&quot; width=&quot;570px&quot; /&gt;&lt;br /&gt;
+Image from &lt;a href=&quot;http://en.wikipedia.org/wiki/File:C_mount_lens_Pentax_12mm_f1.2.jpg&quot;&gt;wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;CS-Mount&lt;/h2&gt;
+&lt;p&gt;CS-mount has a flange focal distance of 0.4931 in/12.526 mm and is otherwise identical to the C-mount. Elphel 353 cameras have a CS-mount by default and a spacer ring (that ships with every Elphel kit) can be used to connect all C-mount lenses to the camera as well.&lt;/p&gt;
+&lt;h2&gt;Field of View&lt;/h2&gt;
+&lt;p&gt;The following illustration shows the viewing angle with the 1/2.5&quot; 5 Megapixel image sensor for a set of different focal lengths at Full HD resolution (with approximate 35mm equivalents &amp;amp; Horizontal FOV).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/sites/default/files/Elphel353_LensAngles.png&quot;&gt;&lt;img width=&quot;570&quot; src=&quot;/sites/default/files/Elphel353_LensAngles.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The following illustrations show a person standing 1 meter from the lens at different focal lengths&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M1_3.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 1.3mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M1_7.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 1.7mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M3.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 3mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M5.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 5mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M8.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 8mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M12_5.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 12.5mm | Subject Distance: 1m&lt;/p&gt;
+&lt;h2&gt;SLR lenses&lt;/h2&gt;
+&lt;p&gt;Because of the rather small sensor area (1/2.5&quot;) compared to 35mm film in current Elphel 353 cameras the crop factor for using lenses that were designed for SLR cameras is rather high (~6x) which makes these lenses currently unfit for our applications. Future bigger sensor front ends might change this situation with Elphel 373 (see &lt;a href=&quot;/roadmap&quot;&gt;Roadmap&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;Optical design for certain sensor area&lt;/h2&gt;
+&lt;p&gt;The mount name alone does not specify if a particular lens is able to cover a certain sensor area. So this technical specifications of a lens needs some extra attention. Typical optical designs are (1/4&quot;, 1/3&quot;, 1/2&quot;, 1/2.5&quot; (Elphel 353), 2/3&quot;, 1&quot;, 4/3&quot;, APS-C, etc.). If your lens is designed for a smaller sensor than the size of the sensor you are using it is possible that the image circle will not be able to cover the whole sensor area leading to vignetting or in extreme cases even complete darkness on the outer sensor regions. In general the quality of a lens (sharpness, amount of distortion, aberration, etc.) degrades with the distance from the image centre, so it is in general better to use only the inner regions of the image circle for the sensor area. Most lenses already account for this and cover a bigger area than the sensor size they are designed for. The opposite case is that the lens is made for a bigger image circle than the dimensions of your sensor, normally this is less of a problem but in extreme cases it could result in stray light which is reflected by parts of the lens mount or sensor PCB reaching the sensor.&lt;/p&gt;
+&lt;h2&gt;B4 Lenses&lt;/h2&gt;
+&lt;p&gt;Lenses designed for 3-chip-cameras like Canon or Fujinon (B4-Mount) broadcast optics have a higher flange focal distance because the light has to pass a prism before hitting the 3 sensors and a so called &quot;lateral &lt;a href=&quot;http://en.wikipedia.org/wiki/Dispersion_%28optics%29&quot;&gt;dispersion&lt;/a&gt;&quot; (to offset colour separation caused by &lt;a href=&quot;http://en.wikipedia.org/wiki/Dichroic_filter&quot;&gt;dichroic&lt;/a&gt; prisms). This makes them incompatible with any single sensor camera. Though there are adapters (rather expensive, several thousand $) available that correct the colour convergence of broadcast lenses to work with single-chip designs.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 16 Dec 2011 15:06:31 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">72 at </guid>
+  </item>
+  <item>
+    <title>Power Consumption and Battery Power Supply</title>
+    <link>/node/76</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Power Consumption&lt;/h2&gt;
+
+&lt;p&gt;Elphel offers the modified Elphel 353 camera that works with 12-36V DC for additional 50$. This modification is the key to enable mobile operation. The best efficiency range is said to be at around 15V.
+
+Typical Elphel camera power consumption:
+2400 milliwatts	just booted
+3000 milliwatts	after setting image parameters
+3700 milliwatts	streamer on
+3300 milliwatts	streamer off
+3800 milliwatts	streamer on and somebody playing the stream
+5000 milliwatts	with streamer on and HD writing at full speed (dd)
+5800 milliwatts	streamer on, HD and USB-flash writing at full speed&lt;/p&gt;
+
+&lt;p&gt;If you are using an external HDD/SSD with the camera you have to provide power to this device as well. The best solution we have found so far is using an external 2.5&quot; HDD enclosure with USB and eSATA. You can provide 5V power through USB and connect it to the camera with an eSATA to SATA adapter cable.&lt;/p&gt;
+&lt;p&gt;From our experience &quot;general notebook backup-power batteries&quot; also called &quot;	 External Power Pack for Notebooks&quot; work very reliable in the Apertus set-up&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;h2&gt;Tested batteries&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.digipowersolutions.com/store/product_info.php/cPath/3/products_id/676?osCsid=d3af7ec4964ee2c9d3929b7124103a4d&quot; target=&quot;_blank&quot;&gt;Digipower EBP-NB44&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Technical Specs:&lt;/b&gt;
+11.1V, 4400mAh, 48.8Wh
+provides: 5V (USB connector), 16V, 19V 
+It has remaining capacity status LEDs, power on/off button and can be charged while being used.
+Price: ~100$&lt;/p&gt;
+&lt;p&gt;When testing this battery pack we noticed a problem between the over-current (and maybe other protection circuits) detection of the Elphel camera and the Digipower battery pack which resulted in power being constantly cut and re-enabled at 16V. It worked flawlessly at 19V though.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.energizerpowerpacks.com/us/products/index.html#externalbatteries&quot; target=&quot;_blank&quot;&gt;Energizer XP8000 and XP18000&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Technical Specs:&lt;/b&gt;
+XP8000 has a listed capacity of 8000mAh and the XP18000 of 18000 mAh (they fail to tell us at which Voltage though so we can&#039;t calculate Wh)
+both provide 5V (USB) 1000 mA, 10.5V 2000mA, 19V 2000mA
+Both have remaining capacity status LEDs, power on/off button, we did not try charging them while using them.
+Price: XP8000 ~80$, XP18000 ~140$&lt;/p&gt;
+&lt;p&gt;We used the XP18000 one in the south Utah desert with an Elphel 353 and Intel SSD and had no bad experience with it. At the end of the day the battery was still 3 out of 4 status leds full.&lt;/p&gt;
+&lt;h2&gt;Tests with LiPo battery&lt;/h2&gt;
+&lt;p&gt;We did some tests with batteries actually meant to be used in RC-planes or -helicopters. LiPo batteries have the highest energy-density that is currently available, meaning for the same amount of power you need the least weight which is definitely desirable since the rest of the Apertus rig is extremely lightweight (e.g. camera: 230g). Though these batteries are also the most expensive ones and need some extra precaution as they posses the ability to light themselves on fire if not being handled properly.2000mAh LiPo using a &lt;a href=&quot;http://www.himodel.com/electric/LiPo_Saver_9V_for_3_cell_LiPo_Battery.html&quot; target=&quot;_blank&quot;&gt;Lipo saver LED&lt;/a&gt; (to avoid discharging the battery to below critical 9V)&lt;/p&gt;
+
+ br&amp;gt;
+&lt;img src=&quot;http://img13.imageshack.us/img13/7035/lipoenclosure.jpg&quot; width=&quot;500&quot; /&gt;
+ br&amp;gt;
+
+&lt;p&gt;In our tests everything went smoothly though, batteries powered Apertus flawlessly and there were no sudden combustions ;-)&lt;/p&gt;
+&lt;h2&gt;Additional External Links:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.antonbauer.com/HowToChoose&quot;&gt;How to choose your battery&lt;/a&gt; (reference for the power consumption of different cameras and manufacturers. &lt;em&gt;Sony PD 170: 8 Watts Red One: 75 Watts&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.antonbauer.com/downloads/2008Handbook.pdf&quot; target=&quot;_blank&quot;&gt;http://www.antonbauer.com/downloads/2008Handbook.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hy-research.com/Li_power.html&quot; target=&quot;_blank&quot;&gt;HY Research - Simple Li battery power supply&lt;/a&gt; (project of building a small Lithium Ion battery pack) &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a title=&quot;http://wiki.elphel.com/index.php?title=Talk:Modifying_the_camera_for_12-36v_mobile_applications&amp;amp;rcid=5266&quot; href=&quot;http://wiki.elphel.com/index.php?title=Talk:Modifying_the_camera_for_12-36v_mobile_applications&amp;amp;rcid=5266&quot;&gt;http://wiki.elphel.com/index.php?title=Talk:Modifying_the_camera_for_12-...&lt;/a&gt; (Some more infos at elphel)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;br /&gt; Notes/suggestions:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Its important to have a proper mount system for the battery pack that allows battery changing without screwing and plugin in multiple connectors. Examples are the Sony V-Mount for their professional cameras or the Anton Bauer mount.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Battery Pack&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 16 Dec 2011 23:47:26 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">76 at </guid>
+  </item>
+  <item>
+    <title>Rod Supports</title>
+    <link>/node/74</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img src=&quot;http://img514.imageshack.us/img514/6831/apertusc402g.jpg&quot; alt=&quot;Apertus universal rods support system&quot; width=&quot;640&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The idea is to make a universal rod support that could mount:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Elphel camera&lt;/li&gt;
+&lt;li&gt;Any type of small PC (viewfinder)&lt;/li&gt;
+&lt;li&gt;battery pack&lt;/li&gt;
+&lt;li&gt;Recording Media (External 2.5&quot; HDD Enclosure)&lt;/li&gt;
+&lt;li&gt;Audio interface + microphone&lt;/li&gt;
+&lt;li&gt;Matte box&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is also important that the system is prepared for future hardware changes (like a bigger lens-mount or sensor-front-end)&lt;/p&gt;
+&lt;p&gt;The following examples are designs by Elphel users/developers:&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;float: left;&quot; src=&quot;http://img514.imageshack.us/img514/1637/conceptrods4.jpg&quot; alt=&quot;&quot; width=&quot;670&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://img89.imageshack.us/img89/5140/concept45degv2b.jpg&quot; alt=&quot;&quot; width=&quot;289&quot; height=&quot;218&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;This design by Oscar Spierenburg puts the camera body in a 45° to save space for the PC. The tablet PC (touchscreen) is placed upright (Portrait) position and can be re-postitioned. (Note: this is not a shoulder mount setup, the middle part is the tripod/steadycam mount.)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://img522.imageshack.us/img522/1258/45degelphelprototype.jpg&quot; alt=&quot;&quot; width=&quot;389&quot; height=&quot;260&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Prototype for the 45deg camera:&lt;br /&gt;
+Part# &lt;a href=&quot;http://wiki.elphel.com/index.php?title=Elphel_camera_parts#0353-12-11_-_Elbow_45_deg._for_the_sensor_front_end&quot; target=&quot;_blank&quot;&gt;&quot;0353-12-11 - Elbow 45 deg. for the sensor front end&quot;&lt;/a&gt; provided by Elphel&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/sites/default/files/Rig_Concept_01.jpg&quot;&gt;&lt;img src=&quot;/sites/default/files/Rig_Concept_01.jpg&quot; alt=&quot;&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;br /&gt;Another early concept with lots of room for improvement (The Dictator was born later so the &quot;Control Panels&quot; look a little rough in this concept)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 16 Dec 2011 23:07:57 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">74 at </guid>
+  </item>
+  <item>
+    <title>Sponsored Hardware</title>
+    <link>/node/19</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(51, 102, 255);&quot;&gt;&lt;strike&gt;code.&lt;/strike&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 102, 255);&quot;&gt;&lt;strike&gt;&lt;br /&gt;&lt;/strike&gt;&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(51, 102, 255);&quot;&gt;&lt;strike&gt;share,&lt;/strike&gt;&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(51, 102, 255);&quot;&gt;&lt;strike&gt;design.&lt;/strike&gt;&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(51, 102, 255);&quot;&gt;&lt;strike&gt;engineer.&lt;br /&gt;&lt;br /&gt;&lt;/strike&gt;participate&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 102, 255);&quot;&gt;!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;h2&gt;Community&lt;/h2&gt;&lt;p&gt;Because of the additional entrance barrier of developers requiring certain hardware the Apertus community is growing rather slowly. Traditional open-source software projects do not have this issue as downloading source code and getting it up and running is not bound to any additional cost for the developer. We are now trying to put extra effort into raising funding to sponsor more developers with free Elphel camera hardware. Though there are also parts of the project which focus on software only (eg. the &lt;a href=&quot;/dng-converter&quot;&gt;DNG converter&lt;/a&gt;)&lt;/p&gt;&lt;h2&gt;Elphel Developer Camera Pool&lt;/h2&gt;&lt;p&gt;In 2011 Elphel Inc. and Apertus formed a partnership to maintain a pool of sponsored cameras for developers. Elphel Inc. will initially donate 2 camera kits to the pool. Apertus will deal with developer applications, project selection and all communication related to the donated cameras. To get the most out of the cameras they are not given to a particular developer for an infinite amount of time but only for the duration of his/her project to after project completion be  forwarded to the next developer/project in line.&lt;/p&gt;&lt;p&gt;Camera 1 (NC353L-369) - Current Project: pending&lt;/p&gt;&lt;p&gt;Camera 2 (NC353L-369) - Current Project: pending&lt;/p&gt;&lt;h2&gt;Project Application&lt;/h2&gt;&lt;p&gt;We love to hear your innovative ideas, artistic projects, new planned developments or plans for conducting research. Your project does not necessarily have to be related to Apertus.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Read the &lt;a href=&quot;/developer-agreement&quot;&gt;Elphel Developer Agreement&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Create a new page on the &lt;a href=&quot;http://wiki.elphel.com&quot;&gt;Elphel wiki&lt;/a&gt; describing your project, then create a link to this project page in the &quot;Projects looking for Sponsoring&quot; section of the &lt;a href=&quot;http://wiki.elphel.com/index.php?title=UserProjects&quot;&gt;User Projects list&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;Apply with this &lt;a href=&quot;/application-form&quot;&gt;application form&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;We   will then carefully consider your application and let you know if we   have any additional questions. We will try to let you know if we accept   or decline your application within 2 weeks. We do not have that much   equipment so we might also ask if you would be willing to start your   project at a later time in the future when we are scheduled to receive a   camera back from a different sponsored project. If your project is accepted you are asked to return a signed copy of the &lt;a href=&quot;/developer-agreement&quot;&gt;developer agreement&lt;/a&gt; before you receive the hardware.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 27 Sep 2011 20:45:31 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">19 at </guid>
+  </item>
+  <item>
+    <title>Task Management</title>
+    <link>/node/30</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;
+Certain tasks in the Apertus project have a feature bounty associated with them - in general tasks that many people want to have so they put their money together into a pot and wait for someone to pick up the task. The first contributor who achieves the goals described in the task specifications is awarded with the feature bounty.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;?
+echo views_embed_view(&quot;task_list&quot;);
+?&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;developer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Oct 2011 10:55:45 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">30 at </guid>
+  </item>
+  </channel>
+</rss>

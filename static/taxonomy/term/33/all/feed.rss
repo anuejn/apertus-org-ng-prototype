@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="/taxonomy/term/33/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Beta Stage</title>
+    <link>/taxonomy/term/33/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="/taxonomy/term/33/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Stereo 3D</title>
+    <link>/en/stereo3d</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/project/S3D_Rig03.jpg&quot; title=&quot;Stereo 3D&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-38-afbAz4tSwN8&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/project/S3D_Rig03.jpg?itok=UUnVo5DQ&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;article class=&quot;node-186 node node-page en clearfix&quot; about=&quot;/node/186&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;alert alert-info&quot;&gt;Notice: This page is about the &lt;a href=&quot;http://www3.elphel.com/nc353&quot; target=&quot;_blank&quot;&gt;Elphel®  Model 353 camera&lt;/a&gt; NOT about &lt;a href=&quot;/axiom&quot;&gt;apertus° Axiom&lt;/a&gt;! Elphel® is a registered trademark of &lt;a href=&quot;http://www3.elphel.com/&quot; target=&quot;_blank&quot;&gt;Elphel, Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+
+&lt;p&gt;The small form factor of the Elphel 353 cameras make them very versatile for shooting 3D. In a side-by-side configuration, a minimum inter-axial distance of approx. 45mm can be achived. The small cameras would also be well suited to an on-the-shoulder beam splitter rig.&lt;/p&gt;
+&lt;h2&gt;Sync&lt;/h2&gt;
+&lt;p&gt;&lt;iframe width=&quot;870&quot; height=&quot;490&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/31366732?color=CDE8D5&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Shooting Apertus S3D footage is possible by synchronizing the sensors read out phase on the two cameras (to do this, the&lt;a href=&quot;http://wiki.elphel.com/index.php?title=10369&quot; target=&quot;_blank&quot;&gt;10369 board&lt;/a&gt; is required on both cameras). There is one master camera that generates the trigger impulses and therefore defines the recording frame-rate. A connector on the side of the camera is used as SYNC interface. You connect the slave cameras and the master cameras sync port with a cable and in software you make sure that the master camera outputs the sync impulses and the slave camera waits for them to start frame read out.&lt;br /&gt;
+The sync impulse is sent for EVERY single frame.&lt;br /&gt;
+This  way the start time of the frame read out from the CMOS sensor is kept 100% in sync between all cameras (you can also have multiple slave  cameras) at all times.&lt;/p&gt;
+&lt;p&gt;Syncing of camera parameters like whitebalance, exposure time, etc is handled by the viewfinder software &lt;a href=&quot;/elphelvision&quot;&gt;ElphelVision&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Nathan &amp;amp; Winnie&#039;s Apertus3D Rig&lt;/h2&gt;
+&lt;p&gt;Side-by-side + shooting parallel (rather than toe-in)&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&quot;s3drig&quot; class=&quot;colorbox colorbox-insert-image&quot; href=&quot;/sites/default/files/S3D_Rig01.jpg&quot;&gt;
+&lt;img width=&quot;100%&quot; src=&quot;/sites/default/files/S3D_Rig01.jpg&quot; alt=&quot;Nathan &amp;amp; Winnie&#039;s Apertus Stereo 3D Rig&quot; title=&quot;Nathan &amp;amp; Winnie&#039;sApertus Stereo 3D Rig&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;br /&gt; 
+&lt;a rel=&quot;s3drig&quot; class=&quot;colorbox colorbox-insert-image&quot; href=&quot;/sites/default/files/S3D_Rig02.jpg&quot;&gt;
+&lt;img width=&quot;100%&quot; src=&quot;/sites/default/files/S3D_Rig02.jpg&quot; alt=&quot;Nathan &amp;amp; Winnie&#039;s Apertus Stereo 3D Rig&quot; title=&quot;Nathan &amp;amp; Winnie&#039;sApertus Stereo 3D Rig&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;br /&gt;
+&lt;a rel=&quot;s3drig&quot; class=&quot;colorbox colorbox-insert-image&quot; href=&quot;/sites/default/files/S3D_Rig03.jpg&quot;&gt;&lt;img width=&quot;100%&quot; src=&quot;/sites/default/files/S3D_Rig03.jpg&quot; alt=&quot;Nathan &amp;amp; Winnie&#039;s Apertus Stereo 3D Rig&quot; title=&quot;Nathan &amp;amp; Winnie&#039;s Apertus Stereo 3D Rig&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Software&lt;/h2&gt;
+&lt;h3&gt;StereoCamCheck&lt;/h3&gt;
+&lt;p&gt;A special software is being developed that can display two real time video stream in different viewing modes like side-by-side, anaglyph overlay. Real-time debayering on the GPU of two JP4 RAW video streams has also been implemented.&lt;/p&gt;
+&lt;h3&gt;ElphelVision&lt;/h3&gt;
+&lt;p&gt;Even though the sensors  are synchronized, a  further challenge was synchronizing the record start time for both the left and right clips. To achieve this ElphelVision is setting a record delay time therefore tells the cameras to start recording at a specific time, several seconds into the future (based off the master camera&#039;s time-code). This way, the first frame of both the left and right clip are temporally aligned.&lt;/p&gt;
+&lt;p&gt;Clips  are recorded to each camera&#039;s own hard drive and are placed in a timecode stamped folder, unique to each clip. ElphelVision provides the ability to append a custom name to these clip folders, so footage from the left and right cameras can be named appropriately and  automatically.&lt;/p&gt;
+&lt;p&gt;It is possible to switch between viewing each video stream within the main GUI or to disable the live stream altogether (useful for using  additional preview software, such as StereoCamCheck)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Related Project(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/elphelcamera&quot;&gt;Elphel Camera&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Oct 2011 19:02:02 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">38 at </guid>
+  </item>
+  </channel>
+</rss>

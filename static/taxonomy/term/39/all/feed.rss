@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="/taxonomy/term/39/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Hardware</title>
+    <link>/taxonomy/term/39/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="/taxonomy/term/39/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Audio Recording</title>
+    <link>/en/audio</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/project/usb-audio.jpg&quot; title=&quot;Audio Recording&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-23-zlccxfiVTfU&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/project/usb-audio.jpg?itok=AB5o7bXR&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;article class=&quot;node-186 node node-page en clearfix&quot; about=&quot;/node/186&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;alert alert-info&quot;&gt;Notice: This page is about the &lt;a href=&quot;http://www3.elphel.com/nc353&quot; target=&quot;_blank&quot;&gt;Elphel®  Model 353 camera&lt;/a&gt; NOT about &lt;a href=&quot;/axiom&quot;&gt;apertus° Axiom&lt;/a&gt;! Elphel® is a registered trademark of &lt;a href=&quot;http://www3.elphel.com/&quot; target=&quot;_blank&quot;&gt;Elphel, Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+
+&lt;p&gt;In the Elphel camera recording audio in sync with video is done by using Linux-compatible (since most USB devices do not require additional drivers they just need to be plugged in and are ready to go - so far all devices we tried worked out of the box) USB audio devices. These are widely available and range from simple thumb sticks with two 3.5mm jacks to multi channel recording devices with phantom powered XLR jacks.&lt;/p&gt;
+
+&lt;p&gt;Please note that the USB connector on the Elphel 353 cameras is USB 1.1 and therefore has a max. data throughput of 12 Mbit/s (~1.43 MB/s) and a maximum cable length of 3 meters (9.8 ft). If you think this data-rate is too low consider that an audio-CD (44100 Hz × 16 bits/sample × 2 channels) has a data-rate of 150 KiB/s which is roughly 10% of the available bandwidth.&lt;/p&gt;
+
+&lt;p&gt;The software and workflow to capture audio and video in sync is still in beta stage and a bit cumbersome.&lt;/p&gt;
+
+&lt;p&gt;The Elphel Wiki features a page with some more detailed audio hardware reports and instructions on how to get started with audio recording &lt;a target=&quot;_blank&quot; href=&quot;http://wiki.elphel.com/index.php?title=Audio&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/43&quot;&gt;Research&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/35&quot;&gt;Discontinued&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Related Project(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/elphelcamera&quot;&gt;Elphel Camera&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 29 Sep 2011 16:37:11 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">23 at </guid>
+  </item>
+  <item>
+    <title>AXIOM Alpha</title>
+    <link>/alpha_prototype</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/project/alpha-prototype-5d_0.jpg&quot; title=&quot;AXIOM Alpha&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-167-zlccxfiVTfU&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/project/alpha-prototype-5d_0.jpg?itok=wSuy06G7&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;  
+&lt;div class=&quot;breadcrumbsubnav&quot;&gt;
+  &lt;a class=&quot;chevron-a&quot; href=&quot;/views/alpha-news&quot;&gt;
+    &lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt; 
+  &lt;/a&gt;
+  &lt;a class=&quot;chevron-a&quot; href=&quot;/axiom-alpha-tech-specs&quot;&gt;
+    &lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt; 
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-alpha&quot; class=&quot;selected breadsubnav-item&quot;&gt;
+    Overview
+  &lt;/a&gt;
+
+  &lt;a href=&quot;/axiom-alpha-tech-specs&quot; class=&quot;breadsubnav-item&quot;&gt;
+    Tech Specs
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-alpha-imagesensor&quot; class=&quot;breadsubnav-item&quot;&gt;
+    Image Sensor
+  &lt;/a&gt;
+  &lt;a href=&quot;/views/alpha-videos&quot; class=&quot;breadsubnav-item&quot;&gt;
+    Videos
+  &lt;/a&gt;
+  &lt;a href=&quot;/views/alpha-news&quot; class=&quot;breadsubnav-item&quot;&gt;
+    Related Articles
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/Alpha03_1.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/Alpha03_1.jpg&quot; alt=&quot;AXIOM alpha rigged up&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+	&lt;div class=&quot;span8&quot;&gt;
+
+		&lt;p class=&quot;twocoloumns justify&quot;&gt;
+			&lt;i&gt;apertus° AXIOM Alpha&lt;/i&gt; is the name of a proof-of-concept prototype that is more than just a lab experiment. It is already meeting the demands of some real world applications like being used for film production to some degree. We are certain though that while it will not be the answer to all our prayers and not the goal of all our dreams yet it can be seen as the first step to embark on a journey to that place where we want to be one day. The main motto with AXIOM Alpha is &quot;Keep it simple!&quot;. The features are reduced to the absolute essential core. No luxuries. So for example we chose the lens mount that is the simplest and easiest to implement from a technical point of view but allows manual aperture control: The Nikon F-mount. Any future AXIOM model will have a wider selection of lens mount options.
+		&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;span4&quot;&gt;
+		&lt;a href=&quot;/sites/default/files/alpha-image-prcessing-pipeline-v05.png&quot; rel=&quot;lightbox&quot; class=&quot;colorbox&quot;&gt;&lt;img style=&quot;padding-bottom:20px; width: 450px; padding-top:20px&quot; src=&quot;/sites/default/files/alpha-image-prcessing-pipeline-v05.png&quot; alt=&quot;signal stage of AXIOM alpha, F-mount lens, super35 sensor, processing with 12v and usb2 input, onward to fullHD scaling to HDMI-out&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/34&quot;&gt;Completed&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 20 Feb 2013 17:49:16 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">167 at </guid>
+  </item>
+  <item>
+    <title>AXIOM Beta</title>
+    <link>/axiom-beta-old</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden default-file&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/default_images/apertus-default-logo_2.jpg&quot; title=&quot;AXIOM Beta&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-310-zlccxfiVTfU&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/default_images/apertus-default-logo_2.jpg?itok=xBGA32s-&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;breadcrumbsubnav&quot;&gt;
+  &lt;a class=&quot;chevron-a&quot; href=&quot;/views/beta-news&quot;&gt;
+    &lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt; 
+  &lt;/a&gt;
+  &lt;a class=&quot;chevron-a&quot; href=&quot;/axiom-beta-tech-specs&quot;&gt;
+    &lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt; 
+  &lt;/a&gt;
+  &lt;a href=&quot;/views/beta-news&quot; class=&quot;breadsubnav-item&quot; style=&quot;max-width:15%&quot;&gt;
+    Latest News
+  &lt;/a&gt;
+
+  &lt;a href=&quot;/axiom-beta&quot; class=&quot;selected breadsubnav-item&quot; style=&quot;max-width:15%&quot;&gt;
+    Overview
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-beta-tech-specs&quot; class=&quot;breadsubnav-item&quot; style=&quot;max-width:15%&quot;&gt;
+    Tech Specs
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-beta-imagesensors&quot; class=&quot;breadsubnav-item&quot; style=&quot;max-width:15%&quot;&gt;
+    Image Sensors
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-beta-modularity&quot; class=&quot;breadsubnav-item&quot; style=&quot;max-width:15%&quot;&gt;
+    Modularity
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-beta-status&quot; class=&quot;breadsubnav-item&quot; style=&quot;max-width:15%&quot;&gt;
+    Development Status
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;br /&gt;&lt;!--
+&lt;br /&gt;&lt;a href=&quot;/sites/default/files/axiom-beta-concept-enlosure-01.png&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/axiom-beta-concept-enlosure-01.png&quot; alt=&quot;AXIOM Beta&quot;&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;a href=&quot;/sites/default/files/images/axiom-beta-concept-enlosure-02.png&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/images/axiom-beta-concept-enlosure-02.png&quot; alt=&quot;AXIOM Beta&quot;&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;a href=&quot;/sites/default/files/axiom-beta-concept-enlosure-03.png&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/axiom-beta-concept-enlosure-03.png&quot; alt=&quot;AXIOM Beta&quot;&gt;&lt;/a&gt;--&gt;
+
+&lt;br /&gt;
+
+&lt;p class=&quot;twocoloumns justify&quot;&gt;
+&lt;strong&gt;Note:&lt;/strong&gt; This page is currently being rebuilt (06.12.17).
+
+AXIOM Beta is a brand new professional digital image capturing platform and the crowd funding backers get access to it before anybody else does. So we want to make sure that you are aware of what you are getting yourself into. We&#039;re inviting you to be part of this journey as a contributor (you do not need to be a programmer to use the AXIOM Beta), helping to shape the final product.
+&lt;/p&gt;&lt;br /&gt;
+&lt;hr /&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+&lt;div class=&quot;span6&quot; style=&quot;text-align:center&quot;&gt;&lt;a href=&quot;http://magiclantern.fm/&quot; target=&quot;_blank&quot;&gt;&lt;img width=&quot;200px&quot; title=&quot;Magic Lantern Logo&quot; alt=&quot;Magic Lantern Logo&quot; src=&quot;/sites/default/files/Magic_Lantern_logo.png&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;span6 justify&quot; style=&quot;line-height:180%&quot;&gt;The AXIOM Beta is being built together with experts from the Magic Lantern team. The people that brought you the best features on Canon DSLRs that Canon never wanted you to have - only this time the creators of the camera want you to have all of those features - because we and Magic Lantern are the makers :)&lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;!--
+&lt;hr /&gt;
+&lt;h2&gt;3-Phase Payment System&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;The at-cost price of the AXIOM Beta with 4K Super35 image sensor is currently estimated to be around € 2,100. To create a transparent payment plan that only involves money transfers when the funding is actually needed for certain manufacturing steps we came up with a 3 Phase Payment System. Once all 3 phases are covered your AXIOM Beta unit is fully paid and should be on its way to you. Please note that these prices do not include VAT, shipping or any custom/import fees for your particular country.&lt;/p&gt;
+&lt;br /&gt;
+&lt;table class=&quot;table table-striped table-bordered table-condensed&quot;&gt;
+  &lt;tr style=&quot;font-weight: bold;&quot;&gt;
+    &lt;td&gt;Phase 1 Payment&lt;/td&gt;
+    &lt;td&gt;Phase 2 Payment&lt;/td&gt;		
+    &lt;td&gt;Phase 3 Payment&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Prepayment so we can buy essential components (image sensor, Microzed, etc.) at 500+ quantity&lt;/td&gt;
+    &lt;td&gt;Funds to build your AXIOM Beta Hardware(reach 80% of camera value)&lt;/td&gt;		
+    &lt;td&gt;Balance payment to reach 100% at-cost - (~20% rest payment)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;now&lt;/td&gt;
+    &lt;td&gt;when camera is ordered&lt;/td&gt;		
+    &lt;td&gt;when camera ships&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;€ 1000 (excl. VAT)&lt;/td&gt;
+    &lt;td&gt;~ € 700 (excl. VAT)&lt;/td&gt;		
+    &lt;td&gt;~ € 400 (excl. VAT)&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;--&gt;
+
+&lt;h2&gt;Availability&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;We are currently shipping developer and early adopter kits. Later this year a more mature version (with proper enclosure, camera control, etc.) will be available to crowdfunding supporters and voucher holders. Normal retail sales will start once all voucher holders and crowdfunding supporters have received their AXIOM Betas. The wiki features a &lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Prices&quot;&gt;work in progress cost/price estimate&lt;/a&gt;.&lt;/p&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align:right&quot;&gt;Get notified when the AXIOM Beta or developer kits become available: &lt;a href=&quot;https://docs.google.com/forms/d/1qAt0AyiwR6SYDu3NqnfOYQbSPmWPP-el7RJ2VHp8emA/viewform&quot; class=&quot;btn btn-warning btn-large&quot;&gt;Register for Pre-order&lt;/a&gt;&lt;/div&gt;
+
+&lt;br /&gt;
+&lt;h2&gt;Source Material&lt;/h2&gt;
+&lt;a href=&quot;https://github.com/apertus-open-source-cinema/beta-software/&quot; class=&quot;btn btn-info btn-large&quot;&gt;Software Source Code Github&lt;/a&gt; &lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Manual#Hardware&quot; class=&quot;btn btn-info btn-large&quot;&gt;Electronics Schematics/Board Layouts/BOM Wiki&lt;/a&gt; &lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/apertus-open-source-cinema/beta-hardware&quot; class=&quot;btn btn-info btn-large&quot;&gt;Mechanical Components Github&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;article class=&quot;node-481 node node-page en clearfix&quot; about=&quot;/node/481&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Further Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Newsletter&quot; target=&quot;blank&quot;&gt;Newsletter editions&lt;/a&gt; - Previous, HTML newsletters archived. &lt;a href=&quot;http://newsletter.apertus.org/lists/?p=subscribe&amp;amp;id=1&quot; target=&quot;blank&quot;&gt;Subscribe here&lt;/a&gt; to receive yours via email.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Prices&quot; target=&quot;blank&quot;&gt;Shop links, prices and availability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Camera_Structure&quot; target=&quot;blank&quot;&gt;Camera structure&lt;/a&gt; - A complete guide to the camera&#039;s specifications and components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Video&quot; target=&quot;blank&quot;&gt;AXIOM Beta sample videos&lt;/a&gt; - Uncompressed .mov .mp4 and .dng files in 720p, 1080p and 4K are archived here if you&#039;d like to play with them. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEBkXWJgDUvEysgwMsNOzTuwJB0vSRnamxlx6PK4vM671L1g/viewform&quot; target=&quot;blank&quot;&gt;Pre-order notification&lt;/a&gt; - Receive an email when a more user-friendly version of the camera is ready to ship. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema&quot; target=&quot;blank&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Join_the_Team&quot; target=&quot;blank&quot;&gt;Join the Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Social&quot; target=&quot;blank&quot;&gt;Social accounts&lt;/a&gt; - Links to YouTube etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Project_Background&quot; target=&quot;blank&quot;&gt;AXIOM Project Background&lt;/a&gt; - How apertus° and the AXIOM project got started. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h2&gt;Want to participate?&lt;/h2&gt;
+&lt;p&gt;Want to provide feedback or suggest improvements? Want to try your own approach and need help?&lt;/p&gt;
+
+&lt;p&gt;Get in touch via &lt;a class=&quot;btn&quot; href=&quot;/irc-chat&quot; target=&quot;blank&quot;&gt;IRC&lt;/a&gt; or &lt;a class=&quot;btn&quot; href=&quot;/contact&quot; target=&quot;blank&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-wiki-link field-type-link-field field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Wiki link:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php?title=AXIOM_Beta&quot; target=&quot;_blank&quot;&gt;https://wiki.apertus.org/index.php?title=AXIOM_Beta&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot;&gt;In Development&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 28 Apr 2014 20:10:54 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">310 at </guid>
+  </item>
+  <item>
+    <title>AXIOM Beta (español)</title>
+    <link>/node/336</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden default-file&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/default_images/apertus-default-logo_2.jpg&quot; title=&quot;AXIOM Beta (español)&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-336-zlccxfiVTfU&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/default_images/apertus-default-logo_2.jpg?itok=xBGA32s-&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;img src=&quot;/sites/default/files/Axiom-Beta-Announcement01.jpg&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;div class=&quot;well&quot;&gt;
+Únete a la comunidad de los primeros adoptantes,&lt;br /&gt;
+suscribe a la lista de correo AXIOM Beta:&lt;br /&gt;&lt;br /&gt;
+&lt;form name=&quot;newsletterform&quot; action=&quot;http://groups.google.com/group/axiom-community/boxsubscribe&quot; style=&quot;margin-bottom:0px;&quot; id=&quot;newsletterform&quot;&gt;
+&lt;input onfocus=&quot;if (document.getElementById(&#039;email_form&#039;).value == &#039;Email&#039;) document.getElementById(&#039;email_form&#039;).value = &#039;&#039;;&quot; size=&quot;15&quot; style=&quot;width:200px; margin-right:10px&quot; name=&quot;email&quot; id=&quot;email_form&quot; type=&quot;text&quot; value=&quot;Email&quot; /&gt; &lt;input class=&quot;form-submit btn&quot; name=&quot;sub&quot; type=&quot;submit&quot; value=&quot;Subscribe&quot; style=&quot;height: 30px;&quot; /&gt;
+&lt;/form&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+la camara AXIOM Beta será más pequeña y más barata, ya que tiene características mucho más simplificadas que mejor se adaptan a los efectos de la filmación, pruebas y desarrollo que la AXIOM Alpha sera.&lt;br /&gt;
+Esta vez, necesitamos su ayuda para llegar allí, porque vamos a lanzar una campaña de recaudación de fondos para cubrir el desarrollo del material y del software. Tenemos la intención de comenzar con un primer lote alrededor de 250 cámaras, una vez que sabemos que el concepto actual realmente funciona, este primer lote será reservado exclusivamente para los primeros donantes. Cada una de estas cámaras tendrán un grado de personalización posible.
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;las características esperadas de la AXIOM Beta incluyen:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Salida HDMI Full HD (4: 4: 4) hasta 60 fotogramas / segundo&lt;/li&gt;
+&lt;li&gt;Salida 4K Raw mediante formatos HDMI experimentales&lt;/li&gt;
+&lt;li&gt;Captura en resolución completa de imágenes fijas raw sobre tarjeta MicroSD&lt;/li&gt;
+&lt;li&gt;Control remoto de todas las funciones de la cámara a través de smartphone, tableta, ordenador portátil&lt;/li&gt;
+&lt;li&gt;Administración de la energía y de la configuración (por ejemplo, tensión, corriente, temperatura)&lt;/li&gt;
+&lt;li&gt;Altamente personalizable a través de la expansión modular de I / O (por ejemplo, SDI)&lt;/li&gt;
+&lt;li&gt;Acelerómetro, magnetómetro y giroscopio para por ejemplo la estabilización de imagen&lt;/li&gt;
+&lt;li&gt;Varios montura de objetivos opcionales (por ejemplo, Nikon F montaje, EF y M4 / 3)&lt;/li&gt;
+&lt;li&gt;Amplia gama de voltaje de entrada (5-40V)&lt;/li&gt;
+&lt;li&gt;Camara muy ligera y compacta ~ 110x60x50mm 
+&lt;/li&gt;&lt;li&gt;Embedded Linux (por ejemplo Raspian, Arch Linux)&lt;/li&gt;
+&lt;li&gt;LUTs, Conversión de matriz de color compensación FPN, superposiciones, visualizacion de colores falsos, compensación de pixel muerto&lt;/li&gt;
+&lt;li&gt;Usando mapa Microzed (en lugar del mapa en Zedboard en el AXIOM Alpha)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;br /&gt;
+&lt;h2&gt;¿Por quién es el AXIOM Beta?&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Si hay empresas que engañan a sus clientes a pagar el precio completo de un producto beta, posiblemente arruinando la totalidad de su proyecto, deseamos aclarar que esta no es la forma en que trabajamos, queremos asegurarnos de que sabes exactamente lo que vas recibir. De hecho, queremos asegurarnos de que eres es consciente en lo que te estás metiendo desde el principio! El AXIOM Beta Beta es un producto BETA (Qué puede deducirse claramente de su nombre). Seguramente habrá errores y otros problemas, pero estamos seguros de que con tu ayuda, experiencia y muy importante detalle tus comentarios, vamos a descubrir cada uno de ellos y hacerlos funcionales y operativos. 
+&lt;br /&gt;
+&lt;br /&gt;
+Como siempre, hay una pequeña probabilidad de que el AXIOM Beta no funciona perfectamente desde el primer día. Sin embargo, también hay ninguna garantía que fracasa miserablemente al principio. Nada puede ser perfecto, por lo menos no de inmediato, y en nuestro camino a la perfección, se necesitará tiempo y una serie de cambios antes de que todos los aspectos del funcionamiento de la Beta están funcionando sin problemas. 
+&lt;br /&gt;
+Te invitamos a ser parte de este viaje, no como espectador, sino como un contribuyente a la vanguardia, ayudando a dar forma al producto final. A cambio de tu ayuda, te ofrecemos el equipo al precio de coste, lo cual nos lleva al siguiente punto:
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;div align=&quot;center&quot;&gt;
+	&lt;a href=&quot;/sites/default/files/beta-pre02.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img width=&quot;500px&quot; src=&quot;/sites/default/files/beta-pre02.jpg&quot; class=&quot;thumbnail&quot; /&gt;&lt;div class=&quot;caption&quot;&gt;work-in-progress PCB concept design of the AXIOM Beta image sensor module&lt;/div&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;¿Cuál será el costo de AXIOM Beta?&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Los donantes que apoyan el desarrollo de la AXIOM Beta en la campaña de recaudación de fondos con una cantidad mínima de 350 EUR / 485 USD o más, recibirán la versión Beta de AXIOM (incluyendo todos los módulos necesarios I / O) a un precio de coste (es decir, los materiales y el montaje), alrededor de 550 euros / 760 dólares USD (Sin el sensor, ver la tabla siguiente).
+&lt;br /&gt;
+Pero ten por seguro, que no importa las opciones de hardware que elijas, sólo tendrás que pagar por los materiales, el montaje y el envío. Por supuesto, si podemos atraer a más donantes de lo inicialmente previsto, el costo de producción por unidad se reducirá y todo el mundo pagara menos. El objetivo principal de esta campaña es encontrar &quot;adoptantes&quot; y dar el material en manos de hackers y desarrolladores. Una vez que nuestro producto es maduro, se puede esperar que la cámara AXIOM crece en complejidad, funcionalidad y precio. Por esta razón, es poco probable que los futuros modelos AXIOM sean tan asequible como lo que ofrecemos en la campaña de recaudación de fondos para el AXIOM Beta.
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;Actualización&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Si usted decide de su AXIOM Beta en un producto de sucesivos (por ejemplo, el AXIOM Gamma, si seguimos utilizando el sistema del alfabeto griego), el componente principal (y el más caro) el sensor, probablemente se puede reutilizar. La tarjeta Microzed que es un producto independiente también se pueden utilizar para otros proyectos o ser revendida.
+&lt;/p&gt;
+&lt;br /&gt;
+
+&lt;h2&gt;¿Cómo se controlará la Beta?&lt;/h2&gt;
+&lt;img src=&quot;/sites/default/files/smartphone-control-02.jpg&quot; style=&quot;float:left; padding-right:15px&quot; /&gt;
+&lt;p style=&quot;text-align:justify&quot;&gt;
+El AXIOM Beta es en realidad un pequeño ordenador como (doble núcleo) &lt;a href=&quot;http://www.raspberrypi.org/&quot; target=&quot;_blank&amp;quot;&quot;&gt;Raspberry Pi&lt;/a&gt; bajo una distribución Linux ligera y personalizada. Por lo tanto, eso da una &quot;caja&quot; con un montón de conectividad:
+&lt;/p&gt;&lt;div style=&quot;position:relative; left:50px;&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Puerto USB/Serie&lt;/li&gt;
+&lt;li&gt;Ethernet&lt;/li&gt;
+&lt;li&gt;Wifi (a través de router o USB)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+Y eso significa que los siguientes servicios se pueden utilizar:
+&lt;div style=&quot;position:relative; left:50px;&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;SSH&lt;/li&gt;
+&lt;li&gt;FTP&lt;/li&gt;
+&lt;li&gt;Servidor Web (HTML/PHP/etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+Cela signifie que nous pouvons créer des interfaces graphiques fonctionnant directement sur les serveurs web propre aux caméras, ce qui assure une compatibilité multiplateforme et un fonctionnement sur les appareils mobiles aussi bien que sur les PC normaux directement à l&#039;intérieur du navigateur. sto significa que podemos crear interfaces gráficas funccionando directamente en los propios servidores de las cámaras , lo que garantiza una compatibilidad multi-plataforma y el funcionamiento en los dispositivos móviles, así como en un PC normal directamente a dentro del navegador.
+
+&lt;div style=&quot;clear:both&quot;&gt;&lt;/div&gt;
+
+
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/30&quot;&gt;Planning&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Related Project(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/alpha_prototype&quot;&gt;AXIOM Alpha&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/axiom-beta-old&quot;&gt;AXIOM Beta&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/node/330&quot;&gt;AXIOM Beta (français)&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/node/314&quot;&gt;AXIOM Beta (版)&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/node/278&quot;&gt;AXIOM Camera (Español)&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/node/152&quot;&gt;AXIOM Gamma&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 06 Oct 2014 01:01:30 +0000</pubDate>
+ <dc:creator>Sasha</dc:creator>
+ <guid isPermaLink="false">336 at </guid>
+  </item>
+  <item>
+    <title>AXIOM Beta (français)</title>
+    <link>/node/330</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden default-file&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/default_images/apertus-default-logo_2.jpg&quot; title=&quot;AXIOM Beta (français)&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-330-zlccxfiVTfU&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/default_images/apertus-default-logo_2.jpg?itok=xBGA32s-&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;img src=&quot;/sites/default/files/Axiom-Beta-Announcement01.jpg&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;div class=&quot;well&quot;&gt;
+Rejoignez la communauté des premiers adoptants,&lt;br /&gt;
+abonnez vous à la liste de diffusion AXIOM Beta:&lt;br /&gt;&lt;br /&gt;
+&lt;form name=&quot;newsletterform&quot; action=&quot;http://groups.google.com/group/axiom-community/boxsubscribe&quot; style=&quot;margin-bottom:0px;&quot; id=&quot;newsletterform&quot;&gt;
+&lt;input onfocus=&quot;if (document.getElementById(&#039;email_form&#039;).value == &#039;Email&#039;) document.getElementById(&#039;email_form&#039;).value = &#039;&#039;;&quot; size=&quot;15&quot; style=&quot;width:200px; margin-right:10px&quot; name=&quot;email&quot; id=&quot;email_form&quot; type=&quot;text&quot; value=&quot;Email&quot; /&gt; &lt;input class=&quot;form-submit btn&quot; name=&quot;sub&quot; type=&quot;submit&quot; value=&quot;Subscribe&quot; style=&quot;height: 30px;&quot; /&gt;
+&lt;/form&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+L&#039;AXIOM Beta sera plus petite et moins chère, et présentant des caractéristiques beaucoup plus simplifiées et qui sont mieux adaptés à des fins de tournages, d&#039;essais et de développements que l&#039;AXIOM Alpha pourra jamais l&#039;être.
+Cette fois, nous avons besoin de votre contribution pour y arriver, car nous allons lancer une campagne de financement pour couvrir le développement matériel et logiciel. Nous prévoyons de commencer avec un premier lot d&#039;environ 250 caméras une fois que nous saurons que le concept actuel fonctionne réellement, et ce premier lot sera réservé exclusivement pour les premiers bailleurs. Chacune de ces caméras auront un degré de personnalisation possible.
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;Les caractéristiques prévues de AXIOM Beta comprennent:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Sortie HDMI Full HD (4: 4: 4) jusqu&#039;à 60 images/seconde&lt;/li&gt;
+&lt;li&gt;Sortie 4K raw via formats HDMI expérimentaux&lt;/li&gt;
+&lt;li&gt;Capture pleine résolution, d&#039;images fixes en résolution raw sur carte MicroSD&lt;/li&gt;
+&lt;li&gt;Commande à distance de toutes les fonctions de la caméra via smartphone, tablette, ordinateur portable&lt;/li&gt;
+&lt;li&gt;Gestion de l&#039;alimentation et des paramètres (par exemple, tension, courant, température)&lt;/li&gt;
+&lt;li&gt;Hautement personnalisable via extension modulaire d&#039;I/O (par exemple SDI)&lt;/li&gt;
+&lt;li&gt;Accéléromètre, magnétomètre et gyroscope par exemple pour la stabilisation d&#039;image&lt;/li&gt;
+&lt;li&gt;Différents monture d&#039;objectifs optionnelles (par ex monture Nikon F, EF et M4 / 3)&lt;/li&gt;
+&lt;li&gt;Large plage de tension d&#039;entrée (5-40V)&lt;/li&gt;
+&lt;li&gt;Caméra très légère et compacte ~ 110x60x50mm 
+&lt;/li&gt;&lt;li&gt;Linux embarqué (par exemple Raspian, ArchLinux)&lt;/li&gt;
+&lt;li&gt;LUT, conversion de matrice de couleur, compensation FPN, affichage en fausses couleurs, superpositions, compensation de pixel mort&lt;/li&gt;
+&lt;li&gt;Utilisation de carte Microzed (au lieu de carte Zedboard dans l&#039;AXIOM Alpha)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;br /&gt;
+&lt;h2&gt;Pour qui est l&#039;AXIOM Beta?&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Bien qu&#039;il existe des entreprises qui trompent leurs clients en leur faisant payer le prix fort pour un produit bêta, ruinant éventuellement la totalité de leur projet, nous tenons à préciser que ce n&#039;est pas la façon dont nous travaillons, nous voulons nous assurer que vous savez exactement ce que vous allez recevoir. En fait, nous voulons nous assurer que vous êtes conscient dans quoi vous vous embarquez dès le début! La Beta de AXIOM est un produit de Beta (qui peut être clairement déduite de son nom). Il y aura sûrement des bugs et d&#039;autres problèmes, mais nous sommes convaincus que grâce à votre aide, votre expérience et détail très important, vos commentaires, nous allons traquer chacun d&#039;eux et les rendre fonctionnels et opérants. 
+&lt;br /&gt;
+Comme toujours, il y a une petite probabilité que l&#039;AXIOM Beta ne fonctionne pas parfaitement dès le premier jour. Cependant, il a également aucune garantie qu&#039;elle échoue lamentablement au début. Rien ne peut être parfait, du moins pas tout de suite, et dans notre route vers la perfection, il faudra du temps et un certain nombre de mises à jour avant que tous les aspects du fonctionnement de la Beta soient bien rodés. Nous vous invitons à faire partie de ce voyage, non pas comme spectateur mais plutôt comme contributeur, à la pointe du progrès, nous aidant à façonner le produit final. En échange de votre aide, nous offrons le matériel à prix coûtant, ce qui nous amène au point suivant: 
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;div align=&quot;center&quot;&gt;
+	&lt;a href=&quot;/sites/default/files/beta-pre02.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img width=&quot;500px&quot; src=&quot;/sites/default/files/beta-pre02.jpg&quot; class=&quot;thumbnail&quot; /&gt;&lt;div class=&quot;caption&quot;&gt;work-in-progress PCB concept design of the AXIOM Beta image sensor module&lt;/div&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;Quel sera le coût de l&#039;AXIOM Beta?&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Les bailleurs qui soutiendront le développement de l&#039;AXIOM Beta à la campagne de financement avec un montant minimum de 350 EUR / 485 USD ou plus recevront la version bêta d&#039;AXIOM (y compris tous les modules nécessaires I / O) à prix coûtant (à savoir, les matériels et l&#039;assemblage), à environ 550 EUR / $ 760 USD (sans le capteur voir tableau ci-dessous). &lt;br /&gt;
+Mais rassurez-vous, peu importe ce les options du matériel que vous choisissez, vous ne paierez que pour les matériaux, l&#039;assemblage et l&#039;expédition. Naturellement, si nous parvenons à attirer plus de bailleurs que prévu initialement, le coût de production par unité sera réduit et tout le monde payera moins. L&#039;objectif principal de cette campagne est de trouver des &quot;adoptants&quot; et de donner le matériel aux mains de hackers et de développeurs. Une fois que notre produit sera mature, vous pouvez vous attendre à ce que la caméra AXIOM grandissent en complexité, en fonctionnalités et en prix. Pour cette raison, il est peu probable que les modèles AXIOM futurs soient aussi abordables que ce que nous offrons dans la campagne de financement pour l&#039;AXIOM Beta.
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;Mise à niveau&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Si vous décidez de mettre à jour votre AXIOM Beta pour un produit successif (par exemple, l&#039;AXIOM Gamma, si nous continuons à utiliser le système de nommage de l&#039;alphabet grec), le composant principal (et le plus cher), le capteur, peut très probablement être réutilisé. La carte Microzed est un produit indépendant et peut être également utilisé pour d&#039;autres projets ou revendue.
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;Choix du capteur&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Au début, nous allons créer une AXIOM Beta A utilisant le capteur TrueSense KAC12040, nous tenons à acquérir de l&#039;expérience avec un autre capteur d&#039;image que celui qui sera implémenté dans l&#039;AXIOM Alpha. Une fois que cela fonctionnera, nous allons commencer l&#039;ajout de capteur d&#039;image optionnels supplémentaires sur la base de ce qui intéressera la majorité des personnes de notre communauté. Ce capteur peut provenir de CMOSIS, TrueSense ou d&#039;un autre fabricant, pour autant qu&#039;ils fournissent les fiches techniques et utilisent des interfaces compatibles. S&#039;il vous plaît votez ci-dessous pour nous donner une idée de quelles options seraient préférables.
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+
+&lt;div class=&quot;span4&quot;&gt;Cmosis CMV12000
+&lt;br /&gt;
+&lt;img style=&quot;padding-bottom:28px&quot; src=&quot;/sites/default/files/CMV12000.png&quot; /&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;table class=&quot;table table-striped table-bordered table-condensed&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;Résolution&lt;/td&gt;
+&lt;td&gt;4096 x 3072&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Format optique&lt;/td&gt;
+&lt;td&gt;Super35/APS-C&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Cadence d&#039;images&lt;/td&gt;
+&lt;td&gt;300 images/seconde (10 bit)&lt;br /&gt;
+180 images/seconde (12 bit)
+&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td&gt;Plage dynamique&lt;/td&gt;
+&lt;td&gt;10 F-stops, jusqu’à 15 F-stops (HDR)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Obturateur&lt;/td&gt;
+&lt;td&gt;Global&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;span4&quot;&gt;Truesense KAC12040
+&lt;img src=&quot;/sites/default/files/Truesense%2BKAC-12040%5B1%5D.jpg&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;table class=&quot;table table-striped table-bordered table-condensed&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;Résolution&lt;/td&gt;
+&lt;td&gt;4000 x 3000&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Format optique&lt;/td&gt;
+&lt;td&gt;4/3&quot;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Cadence d&#039;images&lt;/td&gt;
+&lt;td&gt;70 images/seconde&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Plage dynamique&lt;/td&gt;
+&lt;td&gt;12 F-stops (Obturateur volet d&#039;obturation)&lt;br /&gt; 
+9.3 F-stops(Obturateur global)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Obturateur&lt;/td&gt;
+&lt;td&gt;Global et par volet d&#039;obturation&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;span4&quot;&gt;Cmosis CMV8000
+&lt;img style=&quot;padding-bottom:19px&quot; src=&quot;/sites/default/files/CMV8000_cut_240_207[1].png&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;table class=&quot;table table-striped table-bordered table-condensed&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;Résolution&lt;/td&gt;
+&lt;td&gt;3360 x 2496&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Format optique&lt;/td&gt;
+&lt;td&gt;4/3&quot;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt; Cadence d&#039;images &lt;/td&gt;
+&lt;td&gt;104 images/seconde (10 bit)
+&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td&gt;Plage dynamique&lt;/td&gt;
+&lt;td&gt;10 F-stops, jusqu&#039;à 15 F-stops (HDR)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Obturateur&lt;/td&gt;
+&lt;td&gt;Global&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+Les prix suivants de ces capteurs d&#039;image sont des prix indicatifs pour une commande d&#039;un capteur à l&#039;unité. Pour des volumes plus élevés, leur coût est légèrement réduit. Ajouter environ 550 EUR / 760 USD $ au coût de base de l&#039;AXIOM Beta pour le capteur d&#039;image et pour avoir une idée du prix total. Une autre possibilité pourrait être d’acheter des capteurs de qualité d&#039;ingénierie moindre (contenant des défauts car ils n&#039;ont pas réussi le passage au contrôle qualité) à des prix plus réduits pour les développeurs. 
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;article class=&quot;node-304 node node-advpoll en clearfix&quot; about=&quot;/node/304&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Which image sensor would you get in your Axiom Beta camera?&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;poll&quot; id=&quot;advpoll-304&quot;&gt;
+
+    &lt;div class=&quot;poll-bar&quot;&gt;
+  &lt;div class=&quot;text&quot;&gt;Cmosis CMV12000 + 1300€/ 1800$&lt;/div&gt;
+  &lt;div class=&quot;bar&quot;&gt;
+    &lt;div style=&quot;width: 76%;&quot; class=&quot;foreground&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;percent&quot;&gt;
+    76% (564 votes)
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;poll-bar&quot;&gt;
+  &lt;div class=&quot;text&quot;&gt;Cmosis CMV8000 + 400€/ 550$&lt;/div&gt;
+  &lt;div class=&quot;bar&quot;&gt;
+    &lt;div style=&quot;width: 14%;&quot; class=&quot;foreground&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;percent&quot;&gt;
+    14% (102 votes)
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;poll-bar&quot;&gt;
+  &lt;div class=&quot;text&quot;&gt;Truesense KAC12040 + 650€/ 890$&lt;/div&gt;
+  &lt;div class=&quot;bar&quot;&gt;
+    &lt;div style=&quot;width: 8%;&quot; class=&quot;foreground&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;percent&quot;&gt;
+    8% (61 votes)
+  &lt;/div&gt;
+&lt;/div&gt;
+    &lt;div class=&quot;total&quot;&gt;Total votes: 742&lt;/div&gt;
+
+    
+    &lt;/div&gt;
+
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;Comment la Beta sera contrôlé?&lt;/h2&gt;
+&lt;img src=&quot;/sites/default/files/smartphone-control-01.jpg&quot; style=&quot;float:left; padding-right:15px&quot; /&gt;
+&lt;p style=&quot;text-align:justify&quot;&gt;
+L&#039;AXIOM Beta est en fait un petit ordinateur comme (un dual core)Raspberry Pi sous une distribution Linux légère et customisée. Donc, cela donne un &quot;boite&quot; avec pas mal de connectivité :
+&lt;/p&gt;&lt;div style=&quot;position:relative; left:50px;&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Port USB/Serie&lt;/li&gt;
+&lt;li&gt;Ethernet&lt;/li&gt;
+&lt;li&gt;Wifi (par routeur ou clé USB)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+Et cela signifie que les services suivants peuvent être utilisés:
+&lt;div style=&quot;position:relative; left:50px;&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;SSH&lt;/li&gt;
+&lt;li&gt;FTP&lt;/li&gt;
+&lt;li&gt;Serveur Web (HTML/PHP/etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+Cela signifie que nous pouvons créer des interfaces graphiques fonctionnant directement sur les serveurs web propre aux caméras, ce qui assure une compatibilité multiplateforme et un fonctionnement sur les appareils mobiles aussi bien que sur les PC normaux directement à l&#039;intérieur du navigateur.
+
+&lt;div style=&quot;clear:both&quot;&gt;&lt;/div&gt;
+
+
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/30&quot;&gt;Planning&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 08 Sep 2014 12:56:55 +0000</pubDate>
+ <dc:creator>Alban</dc:creator>
+ <guid isPermaLink="false">330 at </guid>
+  </item>
+  <item>
+    <title>AXIOM Beta (版)</title>
+    <link>/node/314</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden default-file&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/default_images/apertus-default-logo_2.jpg&quot; title=&quot;AXIOM Beta (版)&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-314-zlccxfiVTfU&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/default_images/apertus-default-logo_2.jpg?itok=xBGA32s-&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;img src=&quot;/sites/default/files/Axiom-Beta-Announcement01.jpg&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;div class=&quot;well&quot;&gt;
+加入早期用户社区，&lt;br /&gt;
+订阅AXIOM Beta资讯，加入邮件列表：&lt;br /&gt;&lt;br /&gt;
+&lt;form name=&quot;newsletterform&quot; action=&quot;http://groups.google.com/group/axiom-community/boxsubscribe&quot; style=&quot;margin-bottom:0px;&quot; id=&quot;newsletterform&quot;&gt;
+&lt;input onfocus=&quot;if (document.getElementById(&#039;email_form&#039;).value == &#039;Email&#039;) document.getElementById(&#039;email_form&#039;).value = &#039;&#039;;&quot; size=&quot;15&quot; style=&quot;width:200px; margin-right:10px&quot; name=&quot;email&quot; id=&quot;email_form&quot; type=&quot;text&quot; value=&quot;Email&quot; /&gt; &lt;input class=&quot;form-submit btn&quot; name=&quot;sub&quot; type=&quot;submit&quot; value=&quot;订阅&quot; style=&quot;height: 30px;&quot; /&gt;
+&lt;/form&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+AXIOM Beta版本比AXIOM Alpha版更小巧、更便宜，流线型设计更适合拍摄，测试和研发。&lt;br /&gt;
+这次我们制定了一个覆盖软件和硬件开发领域的众筹计划，希望得到你们的力量推动研发。只要验证了设计方案的可行性，我们会计划第一批制作大约250台摄像机，而这批机器将专门为这次资金捐助者提供。每一台机器都有个性化定制的空间。
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;AXIOM Beta版本计划包括的特性：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;HDMI全高清（4:4:4）输出，高达每秒60帧&lt;/li&gt;
+&lt;li&gt;以实验性的HDMI格式进行4K RAW数据输出&lt;/li&gt;
+&lt;li&gt;向MicroSD卡写入全分辨率，全采样精度的原始静态图像&lt;/li&gt;
+&lt;li&gt;可以从手机、平板电脑及笔记本上遥控操作所有摄像机的功能&lt;/li&gt;
+&lt;li&gt;电源管理和监控（比如：电压、电流、温度）&lt;/li&gt;
+&lt;li&gt;通过模块化的I/O插件实现高度定制（比如：串行数字接口SDI)&lt;/li&gt;
+&lt;li&gt;安装加速度计，磁力计和陀螺仪，比如：用以保证图像稳定&lt;/li&gt;
+&lt;li&gt;不同的镜头卡口（如尼康F-mount，EF和M4/3卡口）&lt;/li&gt;
+&lt;li&gt;宽输入电压范围（5-40V）&lt;/li&gt;
+&lt;li&gt;设计轻巧紧凑～110x60x50mm&lt;/li&gt;
+&lt;li&gt;嵌入式Linux系统（比如 Raspian, ArchLinux）&lt;/li&gt;
+&lt;li&gt;颜色映射表格（LUTs），矩阵颜色转换（matrix color conversion），FPN补偿（FPN compensation），伪彩色显示（false color display），图像叠加（overlays），坏点补偿（dead pixel compensation）&lt;/li&gt;
+&lt;li&gt;使用Microzed控制面板（替代了 AXIOM Alpha使用的 Zed控制面板）&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;br /&gt;
+&lt;h2&gt;为谁打造AXIOM Beta摄像机？&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+有一些公司欺骗消费者为beta产品支付较高的价格，从而最终毁掉了整个开发项目。这不是我们的作风，我们一定要明确的让消费者知道将会拿到的是什么样的产品。事实上，我们希望让消费者从一开始就知道自己得到的是什么。AXIOM Beta是一个beta阶段的产品（从名字就可以看出来）。机器肯定会有一些漏洞和问题，但是我们确信，有了你的帮助，你的测试，以及（但不是最重要的）你的金钱，我们会将每一个漏洞穷追到底，并将它改造成一个优势特性。
+&lt;br /&gt;
+&lt;br /&gt;
+像往常一样，AXIOM Beta版第一天就能完美工作的可能性很小，同样我们也不能保证开始它一定不会运行失败。没有什么是完美的，至少现在AXIOM Beta还不是完美的，但这是我们的目标，在所有方面都运转顺利之前我们还需要大量的开发时间和固件升级。
+&lt;br /&gt;
+我们诚邀您加入我们的探索，不是作为一个旁观者，而是真正为塑造最终产品贡献一份力量。为了回报您的帮助，我们会为您的硬件购买提供折扣，这将引出我们下一个话题：
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;div align=&quot;center&quot;&gt;
+	&lt;a href=&quot;/sites/default/files/beta-pre02.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img width=&quot;500px&quot; src=&quot;/sites/default/files/beta-pre02.jpg&quot; class=&quot;thumbnail&quot; /&gt;&lt;div class=&quot;caption&quot;&gt;开发中的AXIOM Beta版本的图形传感器的印刷电路板概念设计模型&lt;/div&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;AXIOM Beta的制作成本是多少？&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+参加AXIOM Beta版本众筹项目的资助者，出资金额在350欧元或者485美元以上的，最终只需支付制造成本（比如材料和装配费用），大概在550欧元或者760美元左右（不含摄像传感器，具体看下表），就可以获得一台AXIOM Beta摄像机（包含所有必须的I/O模块插件）。&lt;br /&gt;
+但请放心，不管你选择什么硬件，你都只需要支付材料费、组装费和运费。假如我们能够吸引到更多的人加入这个融资计划，每个人就能花更少的钱买到相同的产品。这个融资计划的最主要的目的是为了找到早期的使用者，以尽快将硬件送至黑客及开发者手中。一旦产品成熟了，你可以预见AXIOM摄像机会的功能会的越来越强大，价格也会的走高。基于这个原因， 未来的AXIOM 模型机器的价格不太可能像这次众筹计划中的AXIOM Beta价格这么低。
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;升级路径&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+假如你决定将AXIOM Beta 升级到下一个系列产品（比如AXIOM Gamma，假如我们持续用希腊字母进行命名的话），它的主要组件（也是最昂贵的）传感器很可能被重复使用。Microzed也是一个独立的组件，并可以被其他项目使用或者被再次售卖。
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;图像传感器的选择 &lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+刚开始，我们想基于Truesense KAC1204传感器建立 AXIOM Beta，因为我们想使用一款不同于AXIOM Alpha摄像机中用到的传感器，以积累更多的经验。一旦这样可行，我们就可以根据我们社区会员的兴趣点加入更多的图像传感器选项。这个传感器可能来自于Cmosis公司，Truesense公司或者一个完全不同的制造商，只要他们提供数据表并使用兼容的接口，我们就会考虑。请于下方进行投票，帮助我们做出让您满意的选择。
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+
+&lt;div class=&quot;span4&quot;&gt;Cmosis CMV12000
+&lt;br /&gt;
+&lt;img style=&quot;padding-bottom:28px&quot; src=&quot;/sites/default/files/CMV12000.png&quot; /&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;table class=&quot;table table-striped table-bordered table-condensed&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;分辨率&lt;/td&gt;
+&lt;td&gt;4096 x 3072&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;光学格式&lt;/td&gt;
+&lt;td&gt;Super35/APS-C&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;帧速&lt;/td&gt;
+&lt;td&gt;300 fps (10 bit)&lt;br /&gt;
+180 fps (12 bit)
+&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td&gt;动态范围&lt;/td&gt;
+&lt;td&gt;10 F-stops, up to 15 F-stops (HDR)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;快门&lt;/td&gt;
+&lt;td&gt;全局快门&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;span4&quot;&gt;Truesense KAC12040
+&lt;img src=&quot;/sites/default/files/Truesense%2BKAC-12040%5B1%5D.jpg&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;table class=&quot;table table-striped table-bordered table-condensed&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;分辨率&lt;/td&gt;
+&lt;td&gt;4000 x 3000&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;光学格式&lt;/td&gt;
+&lt;td&gt;4/3&quot;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;帧速&lt;/td&gt;
+&lt;td&gt;70 fps&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;动态范围&lt;/td&gt;
+&lt;td&gt;12 F-stops (Rolling Shutter)&lt;br /&gt; 
+9.3 F-stops(Global Shutter)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;快门&lt;/td&gt;
+&lt;td&gt;全局快门&amp;amp;卷帘快门&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;span4&quot;&gt;Cmosis CMV8000
+&lt;img style=&quot;padding-bottom:19px&quot; src=&quot;/sites/default/files/CMV8000_cut_240_207[1].png&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;table class=&quot;table table-striped table-bordered table-condensed&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;分辨率&lt;/td&gt;
+&lt;td&gt;3360 x 2496&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;光学格式&lt;/td&gt;
+&lt;td&gt;4/3&quot;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;帧速&lt;/td&gt;
+&lt;td&gt;104 fps (10 bit)
+&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td&gt;动态范围&lt;/td&gt;
+&lt;td&gt;10 F-stops, up to 15 F-stops (HDR)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;快门&lt;/td&gt;
+&lt;td&gt;全局快门&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+以下是单个的不同传感器价格。在大批量生产的情况下，价格还会略有降低。AXIOM Beta 机器的价格大约为550欧元或者760美元，加上下方传感器的价格可以得到大概的整体价格。另一种选择是购入工程级的传感器（因为没有通过质量检测会存在缺陷），这样对开发者来说也可以降低其整体价格。
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;article class=&quot;node-304 node node-advpoll en clearfix&quot; about=&quot;/node/304&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Which image sensor would you get in your Axiom Beta camera?&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;poll&quot; id=&quot;advpoll-304&quot;&gt;
+
+    &lt;div class=&quot;poll-bar&quot;&gt;
+  &lt;div class=&quot;text&quot;&gt;Cmosis CMV12000 + 1300€/ 1800$&lt;/div&gt;
+  &lt;div class=&quot;bar&quot;&gt;
+    &lt;div style=&quot;width: 76%;&quot; class=&quot;foreground&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;percent&quot;&gt;
+    76% (564 votes)
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;poll-bar&quot;&gt;
+  &lt;div class=&quot;text&quot;&gt;Cmosis CMV8000 + 400€/ 550$&lt;/div&gt;
+  &lt;div class=&quot;bar&quot;&gt;
+    &lt;div style=&quot;width: 14%;&quot; class=&quot;foreground&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;percent&quot;&gt;
+    14% (102 votes)
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;poll-bar&quot;&gt;
+  &lt;div class=&quot;text&quot;&gt;Truesense KAC12040 + 650€/ 890$&lt;/div&gt;
+  &lt;div class=&quot;bar&quot;&gt;
+    &lt;div style=&quot;width: 8%;&quot; class=&quot;foreground&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;percent&quot;&gt;
+    8% (61 votes)
+  &lt;/div&gt;
+&lt;/div&gt;
+    &lt;div class=&quot;total&quot;&gt;Total votes: 742&lt;/div&gt;
+
+    
+    &lt;/div&gt;
+
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;众筹什么时候开始&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+很快就会开始，所以请大家耐心等待，等我们结束2020年欧盟的地平线补助申请后，我们会公布 AXIOM Beta更多的细节。现在我们需要集中精力完成这个项目的文书申请。
+
+&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/30&quot;&gt;Planning&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 22 May 2014 02:52:55 +0000</pubDate>
+ <dc:creator>Sasha</dc:creator>
+ <guid isPermaLink="false">314 at </guid>
+  </item>
+  <item>
+    <title>AXIOM Camera (Español)</title>
+    <link>/node/278</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/project/axiom-website-banner-2013-V4.jpg&quot; title=&quot;AXIOM Camera (Español)&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-278-zlccxfiVTfU&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/project/axiom-website-banner-2013-V4.jpg?itok=WjVEEFul&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;row-fluid&quot;&gt;
+  &lt;div class=&quot;span6&quot;&gt;
+    &lt;h2&gt;Qué es apertus°&lt;/h2&gt;
+      &lt;p align=&quot;justify&quot;&gt;
+      apertus ° Axiom será la primera cámara de cine digital abierta diseñada desde cero con el concepto de apertura en mente. El sensor de imagen elegido es el &lt;a href=&quot;/axiom_imagesensor&quot;&gt;CMV12000 from Cmosis&lt;/a&gt;. Para construirlo, en última instancia, estamos trabajando para crear un prototipo simplificado, &lt;a href=&quot;/alpha_prototype&quot;&gt;el Axiom Alpha&lt;/a&gt;. Debido a que aun estamos puliendo los detalles técnicos de la Axiom, todavía no queremos revelar lo que no esté completamente definido.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;span6 &quot;&gt;
+      &lt;h2&gt;Crowd Funding&lt;/h2&gt;
+      &lt;p align=&quot;justify&quot;&gt;Para financiar el desarrollo de Axiom lanzaremos una campaña de crowdfunding (micromecenazgo o financiación en masa) con una pre-venta. Mientras tanto usted puede &lt;a href=&quot;http://axiom.apertus.org/index.php?site=donate&quot;&gt;donar&lt;/a&gt; para ayudar a cubrir los costos de la creación del prototipo funcional: la cámara &lt;b&gt;the&lt;/b&gt; functional prototype: &lt;a href=&quot;/alpha_prototype&quot;&gt;Axiom Alfa&lt;/a&gt;. El plan de Axiom completo con todas las especificaciones y detalles se publicará antes del inicio de la campaña de crowdfunding.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;img src=&quot;/sites/default/files/axiom-website-banner-2013-V4_0.jpg&quot; alt=&quot;apertus° Axiom&quot; title=&quot;apertus° Axiom&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+  &lt;div class=&quot;span6&quot;&gt;
+    &lt;h2&gt;El Prototipo Axiom Alpha&lt;/h2&gt;
+      &lt;p align=&quot;justify&quot;&gt;&lt;b&gt;apertus° Axiom Alpha&lt;/b&gt; es el nombre del prototipo apertus° Axiom, que constituye algo más que la prueba de un concepto. Está planeado de manera que satisfaga de una vez por todas con las exigencias de algunas aplicaciones del mundo real, como las que se emplean en la producción de cine, hasta cierto punto. No obstante, estamos convencidos de que aunque este prototipo no será la respuesta a todas nuestras oraciones ni el logro de todos nuestros sueños, él será, sin embargo, el primer paso en la jornada hacia ese lugar a donde queremos llegar un día. El lema principal de Axiom Alfa es &quot;hay que mantener la sencillez.&quot; Por lo tanto, las funciones se reducen a lo absolutamente esencial. No hay lujos. Así, por ejemplo, hemos elegido la montura del objetivo más sencilla y más fácil de implementar desde el punto de vista técnico, pero permitiendo el control manual de apertura: La montura Nikon F. La totalidad de la cámara Axiom tendrá un sistema de montura de lentes intercambiable que cubre casi cualquiera de los lentes actualmente utilizados en la producción de películas.&lt;/p&gt;
+      &lt;p&gt;&lt;a class=&quot;btn btn-large btn-info&quot; href=&quot;http://axiom.apertus.org/index.php?site=alpha&quot;&gt;Más información en el Minisitio de Axiom »&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;span6&quot;&gt;
+    &lt;img src=&quot;/sites/default/files/alpha-image-prcessing-pipeline-v05.png&quot; width=&quot;360&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;Comparison Chart: Full Featured Axiom vs Alpha Prototype &lt;/h2&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+	&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Axiom&lt;/th&gt;&lt;th&gt;Axiom Alpha Prototype&lt;/th&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Desarrollo&lt;/b&gt;&lt;/td&gt;&lt;td&gt; Tras crowdfunding exitoso&lt;/td&gt;&lt;td&gt;En desarrollo&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Objetivo&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Camara con todas las opciones&lt;/td&gt;&lt;td&gt;Prueba ampliada del concepto prototipo&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Sensor de Imagen&lt;/b&gt;&lt;/td&gt;&lt;td&gt;CMV12000&lt;/td&gt;&lt;td&gt;CMV12000&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Resolución del Video &lt;/b&gt;&lt;/td&gt;&lt;td&gt;4K&lt;/td&gt;&lt;td&gt;1920x1080 (reducida de 4K)&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Output&lt;/b&gt;&lt;/td&gt;&lt;td&gt; Por definir &lt;/td&gt;&lt;td&gt;HDMI&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt; Format de Video Compatible&lt;/b&gt;&lt;/td&gt;&lt;td&gt;RAW sin compresión&lt;/td&gt;&lt;td&gt;RGB&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Montura para Lentes&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Sistema de Montura Intercambiable&lt;/td&gt;&lt;td&gt;Montura Nikon F&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Frecuencia de Imagen&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Hasta 150 (4K)&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot;&gt;In Development&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 02 Feb 2014 13:39:23 +0000</pubDate>
+ <dc:creator>Sasha</dc:creator>
+ <guid isPermaLink="false">278 at </guid>
+  </item>
+  <item>
+    <title>DIY Flourescent Area Light</title>
+    <link>/dyiarealight</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/project/Divalite400.jpg&quot; title=&quot;DIY Flourescent Area Light&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-216-zlccxfiVTfU&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/project/Divalite400.jpg?itok=0GgONwdX&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;About&lt;/h2&gt;
+&lt;p&gt;Professional cinema grade lighting equipment is expensive. But after a Kinoflo Divalite 401 tear down we discovered that it consists mostly of off-the-shelf parts that can be sourced locally for a fraction of the price of buying from the original manufacturer. So this DIY project seeks to build a light that is almost as good as the original for just a fraction of the price. Future expansions could make it better than the original though: put in an Arduino like micro controller plus wireless interface (Xbee or similar) to remotely dim your lights anyone?&lt;/p&gt;
+&lt;h2&gt;Detailed information&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://wiki.apertus.org/index.php?title=DIY_Flourescent_Area_Light&quot;&gt;apertus° wiki&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/31&quot;&gt;Research&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 19 Apr 2013 08:13:06 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">216 at </guid>
+  </item>
+  <item>
+    <title>DIY Flying Probe / Automated Optical Inspection</title>
+    <link>/diy-flying-probe-AOI</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/project/render10.jpg&quot; title=&quot;DIY Flying Probe / Automated Optical Inspection&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-446-zlccxfiVTfU&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/project/render10.jpg?itok=WcGPfR4e&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;justify twocoloumns&quot;&gt;When you google &quot;DIY Flying Probe&quot; you will notice that such a project does not seem to exist  - until now. Which is a pity as we think the vast amount of desktop 3D printers and router CNC mills have laid the foundation and provided the availability of all required parts to build something like this by now. So lets do it :).&lt;/p&gt;
+&lt;br /&gt;
+&lt;a class=&quot;imagebox&quot; href=&quot;/sites/default/files/project/render11.jpg&quot;&gt;&lt;img src=&quot;/sites/default/files/render11.jpg&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;DIY Flying Probe Concept Rendering&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;Concept&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;The approach is rather simple: We use the same stepper motors, sliding bearings, rails, geared belts and electronics that are commonly used in most DIY CNC mills and 3D printers today. We use two moving heads though that can move independently from each other: one for the top PCB side and one for the bottom PCB side. Spinning disks with two test pins each would use solenoids to push the test tips onto the PCBs. Another small stepper motor and threaded rod system would be used to control the distance of the probes to each other. End switches for all moving axis would make sure we don&#039;t break the machine while developing and improving the control software. The movement in general should be controlled with GCODE.&lt;/p&gt;
+&lt;br /&gt;
+&lt;a class=&quot;imagebox&quot; href=&quot;/sites/default/files/project/render10.jpg&quot;&gt;&lt;img src=&quot;/sites/default/files/project/render10.jpg&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;DIY Flying Probe Concept Rendering&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;Goal&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;The most important right at the beginning: We do not attempt to build an industrial grade machine. We want to build a highly affordable good enough &quot;slow&quot; machine that can verify populated and unpopulated PCBs in a reasonable amount of time - for prototyping and low volume production runs when production speed is not that much of an issue. The goal is that anyone can replicate this machine with basic supplies (prototype with 3D printer, off-the-shelf parts, later version with CNC milled aluminum parts) and that we create a developer community around it. Each side would be equipped with a camera (an AXIOM at some point in the future maybe) for aligning of PCB positions (fiducial recognition) and doing automated optical inspection (AOI) of populated PCBs. Here the idea is that the camera scans all boards and identifies component placement errors or solder paste flow problems automatically (with the help of &lt;a href=&quot;http://opencv.org/&quot; target=&quot;_blank&quot;&gt;OpenCV&lt;/a&gt;).&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;Optical Control Cables&lt;/h2&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+&lt;div class=&quot;span6&quot;&gt;&lt;a class=&quot;imagebox&quot; href=&quot;/sites/default/files/toslink-1.png&quot;&gt;&lt;img src=&quot;/sites/default/files/toslink-1.png&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;span6&quot;&gt;&lt;p class=&quot;justify&quot;&gt;We are currently planning to use optical audio cables (TOSLINK) in order to eliminate noise problems and ground loops with stepper motor control signals. This solution was developed by &lt;a href=&quot;http://irnas.eu&quot; target=&quot;_blank&quot;&gt;IRNAS&lt;/a&gt; for their CNC machine and is available as open hardware: &lt;a href=&quot;https://github.com/IRNAS/ToslinkCNC&quot;&gt;Toslink CNC&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/30&quot;&gt;Planning&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 04 Jun 2016 11:18:39 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">446 at </guid>
+  </item>
+  <item>
+    <title>Elphel Camera</title>
+    <link>/en/elphelcamera</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/page/Elphel-Camera-353.jpg&quot; title=&quot;Elphel Camera&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-95-zlccxfiVTfU&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/page/Elphel-Camera-353.jpg?itok=s6bevFZI&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;article class=&quot;node-186 node node-page en clearfix&quot; about=&quot;/node/186&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;alert alert-info&quot;&gt;Notice: This page is about the &lt;a href=&quot;http://www3.elphel.com/nc353&quot; target=&quot;_blank&quot;&gt;Elphel®  Model 353 camera&lt;/a&gt; NOT about &lt;a href=&quot;/axiom&quot;&gt;apertus° Axiom&lt;/a&gt;! Elphel® is a registered trademark of &lt;a href=&quot;http://www3.elphel.com/&quot; target=&quot;_blank&quot;&gt;Elphel, Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2 style=&quot;text-align:center&quot;&gt;Notice: The apertus° project to turn the Elphel camera into a digital cinema camera has been discontinued with the plans for the &lt;a href=&quot;/axiom&quot;&gt;AXIOM camera&lt;/a&gt;.&lt;/h2&gt;
+&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;//www.youtube.com/embed/mvI7rJ_AZys&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;br /&gt;
+See &lt;a href=&quot;/elphel-still-images&quot;&gt;still images&lt;/a&gt; captured with the Elphel camera.&lt;br /&gt;&lt;br /&gt;
+See &lt;a href=&quot;/elphel-prototypes&quot;&gt;the prototypes&lt;/a&gt; apertus° members have built with the Elphel camera.&lt;br /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/AMAX.jpg&quot; alt=&quot;AMAX&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The Elphel 353 Model free software and open hardware camera is a very interesting and powerful device for film making. You can find more information about it on the &lt;a target=&quot;_blank&quot; href=&quot;http://www3.elphel.com/&quot;&gt;Elphel Inc. Website&lt;/a&gt;. Please note that apertus° does not sell Elphel cameras. If you want to purchase one get in touch with Elphel Inc. directly - they ship worldwide.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Technical Specs:&lt;/h2&gt;
+&lt;h3&gt;Sensor:&lt;/h3&gt;
+&lt;p&gt;The camera uses an Aptina CMOS &lt;a target=&quot;_blank&quot; title=&quot;http://en.wikipedia.org/wiki/Bayer filter&quot; href=&quot;http://en.wikipedia.org/wiki/Bayer_filter&quot;&gt;bayer-pattern&lt;/a&gt; sensor with an optical format of 1/2.5&quot; (5.70mm x 4.28mm) and a native resolution of 2592x1944 (5 Megapixels). It features a 12 bit ADC and supports: region of interest, on-chip binning and decimation. Aptina claims that the chip has 70db of dynamic range at full resolution and 76db when using 2x2 binning.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;/sites/default/files/FullHD-Portrait-Mode.gif&quot; alt=&quot;Elphel FullHD portrait mode&quot; /&gt;&lt;/p&gt;
+&lt;h3&gt;Lens Mount&lt;/h3&gt;
+&lt;p&gt;The camera has a standard C-mount but ships with an adapter ring that allows to mount CS-lenses as well.&lt;/p&gt;
+&lt;h3&gt;Variable Frame-rate&lt;/h3&gt;
+&lt;p&gt;The frame-rate at which video is recorded can simply be any value you can imagine from super slow time-lapse with just a single frame a day/week/month up to the maximum value that the sensor can provide at a certain resolution (see chart below). The frame-rate is also not limited to integer values, you can record 29.97 fps as well as 5.79 fps or any other value. The camera even supports dynamic frame-rate changes in the same video container. This allows fps ramps or any custom fps curve with scripts (we still need to integrate this into ElphelVision GUI), the camera just records on frame after the other into the video container no matter how much time elapses between the exposures.&lt;/p&gt;
+&lt;h3&gt;Variable Data-rate:&lt;/h3&gt;
+&lt;p&gt;The same way you have free choice of FPS or resolution you can freely choose the compression ratio and resulting data-rate. The compressor uses a ratio between 0 - 100, where 0 equals a very strong compression, lowest image quality and datarate and 100 results in virtually uncompressed, high datarate video with maximum possible image quality. The actual data-rate exponentially increases towards 100. This quality/compression ratio can also be dynamically changed while recording and the final data-rate also depends on the actual image content. The maximum possible datarate with Elphel 353 is currently ~144Mbit/s when recording to camera connected SATA drive and 100Mbit/s when streaming video over Ethernet. The camera internal &lt;a href=&quot;http://en.wikipedia.org/wiki/Circular_buffer&quot; target=&quot;_blank&quot;&gt;circular buffer (short circbuffer)&lt;/a&gt; holds all video frames after they have gone through the internal  image compressor. The disk recorder or video streamer software then takes these frames and write them to the designated media like HDD/SSD/CF Card or over the network. If the data-rate is too high the frames cannot be written to the media as fast as new frames are written into the circbuffer. The circbuffer will overflow and the recording will drop frames. This is the tricky game: on the one hand you want to push quality to the max to get best possible image quality but on the other hand if you push too far you end up dropping frames and are left with a broken video clip.&lt;/p&gt;
+&lt;h3&gt;Custom Gamma Curves&lt;/h3&gt;
+&lt;p&gt;Some big camera manufacturers claim that a big aspect of their &quot;cinema look&quot; is the result of their specially developed gamma curve with names starting with hyper- or cine-. Truth is that you will have a hard time even finding out the actual shape of this special gamma curve.&lt;/p&gt;
+&lt;p&gt;Elphel cameras can use any custom gamma curve (generated from gamma values or any custom shape like S shapes, knees, etc. ).&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+&lt;a href=&quot;/sites/default/files/Apertus-Effective-Sensor-Sizes_e353.png&quot;&gt;&lt;img src=&quot;/sites/default/files/Apertus-Effective-Sensor-Sizes_e353.png&quot; alt=&quot;Apertus Image Sensors Area Resolutions&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Resolution&lt;/h3&gt;
+&lt;p&gt;The recording resolution can be freely adjusted to anything starting from 16x16 to 2592x1944 in 16 pixel steps. This includes AMAX (2224x1251), CIMAX (2592x1120), 2K (2048x1536), Full HD (1920x1080), HD (1280x720) and of course all lower resolution SD formats like DV PAL, DV NTSC, etc.&lt;/p&gt;
+&lt;p&gt;The lower the resolution the higher the maximum possible frame-rate. At the full sensor size (5 million pixels or 5 Megapixels) the maximal frame rate is 10 fps in normal color mode and 15 fps in JP4 RAW mode. JP4 achieves higher frame-rates in general as some camera internal calculations are skipped and need to be applied later in post-production (like debayering/demosaicing).&lt;/p&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Standard &lt;/th&gt;&lt;th&gt; Resolution &lt;/th&gt;&lt;th&gt; Record Mode &lt;/th&gt;&lt;th&gt; max. FPS &lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AMAX 16:9&lt;/td&gt;
+&lt;td&gt;2224x1264&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CIMAX 2.35:1&lt;/td&gt;
+&lt;td&gt;2592x1120&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;24.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Full HD (1080p)&lt;/td&gt;
+&lt;td&gt;1920x1088&lt;/td&gt;
+&lt;td&gt;RGB&lt;/td&gt;
+&lt;td&gt;25.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Full HD (1080p)&lt;/td&gt;
+&lt;td&gt;1920x1088&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;30.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2K&lt;/td&gt;
+&lt;td&gt;2048x1088&lt;/td&gt;
+&lt;td&gt;RGB&lt;/td&gt;
+&lt;td&gt;23.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2K&lt;/td&gt;
+&lt;td&gt;2048x1088&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;29.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HD (720p)&lt;/td&gt;
+&lt;td&gt;1280x720&lt;/td&gt;
+&lt;td&gt;RGB&lt;/td&gt;
+&lt;td&gt;57.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HD (720p)&lt;/td&gt;
+&lt;td&gt;1280x720&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;60&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NTSC DV&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;640x480&lt;/td&gt;
+&lt;td&gt;RGB / JP4 RAW&lt;/td&gt;
+&lt;td&gt;126&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NTSC 16:9&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;854x480&lt;/td&gt;
+&lt;td&gt;RGB / JP4 RAW&lt;/td&gt;
+&lt;td&gt;110&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PAL DV&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;720x576&lt;/td&gt;
+&lt;td&gt;RGB / JP4 RAW&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PAL DV 16:9&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;1024x576&lt;/td&gt;
+&lt;td&gt;RGB / JP4 RAW&lt;/td&gt;
+&lt;td&gt;84&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Raw Recording&lt;/h3&gt;
+&lt;p&gt;The RAW recording mode in the Elphel camera is called JP4 RAW. Because certain in-camera compression steps can be skipped JP4 RAW allows higher recording speed resulting in more FPS. JP4 RAW requires post-processing (the DNG Converter software) but in return offers the highest possible image quality.&lt;/p&gt;
+&lt;h3&gt;Free, Lightweight, High Quality Codec:&lt;/h3&gt;
+&lt;p&gt;The main compression algorithm used is based on MJPEG (Motion JPEG). This means that there is NO interframe-compression resulting in slow scrubbing and increased performance requirements on computers playing back the video file. With modern DSLR cameras (very popular for shooting video recently) Editors suggest to convert the footage to ProRes or MJPEG before starting editing. The Elphel camera uses this codec right away.&lt;/p&gt;
+&lt;p&gt;Red uses a similar approach with their Redcode Raw codec by utilizing Motion JPEG2000 (also called wavelet) compression.&lt;/p&gt;
+&lt;p&gt;MJPEG is not bound to any license fees and patent royalties in contrast to H264 (-&amp;gt;&lt;a target=&quot;_blank&quot; href=&quot;http://en.wikipedia.org/wiki/H.264/MPEG-4_AVC#Patent_licensing&quot;&gt;Wikipedia&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;H264 based codecs like AVCHD or other interframe compression codec require a lot more computing power for decoding or dedicated decoding hardware for smooth playback. MJPEG videos are lightweight and require very little computing resources for decoding. This allows us to use netbooks or tablet-PCs as viewfinder with apertus°.&lt;/p&gt;
+
+&lt;h3&gt;Connectors&lt;/h3&gt;
+&lt;p&gt;SATA: Can be used to connect any external SATA device that is supported under Linux (external harddrives, raids, etc.)&lt;/p&gt;
+&lt;p&gt;Ethernet: 100MBit Network with POE (48V)&lt;/p&gt;
+&lt;p&gt;USB: USB 1.1 with 5V power supply&lt;/p&gt;
+&lt;p&gt;IDE: Used to connect internal HDD&lt;/p&gt;
+&lt;p&gt;RS232: Access to Console and debug output&lt;/p&gt;
+
+&lt;h3&gt;Recording Media&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Optional internal IDE 1.8&quot; HDD&lt;/li&gt;
+&lt;li&gt;2 internal CF Card Slots&lt;/li&gt;
+&lt;li&gt;external SATA connector to connect any SATA device (Linux support required)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/43&quot;&gt;Research&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/35&quot;&gt;Discontinued&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Related Project(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/elphelcamera&quot;&gt;Elphel Camera&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 07 Aug 2012 20:03:07 +0000</pubDate>
+ <dc:creator>philippe</dc:creator>
+ <guid isPermaLink="false">95 at </guid>
+  </item>
+  <item>
+    <title>La caméra Elphel </title>
+    <link>/node/224</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/page/Elphel-Camera-353.jpg&quot; title=&quot;La caméra Elphel &quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-224-zlccxfiVTfU&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/page/Elphel-Camera-353.jpg?itok=s6bevFZI&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;article class=&quot;node-186 node node-page en clearfix&quot; about=&quot;/node/186&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;alert alert-info&quot;&gt;Notice: This page is about the &lt;a href=&quot;http://www3.elphel.com/nc353&quot; target=&quot;_blank&quot;&gt;Elphel®  Model 353 camera&lt;/a&gt; NOT about &lt;a href=&quot;/axiom&quot;&gt;apertus° Axiom&lt;/a&gt;! Elphel® is a registered trademark of &lt;a href=&quot;http://www3.elphel.com/&quot; target=&quot;_blank&quot;&gt;Elphel, Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+
+
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;http://www.youtube.com/embed/mvI7rJ_AZys&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/AMAX.jpg&quot; alt=&quot;AMAX&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La caméra  Elphel modèle 353 modèle conçue avec des logiciels et des composants libres est un appareil très intéressant et puissant pour la réalisation de films. Vous pouvez trouver plus d&#039;informations à ce sujet sur le site d&#039; &lt;a target=&quot;_blank&quot; href=&quot;http://www3.elphel.com/&quot;&gt; Elphel Inc.&lt;/a&gt;. Veuillez noter que apertus° ne vend pas de caméras Elphel. Si vous voulez en acheter une, entrez en contact avec Elphel Inc. directement - ils expédient dans le monde entier.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Spécificités techniques:&lt;/h2&gt;
+
+&lt;h3&gt;Capteur:&lt;/h3&gt;
+
+&lt;p&gt;La caméra utilise un capteur CMOS Aptina &lt;a target=&quot;_blank&quot; title=&quot;http://en.wikipedia.org/wiki/Bayer filter&quot; href=&quot;http://en.wikipedia.org/wiki/Bayer_filter&quot;&gt;bayérisé&lt;/a&gt; avec un format optique de 1/2.5&quot; (5.70mm x 4.28mm) et une résolution native de 2592x1944 (5 Megapixels). Elle dispose de 12 bits ADC et supporte: région d&#039;intérêt, binning sur puce et sous-échantillonage. Aptina affirme que la puce a 70dB de dynamique en pleine résolution et 76dB en utilisant un binning 2x2.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;/sites/default/files/FullHD-Portrait-Mode.gif&quot; alt=&quot;Elphel FullHD portrait mode&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Monture des optiques&lt;/h3&gt;
+
+&lt;p&gt;La caméra a une monture C standard, mais est livré avec une bague d&#039;adaptation qui permet ainsi de monter des optiques CS.&lt;/p&gt;
+
+&lt;h3&gt;Images secondes variables&lt;/h3&gt;
+
+&lt;p&gt;Le taux d&#039;images/secones à laquelle la vidéo est enregistrée peut être simplement la valeur que vous pouvez imaginer. D&#039;un time-lapse super lent avec juste une image par jour / semaine / mois jusqu&#039;à la valeur maximale que le capteur peut fournir à une certaine résolution (voir tableau ci-dessous). Le taux de trame n&#039;est pas non plus limitée à des valeurs entières, vous pouvez enregistrer 29,97 i/s ainsi que 5,79 i/s ou toute autre valeur. La caméra prend même des changements dynamiques de taux dans le même conteneur vidéo. Cela permet des créer des rampes i/s ou n&#039;importe quelle courbe i/s avec son (nous avons encore besoin de les intégrer dans ElphelVision), la caméra enregistre tout image après image dans le conteneur vidéo, peu importe combien de temps s&#039;écoule entre les expositions.&lt;/p&gt;
+
+&lt;h3&gt;Taux de données variables : &lt;/h3&gt;
+
+&lt;p&gt;De la même façon vous avez le libre choix de FPS ou de la résolution que vous pouvez librement choisir le taux de compression et le débit de données qui en résulte. Le compresseur utilise un ratio entre 0 - 100, où 0 correspond à une très forte compression, moins la qualité d&#039;image et datarate et 100 résultats dans pratiquement non compressé, la vidéo haute datarate avec une qualité d&#039;image possible. Le débit de données réel augmente de façon exponentielle vers 100. Ce ratio qualité / compression peut également être modifiée dynamiquement pendant l&#039;enregistrement et le débit de données finale dépend aussi du contenu de l&#039;image réelle. Le débit de données maximal possible avec Elphel 353 est actuellement ~ 144Mbit / s lors de l&#039;enregistrement de la caméra connectée dur SATA et 100Mbit / s lorsque le streaming vidéo via Ethernet. La caméra interne &lt;a href=&quot;http://en.wikipedia.org/wiki/Circular_buffer&quot; target=&quot;_blank&quot;&gt; tampon circulaire (court circbuffer)  a&amp;gt; détient toutes les images de la vidéo après avoir traversé l&#039;image interne compresseur. L&#039;enregistreur de disque ou un logiciel de streamer vidéo prend alors ces cadres et les écrire dans les médias désignés comme HDD / SSD / CF Card ou sur le réseau. Si le débit de données est trop élevée, les cadres ne peuvent pas être écrites sur le support le plus rapidement de nouveaux cadres sont écrites dans le circbuffer. Le circbuffer débordement de volonté et l&#039;enregistrement vont baisser cadres. C&#039;est le jeu délicat: d&#039;une part, vous voulez pousser la qualité au maximum pour obtenir la meilleure qualité d&#039;image possible, mais d&#039;autre part, si vous poussez trop loin, vous finissez par abandonner des images et se retrouve avec un clip vidéo cassé.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Courbes gamma personnalisées&lt;/h3&gt;
+
+&lt;p&gt;Certains grands fabricants d&#039;appareils photo prétendent qu&#039;un aspect important de leur &quot;look cinéma&quot; est le résultat de leur courbe de gamma spécialement développée par eux,  avec des noms commençant généralement par &quot;hype&quot; rou &quot;ciné&quot;. La vérité est que vous aurez des difficultés à trouver la forme réelle de cette courbe de gamma &quot;spéciale&quot;.&lt;/p&gt;
+
+&lt;p&gt;les caméras Elphel  peuvent utiliser n&#039;importe quelle courbe gamma personnalisée (générée à partir des valeurs gamma ou de toute forme personnalisée comme des formes en S, etc.)&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+&lt;a href=&quot;/sites/default/files/Apertus-Effective-Sensor-Sizes_e353.png&quot;&gt;&lt;img src=&quot;/sites/default/files/Apertus-Effective-Sensor-Sizes_e353.png&quot; alt=&quot;Apertus Image Sensors Area Resolutions&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Résolution&lt;/h3&gt;
+
+&lt;p&gt;La résolution d&#039;enregistrement peut être ajustée librement pour tout départ de 16x16 à 2592x1944 en 16 étapes/pixels. Cela inclut AMAX (2224x1251), CIMAX (2592x1120), 2K (2048x1536), Full HD (1920x1080), HD (1280x720) et bien sûr tous les formats SD de résolution inférieure comme DV PAL, DV NTSC, etc &lt;/p&gt;
+
+&lt;p&gt;Plus la résolution est moindre, plus le taux d&#039;image maximal est possible. À la taille du capteur plein (5 millions de pixels ou 5 mégapixels) le taux de trame maximal est de 10 images par secondes en mode couleur normale et de 15 images/secondes en mode RAW JP4. Le JP4 atteint des taux d&#039;images plus élevés en général quand quelques calculs internes de l&#039;appareil sont ignorés et sont appliquées plus tard dans la post-production (comme le debayering/dématriçage).&lt;/p&gt;
+
+&lt;table class=&quot;table table-striped&quot;&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Standard &lt;/th&gt;&lt;th&gt; Résolution &lt;/th&gt;&lt;th&gt; Mode d&#039;enregistrement &lt;/th&gt;&lt;th&gt; i/s max &lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AMAX 16:9&lt;/td&gt;
+&lt;td&gt;2224x1264&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CIMAX 2.35:1&lt;/td&gt;
+&lt;td&gt;2592x1120&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;24.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Full HD (1080p)&lt;/td&gt;
+&lt;td&gt;1920x1088&lt;/td&gt;
+&lt;td&gt;RGB&lt;/td&gt;
+&lt;td&gt;25.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Full HD (1080p)&lt;/td&gt;
+&lt;td&gt;1920x1088&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;30.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2K&lt;/td&gt;
+&lt;td&gt;2048x1088&lt;/td&gt;
+&lt;td&gt;RGB&lt;/td&gt;
+&lt;td&gt;23.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2K&lt;/td&gt;
+&lt;td&gt;2048x1088&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;29.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HD (720p)&lt;/td&gt;
+&lt;td&gt;1280x720&lt;/td&gt;
+&lt;td&gt;RGB&lt;/td&gt;
+&lt;td&gt;57.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HD (720p)&lt;/td&gt;
+&lt;td&gt;1280x720&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;60&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NTSC DV&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;640x480&lt;/td&gt;
+&lt;td&gt;RGB / JP4 RAW&lt;/td&gt;
+&lt;td&gt;126&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NTSC 16:9&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;854x480&lt;/td&gt;
+&lt;td&gt;RGB / JP4 RAW&lt;/td&gt;
+&lt;td&gt;110&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PAL DV&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;720x576&lt;/td&gt;
+&lt;td&gt;RGB / JP4 RAW&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PAL DV 16:9&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;1024x576&lt;/td&gt;
+&lt;td&gt;RGB / JP4 RAW&lt;/td&gt;
+&lt;td&gt;84&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;Enregistrement Raw&lt;/h3&gt;
+
+&lt;p&gt;Le mode d&#039;enregistrement RAW dans l&#039;appareil Elphel est appelé JP4 RAW. Parce que certaines étapes de compression internes peuvent être ignorées, le JP4 RAW permet une vitesse d&#039;enregistrement plus élev, avec comme résultat en plus d&#039;images secondes (i/s). le JP4 RAW nécessite un post-traitement (le logiciel DNG Converter) mais en retour, il offre la meilleure qualité d&#039;image possible.&lt;/p&gt;
+
+&lt;h3&gt;Codec gratuit, léger, et de haute qualité :&lt;/h3&gt;
+
+&lt;p&gt;Le principal algorithme de compression utilisé est basé sur MJPEG (Motion JPEG). Cela signifie qu&#039;il n&#039;y a AUCUNE inter-compression résultant de lavage lent et exigences accrues en matière de performance sur les ordinateurs de la lecture d&#039;un fichier vidéo. Avec les appareils photo réflex numériques modernes (très populaire pour le tournage vidéo récemment) rédacteurs suggèrent de convertir les images en ProRes ou MJPEG avant l&#039;édition départ. La caméra Elphel utilise ce codec tout de suite.&lt;/p&gt;
+
+&lt;p&gt;Red utilise une approche similaire avec leur Redcode codec Raw en utilisant le JPEG2000 (également appelée ondelette) en compression.&lt;/p&gt;
+
+&lt;p&gt;MJPEG n&#039;est pas lié à des droits de licence et des redevances de brevets, contrairement à l&#039;H264 (-&amp;gt; &lt;a target=&quot;_blank&quot; href=&quot;# http://en.wikipedia.org/wiki/H.264/MPEG-4_AVC Patent_licensing&quot;&gt; Wikipedia &lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;les codecs H264 de base comme l&#039;AVCHD ou tout autre codec de compression internes exigent beaucoup plus de puissance de calcul pour le décodage ou de matériel de décodage dédié pour une lecture fluide. les vidéos MJPEG sont légeres et nécessitent très peu de ressources informatiques pour le décodage. Cela nous permet d&#039;utiliser les netbooks ou tablettes-PC comme viseur avec apertus °.&lt;/p&gt;
+
+&lt;h3&gt;Connecteurs&lt;/h3&gt;
+
+&lt;p&gt;SATA: peut être utilisé pour connecter un périphérique SATA externe qui est supporté sous Linux (disques durs externes, raids, etc)&lt;/p&gt;
+&lt;p&gt;Ethernet: 100MBit avec POE (48V)&lt;/p&gt;
+&lt;p&gt;USB: USB 1.1 avec alimentation 5V&lt;/p&gt;
+&lt;p&gt;IDE: Utilisée pour connecter un HDD interne&lt;/p&gt;
+&lt;p&gt;RS232: accès à la console et à la sortie pour débogage&lt;/p&gt;
+
+&lt;h3&gt;Support d&#039;enregistrement &lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IDE 1.8&quot; HDD interne optionnel&lt;/li&gt;
+&lt;li&gt;2 logements internes de carte CF&lt;/li&gt;
+&lt;li&gt;connecteur externe SATA pour connecter n&#039;importe quel appareil SATA (Support Linux requis)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/43&quot;&gt;Research&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot;&gt;In Development&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 26 Apr 2013 07:39:04 +0000</pubDate>
+ <dc:creator>Alban</dc:creator>
+ <guid isPermaLink="false">224 at </guid>
+  </item>
+  <item>
+    <title>Pong</title>
+    <link>/pong-project</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/project/paddle_schematics.jpg&quot; title=&quot;Pong&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-300-zlccxfiVTfU&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/project/paddle_schematics.jpg?itok=AMlluCAL&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;We implemented Pong as &lt;a href=&quot;/node/324&quot;&gt;April fools joke in 2014&lt;/a&gt; when we claimed AXIOM has been bought by a Japanese game console manufacturer and from now was to be turned into a cinematic retro gaming console.&lt;br /&gt;
+&lt;br /&gt;
+&lt;a class=&quot;colorbox&quot; rel=&quot;axiomgamingcamera&quot; href=&quot;/sites/default/files/axiom-gaming-camera-03.jpg&quot;&gt;&lt;img src=&quot;/sites/default/files/axiom-gaming-camera-03.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a class=&quot;colorbox&quot; rel=&quot;axiomgamingcamera&quot; href=&quot;/sites/default/files/paddle-controller.jpg&quot;&gt;&lt;img src=&quot;/sites/default/files/paddle-controller.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img style=&quot;float:left; padding-right:15px&quot; src=&quot;https://raw.githubusercontent.com/apertus-open-source-cinema/alpha-hardware/master/Paddle/paddle_board.png&quot; width=&quot;300px&quot; /&gt;
+&lt;h2&gt;Paddle Controller Hardware&lt;/h2&gt;
+&lt;a href=&quot;https://github.com/apertus-open-source-cinema/alpha-hardware/tree/master/Paddle&quot; target=&quot;_blank&quot;&gt;Hardware files on GitHub&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/apertus-open-source-cinema/alpha-software/tree/pong&quot; target=&quot;_blank&quot;&gt;Firmware Image Tree for Pong on GitHub&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/apertus-open-source-cinema/alpha-software/blob/pong/pong/pong.c&quot; target=&quot;_blank&quot;&gt;Pong C Code on GitHub&lt;/a&gt;&lt;br /&gt;
+
+
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/project/paddle_schematics.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img style=&quot;float:left; padding-right:15px&quot; src=&quot;/sites/default/files/project/paddle_schematics.jpg&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://github.com/apertus-open-source-cinema/alpha-hardware/blob/master/Paddle/paddle_schematic.pdf?raw=true&quot; target=&quot;_blank&quot;&gt;Download Schematics PDF&lt;/a&gt;
+&lt;div style=&quot;clear:both&quot;&gt;&lt;/div&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/PaddleBox.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img style=&quot;float:left; padding-right:15px&quot; src=&quot;/sites/default/files/PaddleBox.jpg&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://github.com/apertus-open-source-cinema/alpha-hardware/raw/master/Paddle/PaddleBox.eps&quot; target=&quot;_blank&quot;&gt;Download Paddle Enclosure Box EPS for Laser Cutter&lt;/a&gt;
+&lt;div style=&quot;clear:both&quot;&gt;&lt;/div&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+&lt;hr /&gt;
+&lt;br /&gt;
+&lt;p style=&quot;padding-left:100px; padding-right:100px;&quot;&gt;&lt;i&gt;Let me start by saying we are very sorry in case we managed to scare you for a second (or maybe a bit longer) :) I hope we did not do any permanent damage to your opinion of us. We did not sell the company and we have no plans to do so. We were actually pretty sure our proposals were considered extreme enough that nobody would take them seriously. So let&#039;s summarize what we pulled off this year at the one time of the year when there are no rules (April 1st).&lt;/i&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;On April 1st we posted the following announcement:&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;article class=&quot;node-298 node node-article en node-hidden clearfix&quot; about=&quot;/node/298&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;a class=&quot;colorbox&quot; rel=&quot;axiomgamingcamera&quot; href=&quot;/sites/default/files/axiom-gaming-camera-03.jpg&quot;&gt;&lt;img src=&quot;/sites/default/files/axiom-gaming-camera-03.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;The next step for apertus°&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+With great pleasure, we hereby announce that the apertus° project has been acquired by a Japanese multinational consumer electronics company seeking to remain anonymous. With a new owner, the focus of the revolutionary Axiom camera will shift to a different target market: The Axiom is set to become the first cinematic camera featuring a crystal sharp 4K video game experience. Endless on-set gaming fun is now a guarantee.&lt;/p&gt;
+&lt;br /&gt;
+&lt;h1 style=&quot;color:#F15B40;&quot;&gt;The Best Camera to Play.&lt;/h1&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;//www.youtube.com/embed/sUaN9tx07jk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+The apertus° Axiom Gaming Camera opens the door to an incredible journey. Enter immersive new cinematic worlds fused with the best retro gaming experience since the eighties. Apertus° puts the casual gaming film-maker first, with an astounding launch line-up including 10 retro games already in development. Capture amazing top-tier footage whilst playing Pong 4K, soon to be followed with Pacman 6K*.&lt;br /&gt;
+&lt;br /&gt;
+* HFR and Stereo 3D gaming lineup will follow soon.
+&lt;/p&gt;
+
+&lt;br /&gt;
+&lt;h1&gt;Accessorize Yourself!&lt;/h1&gt;
+
+&lt;a class=&quot;colorbox&quot; rel=&quot;axiomgamingcamera&quot; href=&quot;/sites/default/files/paddle-controller.jpg&quot;&gt;&lt;img src=&quot;/sites/default/files/paddle-controller.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Every Axiom Gaming Camera will come with the custom developed Pong 4K Gaming Paddle, held in a specially designed Axiom Alpha enclosure. One Dimension. 4K Resolution. Infinite Fun! The Axiom Gaming Camera will also integrate with your favourite camera gear accessories for further interactive gaming control. The possibilities are endless: wireless follow focus game controller, ‘catch the clap’ controller, bad actor wipeout gaming pistol, etc. The Axiom Gaming Camera obeys your every command.&lt;/p&gt;
+&lt;br /&gt;
+&lt;h1 style=&quot;font-size:3.3em; padding-bottom:20px&quot;&gt;Declare Yourself Playful&lt;/h1&gt;
+&lt;a class=&quot;colorbox&quot; rel=&quot;axiomgamingcamera&quot; href=&quot;/sites/default/files/Pong-4K-Cardridge.png&quot;&gt;&lt;img style=&quot;float:left; padding-right:15px;&quot; width=&quot;300px&quot; src=&quot;/sites/default/files/Pong-4K-Cardridge.png&quot; /&gt;&lt;/a&gt;
+&lt;h2 style=&quot;color:#F15B40;&quot;&gt;Be a game changer!&lt;/h2&gt;
+&lt;p class=&quot;justify&quot;&gt;
+Swap games easily even whilst shooting 4K footage at up to 120 FPS. All this and more can be done in camera with our convenient solid state media gaming cartridge holding up to 3 games per unit*.&lt;br /&gt;
+&lt;br /&gt;
+* can also be used to store up to 1 hour of uncompressed 4K raw footage.&lt;/p&gt;
+&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;h1 style=&quot;font-size:3.3em; color:#F15B40; padding-bottom:10px&quot;&gt;Ready to Game?
+&lt;h2&gt;Built for the future with the best from the past.&lt;/h2&gt;
+&lt;/h1&gt;&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Axiom means creativity without limits. Unforgettable gaming experiences featuring the greatest from the birth of gaming. You choose the experience. Alone on your own, or together with your crew. Nothing will hold you or your imagination back. Finally, spend all of that useless time waiting around on-set playing with something meaningful.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;On April 2nd we posted the followup statement (which was also fake of course):&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;article class=&quot;node-299 node node-article en node-hidden clearfix&quot; about=&quot;/node/299&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p style=&quot;padding-left:100px; padding-right:100px;&quot; class=&quot;justify&quot;&gt;&lt;i&gt;
+Dear readers, when I visited the apertus° website yesterday I first thought our webserver had been hacked, but I&#039;ve quickly found out who was responsible for these &lt;a href=&quot;/2014-axiom-becomes-gaming-console-article&quot;&gt;irresponsible lies regarding the Axiom project being converted into a gaming console&lt;/a&gt;. I can assure you that the company has not been sold to anyone. None of the BS is true and I have no idea why anybody would want to spread such blatant lies at this time of the year. I am the CEO of the apertus° company and have personally fired those who are responsible. I can assure you that this will never happen again.&lt;br /&gt;
+&lt;br /&gt;
+A friend of mine who speaks Japanese has looked at the video and explained to me what the guy is actually talking about. It&#039;s all a fake. He&#039;s explaining how to prepare Sushi and that he likes to eat Miso soup before doing so....&lt;br /&gt;
+&lt;br /&gt;
+&lt;iframe width=&quot;670&quot; height=&quot;377&quot; src=&quot;//www.youtube.com/embed/Fyz1x8GQUw8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;br /&gt;
+
+You journalists out there, please stop calling me. I have nothing else to say. I want to finish post production for &lt;a href=&quot;http://vanitas.picoux.be/&quot; target=&quot;blank&quot;&gt;my feature film&lt;/a&gt; and haven&#039;t been able to get any work done all day.&lt;br /&gt;
+&lt;br /&gt;
+&lt;iframe width=&quot;670&quot; height=&quot;377&quot; src=&quot;//www.youtube.com/embed/IHSjgcm9s_4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;padding-left:100px; padding-right:100px;&quot; class=&quot;justify&quot;&gt;&lt;i&gt;
+Oh, but for those wondering what all the fuss around Pong is about. This is actually true. The Axiom Alpha prototype can really run Pong as 4K real time overlay above the footage it is capturing. And &lt;a href=&quot;/pong-project&quot;&gt;the paddle&lt;/a&gt; also works... now that I can&#039;t get anything done in the editing room I might go play Pong for a bit,.... see you!&lt;/i&gt;&lt;/p&gt;&lt;br /&gt;
+
+&lt;div style=&quot;padding-left:600px;&quot;&gt;Your apertus° CEO,&lt;br /&gt;Oscar Spierenburg&lt;/div&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;p style=&quot;padding-left:100px; padding-right:100px;&quot;&gt;
+&lt;iframe width=&quot;670&quot; height=&quot;377&quot; src=&quot;//www.youtube.com/embed/zcC-p44c75k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;p&gt;We have seen posts in game development forums where people expressed interest in this new gaming console and we have seen posts from angry people asking how we could betray our loyal fans by selling out like this ... So did we manage to fool you? :P&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/34&quot;&gt;Completed&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Related Project(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/alpha_prototype&quot;&gt;AXIOM Alpha&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 01 Apr 2014 14:02:34 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">300 at </guid>
+  </item>
+  </channel>
+</rss>

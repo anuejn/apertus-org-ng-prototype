@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="/taxonomy/term/31/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Research</title>
+    <link>/taxonomy/term/31/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="/taxonomy/term/31/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Battery Pack</title>
+    <link>/en/battery</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/project/lipoenclosure%5B1%5D.jpg&quot; title=&quot;Battery Pack&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-34-o-rp0_qlbNY&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/project/lipoenclosure%5B1%5D.jpg?itok=gjOedvRe&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+&lt;div class=&quot;field-items&quot;&gt;
+&lt;div class=&quot;field-item even&quot; property=&quot;encoded&quot;&gt;
+&lt;p class=&quot;alert alert-info&quot;&gt;Notice: This page is about the &lt;a href=&quot;http://www3.elphel.com/nc353&quot; target=&quot;_blank&quot;&gt;Elphel®  Model 353 camera&lt;/a&gt; NOT about &lt;a href=&quot;/axiom&quot;&gt;apertus° Axiom&lt;/a&gt;! Elphel® is a registered trademark of &lt;a href=&quot;http://www3.elphel.com/&quot; target=&quot;_blank&quot;&gt;Elphel, Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Power Consumption&lt;/h2&gt;
+&lt;p&gt;Elphel offers the modified Elphel 353 camera that works with 12-36V DC for additional 50$. This modification is the key to enable mobile operation. The best efficiency range is said to be at around 15V.&lt;/p&gt;
+&lt;p&gt;Typical Elphel camera power consumption:&lt;br /&gt;
+2400 milliwatts	just booted&lt;br /&gt;
+3000 milliwatts	after setting image parameters&lt;br /&gt;
+3700 milliwatts	streamer on&lt;br /&gt;
+3300 milliwatts	streamer off&lt;br /&gt;
+3800 milliwatts	streamer on and somebody playing the stream&lt;br /&gt;
+5000 milliwatts	with streamer on and HD writing at full speed (dd)&lt;br /&gt;
+5800 milliwatts	streamer on, HD and USB-flash writing at full speed&lt;/p&gt;
+&lt;p&gt;If you are using an external HDD/SSD with the camera you have to provide power to this device as well. The best solution we have found so far is using an external 2.5&quot; HDD enclosure with USB and eSATA. You can provide 5V power through USB and connect it to the camera with an eSATA to SATA adapter cable.&lt;/p&gt;
+&lt;p&gt;From our experience &quot;general notebook backup-power batteries&quot; also called &quot;	 External Power Pack for Notebooks&quot; work very reliable in the Apertus set-up&lt;br /&gt;
+&lt;/p&gt;&lt;h2&gt;Tested batteries&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.digipowersolutions.com/store/product_info.php/cPath/3/products_id/676?osCsid=d3af7ec4964ee2c9d3929b7124103a4d&quot; target=&quot;_blank&quot;&gt;Digipower EBP-NB44&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Technical Specs:&lt;/b&gt;&lt;br /&gt;
+11.1V, 4400mAh, 48.8Wh&lt;br /&gt;
+provides: 5V (USB connector), 16V, 19V&lt;br /&gt;
+It has remaining capacity status LEDs, power on/off button and can be charged while being used.&lt;br /&gt;
+Price: ~100$&lt;/p&gt;
+&lt;p&gt;When testing this battery pack we noticed a problem between the over-current (and maybe other protection circuits) detection of the Elphel camera and the Digipower battery pack which resulted in power being constantly cut and re-enabled at 16V. It worked flawlessly at 19V though.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.energizerpowerpacks.com/us/products/index.html#externalbatteries&quot; target=&quot;_blank&quot;&gt;Energizer XP8000 and XP18000&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Technical Specs:&lt;/b&gt;&lt;br /&gt;
+XP8000 has a listed capacity of 8000mAh and the XP18000 of 18000 mAh (they fail to tell us at which Voltage though so we can&#039;t calculate Wh)&lt;br /&gt;
+both provide 5V (USB) 1000 mA, 10.5V 2000mA, 19V 2000mA&lt;br /&gt;
+Both have remaining capacity status LEDs, power on/off button, we did not try charging them while using them.&lt;br /&gt;
+Price: XP8000 ~80$, XP18000 ~140$&lt;/p&gt;
+&lt;p&gt;We used the XP18000 one in the south Utah desert with an Elphel 353 and Intel SSD and had no bad experience with it. At the end of the day the battery was still 3 out of 4 status leds full.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.tekkeon.com/products-mypowerall.html&quot; target=&quot;_blank&quot;&gt;Tekkeon myPower All 3450i&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Technical Specs:&lt;/b&gt;&lt;br /&gt;
+The Tekkon myPower ALL comes in two flavours the 3450 version with a capacity of 50Wh and the industrial grade 3450i version with 58 Wh. Both are extendable with an addtional battery adding another 50Wh. Voltage can be selected via dip switch (3450i) ranging from 5V to 19V. The battery can be used while charging. The updated revision has now also an addtional 5V USB port that can be used simultaneously.&lt;/p&gt;
+&lt;p&gt;Price: ~140$ (3450) or ~200$ (3450i), Extenstion vattery: 100$&lt;/p&gt;
+&lt;p&gt;I used the Tekkeon 3450i plus extension battery extensivly troughout my recordings in the fields.&lt;/p&gt;
+&lt;h2&gt;Tests with LiPo battery&lt;/h2&gt;
+&lt;p&gt;We did some tests with batteries actually meant to be used in RC-planes or -helicopters. LiPo batteries have the highest energy-density that is currently available, meaning for the same amount of power you need the least weight which is definitely desirable since the rest of the Apertus rig is extremely lightweight (e.g. camera: 230g). Though these batteries are also the most expensive ones and need some extra precaution as they posses the ability to light themselves on fire if not being handled properly.2000mAh LiPo using a &lt;a href=&quot;http://www.himodel.com/electric/LiPo_Saver_9V_for_3_cell_LiPo_Battery.html&quot; target=&quot;_blank&quot;&gt;Lipo saver LED&lt;/a&gt; (to avoid discharging the battery to below critical 9V)&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://img13.imageshack.us/img13/7035/lipoenclosure.jpg&quot; width=&quot;500&quot; /&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;In our tests everything went smoothly though, batteries powered Apertus flawlessly and there were no sudden combustions ;-)&lt;/p&gt;
+&lt;h2&gt;Additional External Links:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.antonbauer.com/HowToChoose&quot;&gt;How to choose your battery&lt;/a&gt; (reference for the power consumption of different cameras and manufacturers. &lt;em&gt;Sony PD 170: 8 Watts Red One: 75 Watts&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.antonbauer.com/downloads/2008Handbook.pdf&quot; target=&quot;_blank&quot;&gt;http://www.antonbauer.com/downloads/2008Handbook.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hy-research.com/Li_power.html&quot; target=&quot;_blank&quot;&gt;HY Research - Simple Li battery power supply&lt;/a&gt; (project of building a small Lithium Ion battery pack) &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a title=&quot;http://wiki.elphel.com/index.php?title=Talk:Modifying_the_camera_for_12-36v_mobile_applications&amp;amp;rcid=5266&quot; href=&quot;http://wiki.elphel.com/index.php?title=Talk:Modifying_the_camera_for_12-36v_mobile_applications&amp;amp;rcid=5266&quot;&gt;http://wiki.elphel.com/index.php?title=Talk:Modifying_the_camera_for_12-...&lt;/a&gt; (Some more infos at elphel)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt; Notes/suggestions:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Its important to have a proper mount system for the battery pack that allows battery changing without screwing and plugin in multiple connectors. Examples are the Sony V-Mount for their professional cameras or the Anton Bauer mount.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Related Project(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/elphelcamera&quot;&gt;Elphel Camera&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Oct 2011 11:04:23 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">34 at </guid>
+  </item>
+  <item>
+    <title>DIY Flourescent Area Light</title>
+    <link>/dyiarealight</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/project/Divalite400.jpg&quot; title=&quot;DIY Flourescent Area Light&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-216-o-rp0_qlbNY&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/project/Divalite400.jpg?itok=0GgONwdX&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;About&lt;/h2&gt;
+&lt;p&gt;Professional cinema grade lighting equipment is expensive. But after a Kinoflo Divalite 401 tear down we discovered that it consists mostly of off-the-shelf parts that can be sourced locally for a fraction of the price of buying from the original manufacturer. So this DIY project seeks to build a light that is almost as good as the original for just a fraction of the price. Future expansions could make it better than the original though: put in an Arduino like micro controller plus wireless interface (Xbee or similar) to remotely dim your lights anyone?&lt;/p&gt;
+&lt;h2&gt;Detailed information&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://wiki.apertus.org/index.php?title=DIY_Flourescent_Area_Light&quot;&gt;apertus° wiki&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/31&quot;&gt;Research&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 19 Apr 2013 08:13:06 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">216 at </guid>
+  </item>
+  <item>
+    <title>DIY Flourescent Area Light</title>
+    <link>/node/217</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/sites/default/files/3360808126_ddae781127_b.jpg&quot; /&gt;
+&lt;p style=&quot;font-size:0.8em;&quot;&gt;Photographed using 2 Diva Lites by &lt;a href=&quot;http://www.flickr.com/photos/gonzo_photo/3360808126/&quot;&gt;gregorfischer.photography (flickr.com Creative Commons)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;I love the Kinoflo Diva Lite - it provides soft but strong light and gives great texture to faces.
+Since I always have it at disposal and can use it whenever I want I took it for granted already. It was just in &lt;a href=&quot;http://lsm.apertus.org&quot;&gt;Geneva at the first global apertus° community meet up&lt;/a&gt; when I wanted to rent one for the apertus° booth that I discovered how incredibly expensive these are.
+So I started my research to find out what part of it is so costly and created this apertus° project to build an alternative cheaper DIY fluorescent area light and sharing everything learned on the path in the apertus° spirit.&lt;/p&gt;
+
+&lt;p&gt;So now we disassembled our Diva Lite to see what secrets hid under the hood - the big surprise: NONE - they also just use off-the-shelf Osram Ballast and no additional electronics - their tubes are of higher grade than standard ones but you can get alternative tubes for studio lighting that are maybe just 5-10% worse for a much lower price.&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;http://wiki.apertus.org/images/1/1b/Diva_back_disassembled.jpg&quot; /&gt;&lt;/div&gt;
+&lt;br /&gt;
+
+&lt;h2&gt;Details&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://wiki.apertus.org/index.php?title=DIY_Flourescent_Area_Light&quot;&gt;DIY Flourescent Area Light on apertus° wiki&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-audience field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/28&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Intermediate&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-status field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/31&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Research&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/dyiarealight&quot;&gt;DIY Flourescent Area Light&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 19 Apr 2013 13:10:44 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">217 at </guid>
+  </item>
+  </channel>
+</rss>

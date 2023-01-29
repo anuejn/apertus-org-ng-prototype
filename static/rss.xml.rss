@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="/frontpage" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>apertus° - open source cinema</title>
+    <link>/frontpage</link>
+    <description>apertus° - open source cinema RSS feed</description>
+    <language>en</language>
+     <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>AXIOM Team Talk Volume 14.1 - Moving Facilities, Updates and GSoC Projects</title>
+    <link>/axiom-team-talk-14-1-moving-facilites-updates-gsoc-projects-article</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;1170&quot; height=&quot;658&quot; src=&quot;https://www.youtube.com/embed/z4KE4gE_jB0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Moving Offices&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;For the last two years the AXIOM headquarters has cohabited from the modest &lt;a href=&quot;”https://amescon.com/”&quot; target=&quot;”_blank”&quot;&gt;Amescon facilities&lt;/a&gt; in the 15th District of Vienna, Austria. This is where most of the electronics manufacturing for the AXIOM Betas has taken place. This spring we began the process of moving to a new, bigger and better shared office called &lt;a href=&quot;https://factoryhub.at/&quot; target=&quot;_blank&quot;&gt;Factory Hub Vienna&lt;/a&gt; - this was quite a challenge as the pick and place machine was built and assembled inside the old office and so it wasn’t clear whether or not the machine would fit through the doors… it didn’t. In the first Team Talk video for some time we give the community a tour of our new building. Factory Hub Vienna hosts a diverse range of hardware projects and their teams but it’s also home to a fully fledged, industrial, electronics manufacturing facility.&lt;/div&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/sites/default/files/Factory-Hub-Centre.jpg&quot; /&gt;&lt;br /&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;TELE (Factory Hub Vienna) electronics manufacturing floor&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;Various Updates&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;As you may be aware GoPro acquired &lt;a href=&quot;https://github.com/gopro/cineform-sdk&quot; target=&quot;_blank&quot;&gt;Cineform and then open sourced it&lt;/a&gt;. We think this is a big deal - and a positive one - in contrast to Apple’s recent announcement that a new version of ProRes will encode raw video. In truth, of course, ProRes is far removed from anything that could be described as being open/accessible. We are currently evaluating the prospect of adopting (Cinema) DNG and Magic Lantern Video (MLV) as our preferred raw format/containers in AXIOM devices.&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Google Summer of Code (GSoC)&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;The program where students from all around the world work on open source projects and get paid by Google over the summer has started again and this time apertus° was awarded with &lt;a href=&quot;https://summerofcode.withgoogle.com/organizations/5869357192708096/&quot; target=&quot;_blank&quot;&gt;six student slots&lt;/a&gt;. The projects range from evaluating and extending the Magic Lantern raw video container format (MLV) to OpenCine debayering methods, in camera real time focus peaking, in camera waveform/vectorscope/histogram displays, FPGA code to emulate the image sensor hardware to developing and implementing a bidirectional packet protocol for FPGA communication on the two extension shields on the AXIOM Beta hardware.&lt;br /&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/sites/default/files/gsoc-mentor-summit03.png&quot; /&gt;&lt;br /&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;The Open Source world meeting at the annual Google Summer of Code Mentor Summit at Google Headquarters, Mountain View, California.&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Still to Come&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;We have a plethora of things to share at this point but this episode is already much longer than the easily digestible bits we normally try to serve. The next episodes have been filmed already but need to be edited. The topics that will be covered in Team Talks 14.2, and onwards, revolve around the progress that’s been made with the camera’s hardware development, e.g. the SDI module, the Center-Solder-On Module (adding an IMU to the AXIOM Beta), enclosure manufacturing and design updates, injection molding parts in-house, the release of unseen AXIOM footage and much more.
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;On AXIOM Beta Compact Roadmap&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;Everyone working on the camera sympathises with those among you who&#039;ve been waiting for shipment of AXIOM Beta Compact for a long time, so we trust that this Team Talk will give the community better insight into the scale of some of the steps that have been climbed so far this year. The project is ideally situated now, development is in a healthy state with the Beta Compact&#039;s essential features making good progress, but we&#039;re a small team and so the speed of development is at the mercy of the number of hands on deck so to speak. Contributions from anyone with programming experience would make a real difference.&lt;/div&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/sites/default/files/AXIOM-Beta-Smelting-Rig-Cut-out-03-Feature-WM.png&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;If you&#039;re interested in getting involved with the project and are looking for a good starting point then picking a &lt;a href=&quot;https://lab.apertus.org/project/view/20/&quot;&gt;GSoC task&lt;/a&gt;, not selected by any student, would be one good way to help things along. Naturally the mentors listed in the task descriptions will be happy to guide you throughout process. There are many ways in which someone could participate, however, and it wouldn&#039;t necessarily need to be through working on complex algorithms, so &lt;a href=&quot;/contact&quot;&gt;let us know&lt;/a&gt; what you&#039;d like to do to help and we can take it from there. &lt;/div&gt;
+&lt;br /&gt;
+In the meantime we&#039;d like to once again thank everyone for their continued patience and support.
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;article class=&quot;node-481 node node-page en clearfix&quot; about=&quot;/node/481&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Further Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Newsletter&quot; target=&quot;blank&quot;&gt;Newsletter editions&lt;/a&gt; - Previous, HTML newsletters archived. &lt;a href=&quot;http://newsletter.apertus.org/lists/?p=subscribe&amp;amp;id=1&quot; target=&quot;blank&quot;&gt;Subscribe here&lt;/a&gt; to receive yours via email.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Prices&quot; target=&quot;blank&quot;&gt;Shop links, prices and availability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Camera_Structure&quot; target=&quot;blank&quot;&gt;Camera structure&lt;/a&gt; - A complete guide to the camera&#039;s specifications and components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Video&quot; target=&quot;blank&quot;&gt;AXIOM Beta sample videos&lt;/a&gt; - Uncompressed .mov .mp4 and .dng files in 720p, 1080p and 4K are archived here if you&#039;d like to play with them. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEBkXWJgDUvEysgwMsNOzTuwJB0vSRnamxlx6PK4vM671L1g/viewform&quot; target=&quot;blank&quot;&gt;Pre-order notification&lt;/a&gt; - Receive an email when a more user-friendly version of the camera is ready to ship. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema&quot; target=&quot;blank&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Join_the_Team&quot; target=&quot;blank&quot;&gt;Join the Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Social&quot; target=&quot;blank&quot;&gt;Social accounts&lt;/a&gt; - Links to YouTube etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Project_Background&quot; target=&quot;blank&quot;&gt;AXIOM Project Background&lt;/a&gt; - How apertus° and the AXIOM project got started. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h2&gt;Want to participate?&lt;/h2&gt;
+&lt;p&gt;Want to provide feedback or suggest improvements? Want to try your own approach and need help?&lt;/p&gt;
+
+&lt;p&gt;Get in touch via &lt;a class=&quot;btn&quot; href=&quot;/irc-chat&quot; target=&quot;blank&quot;&gt;IRC&lt;/a&gt; or &lt;a class=&quot;btn&quot; href=&quot;/contact&quot; target=&quot;blank&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/axiom-beta-old&quot;&gt;AXIOM Beta&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/opencine&quot;&gt;Open Cine&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 09 Jul 2018 14:03:10 +0000</pubDate>
+ <dc:creator>RexOr</dc:creator>
+ <guid isPermaLink="false">502 at </guid>
+  </item>
+  <item>
+    <title>AXIOM Team Talk Volume 13.2</title>
+    <link>/axiom-team-talk-volume-13.2-article-november-2017</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube.com/embed/F44rWJGSZ5A&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;AXIOM Beta USB 3.0 plugin module&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;If you&#039;ve been following the project you&#039;ll know that, where recording data is concerned, the AXIOM Beta has relied solely on external, off-the-shelf, HDMI recorders and all the pros and cons that are known to be inherent with those devices up to now. With the USB 3.0 plugin module, however, any computer with USB 3.0 connectivity can be used as an AXIOM Recorder. This will allow us to define format/container/metadata/etc. of uncompressed raw 4k footage for the first time. The software for this is in development and first tests have showed the data exchange between camera and a connected PC over USB 3.0 is working well (albeit with some room for improvement). One AXIOM Beta USB 3.0 plugin module provides users with around 400MB/S bandwidth (3.2Gbit/s) and, in theory, this can be doubled by utilising two of the Beta&#039;s module slots. If everything works as intended this will allow for the recording of uncompressed 4K raw data, plus metadata, directly from the Beta in any frame-rate that available bandwidth can handle.&lt;/div&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/beta-usb3plugin-module.png&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/beta-usb3plugin-module.png&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;AXIOM Beta USB 3.0 plugin module.&lt;/div&gt;
+
+&lt;h2&gt;AXIOM Beta Naming Scheme&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;
+When we first started the AXIOM project, one of the underpinning motivations was that we wouldn&#039;t emulate the common trend whereby cameras are given artificial lifespans that make users feel they need to constantly replace their camera with a newer model in order to benefit from slightly improved features. As is typical in development we naturally used version numbers eg. AXIOM Beta I, AXIOM Beta II etc. but it eventually became obvious that this numbering could be perceived as one version superseding the other, or one model being more powerful than another, when there&#039;s no sequential nature to versions at all in fact. To make options clearer we are renaming the different AXIOM Beta enclosure variants.&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+  &lt;tr&gt;
+    &lt;th colspan=&quot;2&quot;&gt;Planned AXIOM Beta Enclosure Options:&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200px&quot;&gt;Developer Kit (DK)&lt;/td&gt;
+    &lt;td&gt;A skeleton frame provides support for the electronics, lens mount (e-mount) and tripod footplate. No surrounding enclosure allows for easy access to the AXIOM Beta&#039;s core components and their connectors.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Compact (CP)&lt;/td&gt;
+    &lt;td&gt;This enclosure option provides a solid but lightweight aluminum layer around the camera&#039;s electronics and incorporates several mount points and future expansion slots. Great for rig integration or general in-the-field protection.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Extended (EX)&lt;/td&gt;
+    &lt;td&gt;With the Extended enclosure the AXIOM Beta resembles the golden age of film cameras. With ergonomics in mind and space for an integrated recording device (AXIOM Recorder), this enclosure is ideal for shoulder mounted operation.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;br /&gt;
+
+&lt;div class=&quot;justify twocoloumns&quot;&gt;We would love to see members of the community eventually design and name their own enclosures, but in the meantime these changes should make the newcomer&#039;s decision-making with respect to which enclosure is right for their needs much simpler.&lt;/div&gt;
+
+
+&lt;br /&gt;
+&lt;h2&gt;AXIOM Beta Compact&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;The AXIOM Beta Compact enclosure can be considered as being in its final stages of CAD design. The renderings below demonstrate current design state - thick, CNC milled aluminum parts that will give camera electronics considerable protection in demanding film shoots, with several mount points having been added on different sides so that attaching accessories or integrating AXIOM Beta Compact into rigs is straight forward (partly inspired by the Silicon Imaging SI2K). Initially we designed an enclosure around the camera&#039;s PCB stack as this promotes scope for rig customisation but we&#039;ve also been mindful that some users may demand something that could be considered more ergonomically sophisticated (EX).&lt;/div&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/AXIOM Beta CP Enclosure_0.png&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/AXIOM Beta CP Enclosure_0.png&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;AXIOM Beta Compact enclosure concept renderings.&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;AXIOM Beta Compact Shell&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;In the event that some users should require yet more mount points and thread-holes than those incorporated into the standard enclosure we also wanted to provide an optional solution that offers even more protection and flexibility. It&#039;s commonplace for film-makers to mount their camera inside what&#039;s commonly known as a camera cage, but on this note, and in accordance with what AXIOM Beta is about, we felt that the word &#039;cage&#039; implied restriction or imprisonment of some kind, so we decided to name this solution AXIOM Shell.&lt;/div&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/AXIOM Shell 1.2.png&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/AXIOM Shell 1.2.png&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;AXIOM Beta Compact Shell concept renderings.&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;AXIOM Recorder&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;Inspired by 35mm film camera magazines of yesteryear we set out to design our own portable recording PC package combination. The search for a small form-factor PC lead us to the INTEL NUC, an ideal platform measuring in at 4x4 inches (10x10cm). The NUC provides serious computing power whilst being reasonably affordable, it consumes moderate degrees of power, and because it uses off-the-shelf electronics, in the apertus° and open source spirit, it also encourages people to modify and adapt the recorder. In addition, having a powerful PC at hand would allow us to also take care of various other tasks, e.g. transcoding preview clips/dailies while the camera is not recording or uploading clips to remote servers, onsite backup systems, or video distribution platforms for quick and easy offline-editing. Another nice aspect to this solution is that the recorder PC can scale from small form-factor, low capacity solutions with just one SSD, to larger, raid-based solutions with multiple high capacity SSDs, simply by using off-the-shelf hardware. Naturally, this AXIOM Recorder would utilise the USB 3.0 connection provided by the aforementioned AXIOM Beta USB 3.0 plugin module.&lt;/div&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/apertus AXIOM Beta EX Recorder.png&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/apertus AXIOM Beta EX Recorder.png&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;AXIOM Recorder concept - inside: Intel NUC and 2.5&quot; SSD(s).&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;AXIOM Beta Extended&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;From the feedback gathered around the AXIOM Beta Compact enclosure design concepts it became clear that integrating a small camera body within a typical rig setup would work for a lot of users, but that there was also demand for a highly ergonomic camera body. With this in mind, and by taking advantage of the fact that AXIOM Beta Compact is in the closing stages of planning, we wanted to be mindful of the possibilities where the project&#039;s future evolution is concerned. After a lot of consideration, discussion, and the examination of systems proven to work well in the past, we worked through a total of ten concept iterations to modernise good camera ergonomics. With a fully integrated enclosure system&#039;s modular nature being a key requisite, it was clear that allowing for the positioning and rotation of an AXIOM Recorder and &lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Remote&quot; target=&quot;blank&quot;&gt;AXIOM Remote&lt;/a&gt; across several orientations, and thereby accommodating for the full range of shooting scenarios, i.e. hand-held/shoulder/tripod/jib/crane mounting, would be essential. The design was also complimented with a large number of mount-points to provide flexibility where accessories are concerned. Feedback of course is encouraged and a thread on AXIOM Labs for this purpose can be found &lt;a href=&quot;https://lab.apertus.org/T834&quot; target=&quot;blank&quot;&gt;here&lt;/a&gt;.&lt;/div&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/betaiii-sideview-02.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/betaiii-sideview-02.jpg&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;AXIOM Beta Extended enclosure concept with AXIOM Recorder attached for shoulder mounted shooting.&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;width:100%;height:0px;position:relative;padding-bottom:56.250%;&quot;&gt;&lt;iframe src=&quot;https://streamable.com/s/41vte/bbkead?autoplay=1&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;100%&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/betaiii-sideview-toprec-02.jpg&quot; class=&quot;colorbox&amp;quot;&quot;&gt;&lt;img src=&quot;/sites/default/files/betaiii-sideview-toprec-02.jpg&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;AXIOM Beta Extended enclosure concept with AXIOM Recorder attached at the top&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;width:100%;height:0px;position:relative;padding-bottom:56.250%;&quot;&gt;&lt;iframe src=&quot;https://streamable.com/s/hggf2/xqgkav?autoplay=1&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;100%&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+&lt;h2&gt;Ergonomics Evaluation&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;We designed AXIOM Beta Extended concepts inside computer programs, so in order to get a better feel for the dimensions of these CAD models in practical terms, and prior to our printing 3D representations, we spent some time making actual-size builds from Styrofoam. This allowed us to fine-tune design and ensure that the enclosure will work well in all shooting environments.&lt;/div&gt;&lt;br /&gt;
+&lt;article class=&quot;node-485 node node-image en node-hidden clearfix&quot; about=&quot;/node/485&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-field-images field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/styles/large/public/ergonomics-workshop-nov2017-4.jpg?itok=kKrQoE_t&quot; title=&quot;AXIOM Ergonomics Workshop&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-485-yKGTTzdyPw0&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/thumbnail/public/ergonomics-workshop-nov2017-4.jpg?itok=ngtGYgfG&quot; width=&quot;280&quot; height=&quot;216&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/sites/default/files/styles/large/public/ergonomics-workshop-nov2017-5.jpg?itok=I-JFTjRz&quot; title=&quot;AXIOM Ergonomics Workshop&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-485-yKGTTzdyPw0&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/thumbnail/public/ergonomics-workshop-nov2017-5.jpg?itok=WU8bJFi9&quot; width=&quot;280&quot; height=&quot;216&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/styles/large/public/ergonomics-workshop-nov2017-6.jpg?itok=gyMoccio&quot; title=&quot;AXIOM Ergonomics Workshop&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-485-yKGTTzdyPw0&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/thumbnail/public/ergonomics-workshop-nov2017-6.jpg?itok=ftgJGMbi&quot; width=&quot;280&quot; height=&quot;216&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/sites/default/files/styles/large/public/ergonomics-workshop-nov2017-7.jpg?itok=ENAyx6MY&quot; title=&quot;AXIOM Ergonomics Workshop&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-485-yKGTTzdyPw0&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/thumbnail/public/ergonomics-workshop-nov2017-7.jpg?itok=a5S-S26z&quot; width=&quot;280&quot; height=&quot;216&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/styles/large/public/ergonomics-workshop-nov2017-8.jpg?itok=gX_msBxV&quot; title=&quot;AXIOM Ergonomics Workshop&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-485-yKGTTzdyPw0&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/thumbnail/public/ergonomics-workshop-nov2017-8.jpg?itok=xGBUXRJH&quot; width=&quot;280&quot; height=&quot;216&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/sites/default/files/styles/large/public/ergonomics-workshop-nov2017-9.jpg?itok=o9O7ZADW&quot; title=&quot;AXIOM Ergonomics Workshop&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-485-yKGTTzdyPw0&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/thumbnail/public/ergonomics-workshop-nov2017-9.jpg?itok=GuVo1xua&quot; width=&quot;280&quot; height=&quot;216&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/styles/large/public/ergonomics-workshop-nov2017-10.jpg?itok=VodpPLto&quot; title=&quot;AXIOM Ergonomics Workshop&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-485-yKGTTzdyPw0&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/thumbnail/public/ergonomics-workshop-nov2017-10.jpg?itok=IS4x6EEC&quot; width=&quot;280&quot; height=&quot;216&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/sites/default/files/styles/large/public/ergonomics-workshop-nov2017-11.jpg?itok=rAy-12jL&quot; title=&quot;AXIOM Ergonomics Workshop&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-485-yKGTTzdyPw0&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/thumbnail/public/ergonomics-workshop-nov2017-11.jpg?itok=RNTczuGW&quot; width=&quot;280&quot; height=&quot;216&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/styles/large/public/ergonomics-workshop-nov2017-12.jpg?itok=nMg_mR6q&quot; title=&quot;AXIOM Ergonomics Workshop&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-485-yKGTTzdyPw0&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/thumbnail/public/ergonomics-workshop-nov2017-12.jpg?itok=16_B0x3R&quot; width=&quot;280&quot; height=&quot;216&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/sites/default/files/styles/large/public/ergonomics-workshop-nov2017-1.jpg?itok=0fea9jiy&quot; title=&quot;AXIOM Ergonomics Workshop&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-485-yKGTTzdyPw0&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/thumbnail/public/ergonomics-workshop-nov2017-1.jpg?itok=rU-mmYxk&quot; width=&quot;280&quot; height=&quot;216&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/styles/large/public/ergonomics-workshop-nov2017-2.jpg?itok=DFCLI0sF&quot; title=&quot;AXIOM Ergonomics Workshop&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-485-yKGTTzdyPw0&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/thumbnail/public/ergonomics-workshop-nov2017-2.jpg?itok=AK4hDIRm&quot; width=&quot;280&quot; height=&quot;216&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/sites/default/files/styles/large/public/ergonomics-workshop-nov2017-3.jpg?itok=ko4ZxhpY&quot; title=&quot;AXIOM Ergonomics Workshop&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-485-yKGTTzdyPw0&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/thumbnail/public/ergonomics-workshop-nov2017-3.jpg?itok=PXqC2Ix6&quot; width=&quot;280&quot; height=&quot;216&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+
+&lt;br /&gt;&lt;br /&gt;
+
+
+&lt;h2&gt;AXIOM Beta Extended Roadmap&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;Of course, this system should be seen as something that hasn&#039;t yet got off the workboard and improvements may be made to what&#039;s been showcased today. Nevertheless, incorporating AXIOM Beta&#039;s core printed circuit boards into the enclosure in the future can be expected to be a relatively simple transition for camera owners. At some point during 2018, upon such time that project backer AXIOM Beta Compact orders have been satisfied, it&#039;s likely that we&#039;ll start to look at prototyping for AXIOM Beta Extended and thereby offer the upgrade to existing camera owners and project backers, first, as and when it becomes ready. On this note, where project backers are concerned they&#039;ll have the option of purchasing either an AXIOM Beta Compact or AXIOM Beta Extended enclosure at cost, but unfortunately we&#039;re not sure, specifically, what this cost will be yet. A better idea will be gleaned when we start milling/constructing the first prototypes of each. As per, the community can expect complete transparency regarding costs, though. What this article is intended to demonstrate is that, first of all the flexibility of the camera means that scope is there for its being adapted around many form factor solutions and that, also, we&#039;re listening carefully to feedback from the community.&lt;/div&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/AXIOM Beta PnP w WM.png&quot; class=&quot;colorbox&amp;quot;&quot;&gt;&lt;img src=&quot;/sites/default/files/AXIOM Beta PnP w WM.png&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;Custom-built pick and place machine for AXIOM electronics production with component feeders in the background.&lt;/div&gt;&lt;br /&gt;
+
+&lt;h2&gt;AXIOM Beta Compact General Update&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;You may remember that almost three months ago we listed eleven items that are presently being worked on &lt;a href=&quot;https://wiki.apertus.org/index.php/Mission_Briefings#AXIOM_Beta_Related&quot; target=&quot;blank&quot;&gt;here&lt;/a&gt;. We&#039;re pleased to report that this list is gradually shortening as items complete - The past few weeks have seen good development on the hardware production side with our pick and place machine becoming operational, modules either completing or nearing completion, works on &lt;a href=&quot;https://wiki.apertus.org/index.php/Beta_CSO&quot; target=&quot;blank&quot;&gt;CSO (Center Solder On) modules&lt;/a&gt; beginning (dealing with inertial measurement unit (IMU) e.g. acceleration, orientation, magnetic field, air pressure Re camera 3D motion tracking or image stabilization in the future), and &lt;a href=&quot;https://twitter.com/ApertusOSCinema/status/923952345217687554&quot; target=&quot;blank&quot;&gt;Version 2 Powerboard&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/ApertusOSCinema/status/930449615442403332&quot; target=&quot;blank&quot;&gt;Dual 6G SDI plugin module&lt;/a&gt; prototype PCBs being ordered,  on the software side with AXIOM Beta automated firmware image creation (&lt;a href=&quot;https://github.com/apertus-open-source-cinema/beta-software/&quot; target=&quot;blank&quot;&gt;GitHub&lt;/a&gt;), REST API and control daemon (&lt;a href=&quot;https://github.com/apertus-open-source-cinema/beta-software/tree/master/software/control_daemon&quot; target=&quot;blank&quot;&gt;GitHub&lt;/a&gt;) progressing well, and on the documentation side with things like &lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Manual&quot; target=&quot;blank&quot;&gt;user manual&lt;/a&gt; restructuring and website materials being updated. There&#039;s still a lot of work to do but we&#039;re happy with the level of progress since our last report.&lt;/div&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/AXIOM Beta Power Board V2 w WM.png&quot; class=&quot;colorbox&amp;quot;&quot;&gt;&lt;img src=&quot;/sites/default/files/AXIOM Beta Power Board V2 w WM.png&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;AXIOM Beta Power Board Version 2 PCB layout has been ordered for prototyping.&lt;/div&gt;&lt;br /&gt;
+
+&lt;h2&gt;Join the Development&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;If you&#039;re not a project backer and would like to receive an email notification when we&#039;re ready to accept pre-orders of AXIOM Beta Compact, see &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScLBP_C61CxAE39xH4B25re8TI5hxU9cf8ad9N-HjuMIlNs4Q/viewform?usp=send_form&quot; target=&quot;blank&quot;&gt;this form&lt;/a&gt;, and if you&#039;d like to contribute ideas please consider creating a profile in &lt;a href=&quot;https://lab.apertus.org/&quot; target=&quot;blank&quot;&gt;AXIOM Labs&lt;/a&gt; - AXIOM Beta Extended Enclosure thread can be found &lt;a href=&quot;https://lab.apertus.org/T834&quot; target=&quot;blank&quot;&gt;here&lt;/a&gt;.&lt;/div&gt;
+&lt;br /&gt;
+&lt;article class=&quot;node-481 node node-page en clearfix&quot; about=&quot;/node/481&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Further Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Newsletter&quot; target=&quot;blank&quot;&gt;Newsletter editions&lt;/a&gt; - Previous, HTML newsletters archived. &lt;a href=&quot;http://newsletter.apertus.org/lists/?p=subscribe&amp;amp;id=1&quot; target=&quot;blank&quot;&gt;Subscribe here&lt;/a&gt; to receive yours via email.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Prices&quot; target=&quot;blank&quot;&gt;Shop links, prices and availability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Camera_Structure&quot; target=&quot;blank&quot;&gt;Camera structure&lt;/a&gt; - A complete guide to the camera&#039;s specifications and components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Video&quot; target=&quot;blank&quot;&gt;AXIOM Beta sample videos&lt;/a&gt; - Uncompressed .mov .mp4 and .dng files in 720p, 1080p and 4K are archived here if you&#039;d like to play with them. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEBkXWJgDUvEysgwMsNOzTuwJB0vSRnamxlx6PK4vM671L1g/viewform&quot; target=&quot;blank&quot;&gt;Pre-order notification&lt;/a&gt; - Receive an email when a more user-friendly version of the camera is ready to ship. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema&quot; target=&quot;blank&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Join_the_Team&quot; target=&quot;blank&quot;&gt;Join the Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Social&quot; target=&quot;blank&quot;&gt;Social accounts&lt;/a&gt; - Links to YouTube etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Project_Background&quot; target=&quot;blank&quot;&gt;AXIOM Project Background&lt;/a&gt; - How apertus° and the AXIOM project got started. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h2&gt;Want to participate?&lt;/h2&gt;
+&lt;p&gt;Want to provide feedback or suggest improvements? Want to try your own approach and need help?&lt;/p&gt;
+
+&lt;p&gt;Get in touch via &lt;a class=&quot;btn&quot; href=&quot;/irc-chat&quot; target=&quot;blank&quot;&gt;IRC&lt;/a&gt; or &lt;a class=&quot;btn&quot; href=&quot;/contact&quot; target=&quot;blank&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/axiom-beta-old&quot;&gt;AXIOM Beta&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 05 Dec 2017 18:00:07 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">484 at </guid>
+  </item>
+  <item>
+    <title>One week with the AXIOM Team</title>
+    <link>/one-week-with-the-axiom-team-article-nov-2017</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;twocoloumns justify&quot;&gt;Last week, apertus° community member &lt;a href=&quot;/user/655&quot;&gt;davidak&lt;/a&gt;, from Germany, visited Vienna and participated in a number of AXIOM related activities in the course of one week ranging from hardware assembly, software development and building ergonomic enclosure evaluation prototypes, to shooting with the AXIOM Beta.&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;a rel=&quot;davidak&quot; href=&quot;/sites/default/files/davidak-1.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img class=&quot;thumbnail&quot; style=&quot;height:189px&quot; src=&quot;/sites/default/files/davidak-1.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a rel=&quot;davidak&quot; href=&quot;/sites/default/files/davidak-1-2_0.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img class=&quot;thumbnail&quot; style=&quot;height:189px&quot; src=&quot;/sites/default/files/davidak-1-2_0.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a rel=&quot;davidak&quot; href=&quot;/sites/default/files/_MG_0430.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img class=&quot;thumbnail&quot; style=&quot;height:189px&quot; src=&quot;/sites/default/files/_MG_0430.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;span class=&quot;caption&quot;&gt;Davidak on various AXIOM duties in Vienna.&lt;/span&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;Shooting the Signs of Autumn in a Vienna Park&lt;/h2&gt;
+&lt;div class=&quot;twocoloumns justify&quot;&gt;Of course, nobody wants to work on the AXIOM project without taking the camera for a spin, and so, even though the weather wasn&#039;t great (typically autumn), we did. There was only one development prototype at hand but we made the most of it! Davidak shot a few raw still images and short video clips in Vienna&#039;s Türkenschanzpark. Below you can find a selection (keep in mind that the development prototype is still work in progress).&lt;/div&gt;
+&lt;br /&gt;
+&lt;a class=&quot;colorbox&quot; href=&quot;/sites/default/files/20171031_123155-1.jpg&quot;&gt;&lt;img style=&quot;border: solid #000 15px; width:97%&quot; src=&quot;/sites/default/files/20171031_123155.jpg&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;Click on the image for full resolution - &lt;a href=&quot;http://files.apertus.org/AXIOM-Beta/samples/20171031_123155.DNG&quot;&gt;DNG Download&lt;/a&gt;&lt;/div&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube-nocookie.com/embed/cdbENj-ml_4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;a href=&quot;http://files.apertus.org/AXIOM-Beta/samples/AXIOM_Beta_CMV12000_1080p25_001._Vienna_Türkenschanzpark_-_15.11.17.mov&quot; class=&quot;btn btn-lrge&quot;&gt;Download DNxHD 1080p25 Quicktime&lt;/a&gt;&lt;br /&gt;
+
+&lt;br /&gt;&lt;br /&gt;
+&lt;article class=&quot;node-481 node node-page en clearfix&quot; about=&quot;/node/481&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Further Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Newsletter&quot; target=&quot;blank&quot;&gt;Newsletter editions&lt;/a&gt; - Previous, HTML newsletters archived. &lt;a href=&quot;http://newsletter.apertus.org/lists/?p=subscribe&amp;amp;id=1&quot; target=&quot;blank&quot;&gt;Subscribe here&lt;/a&gt; to receive yours via email.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Prices&quot; target=&quot;blank&quot;&gt;Shop links, prices and availability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Camera_Structure&quot; target=&quot;blank&quot;&gt;Camera structure&lt;/a&gt; - A complete guide to the camera&#039;s specifications and components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Video&quot; target=&quot;blank&quot;&gt;AXIOM Beta sample videos&lt;/a&gt; - Uncompressed .mov .mp4 and .dng files in 720p, 1080p and 4K are archived here if you&#039;d like to play with them. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEBkXWJgDUvEysgwMsNOzTuwJB0vSRnamxlx6PK4vM671L1g/viewform&quot; target=&quot;blank&quot;&gt;Pre-order notification&lt;/a&gt; - Receive an email when a more user-friendly version of the camera is ready to ship. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema&quot; target=&quot;blank&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Join_the_Team&quot; target=&quot;blank&quot;&gt;Join the Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Social&quot; target=&quot;blank&quot;&gt;Social accounts&lt;/a&gt; - Links to YouTube etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Project_Background&quot; target=&quot;blank&quot;&gt;AXIOM Project Background&lt;/a&gt; - How apertus° and the AXIOM project got started. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h2&gt;Want to participate?&lt;/h2&gt;
+&lt;p&gt;Want to provide feedback or suggest improvements? Want to try your own approach and need help?&lt;/p&gt;
+
+&lt;p&gt;Get in touch via &lt;a class=&quot;btn&quot; href=&quot;/irc-chat&quot; target=&quot;blank&quot;&gt;IRC&lt;/a&gt; or &lt;a class=&quot;btn&quot; href=&quot;/contact&quot; target=&quot;blank&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/axiom-beta-old&quot;&gt;AXIOM Beta&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 15 Nov 2017 17:29:04 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">483 at </guid>
+  </item>
+  <item>
+    <title>Google Summer of Code Completed - Result Report: Smart Switching Regulator</title>
+    <link>/GSoC-completed-results-report-smart-switching-regulator-article-oct-2017</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Coding Period completed&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;This was our first time participating in Google’s Summer of Code program and it came to an end with our student’s final evaluation period across late August to mid-September 2017. As you may or may not remember we received around 30 applications/proposals (many of which were very good), narrowed this selection down to around 5, and gratefully received 3 slots from Google in the end. After some preliminary work the students got to grips with the camera’s operating processes and all three began the course enthusiastically. Unfortunately, however, one student failed his first evaluation and another failed his second evaluation, but one student completed the program successfully, his name is &lt;a href=&quot;https://summerofcode.withgoogle.com/projects/#4660921463996416&quot; target=&quot;blank&quot;&gt;Vlad Niculescu&lt;/a&gt; and a summary of his paper follows.
+&lt;br /&gt;
+&lt;a href=&quot;https://www.vlad-niculescu.com&amp;#10;&quot; target=&quot;blank&quot;&gt;Vlad&#039;s website&lt;/a&gt; &lt;/div&gt;
+
+&lt;br /&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;The main goal of the task was to design an adjustable voltage converter for the apertus° AXIOM Beta camera system. One specific PCB (the power board) in the camera is responsible for providing power to all other boards (circuits to monitor currents and power consumption are what regulate voltages). This version of the power board uses manual trimmers to define reference voltages and so a solution for dynamically re-configuring these voltages via software needed to be developed. Multiple instances of this converter will be utilized in the Beta, each working with identical hardware components but at different output voltages. The aim was to replace the current linear regulators with switching regulators as linear ones turn a significant amount of energy into heat. Furthermore, the switching regulators will have an accuracy and output ripple closer to that of an LDO (Low-Dropout Regulator). The whole converter will constitute an individual block, this will communicate with the central processing controller through I2C (input supply voltage is 5V). 
+&lt;/div&gt;
+&lt;br /&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/sites/default/files/image9.png&quot; alt=&quot;Smart Switching Regulator Schematic&quot; title=&quot;Smart Switching Regulator Schematic&quot; /&gt;&lt;span class=&quot;caption&quot;&gt;Figure 1. The Block Schematic&lt;/span&gt;
+&lt;/div&gt;&lt;br /&gt;
+
+&lt;div class=&quot;justify twocoloumns&quot;&gt;
+The synchronous configuration was preferred because of efficiency considerations. The chosen driver is controlled by a single PWM signal and this driver processes the signal in order to properly drive the two transistors – it generates two complementary signals and produces the proper dead-time between their transitions. The output voltage is kept constant due to the feedback mechanism - this consists of a hysteresis comparator indicating whether or not the voltage is above or below a reference voltage. 
+The control algorithm runs on an FPGA and controls the converter in accordance with the information being received from the comparator. Its main purpose is to maintain the output voltage level as closely to the reference voltage as possible (generated by a 12-bit DAC). The output voltage follows the reference voltage regardless of the drawn current. Both the DAC (Digital analogue converter) and the control algorithm act as I2C slaves which allows the I2C master to modify essential parameters. While the DAC’s I2C allows for a reference change, the converter’s I2C gives control over the converter’s parameters, eg. switching frequency or speed of the feedback loop. Both slaves will be connected to the global I2C bus of the AXIOM system.&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;Designing the Converter&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;The first step in completing the solution was to design the schematic for a test setup as well as building a prototype to test with. A rendering of the designed prototype board can be seen in figure 2.
+Based on the design files, the PCB was fabricated at OSH Park and manually populated. The board was soldered using a hot plate as this was a good way to solder QFN package components.
+After the board was assembled I started testing each module individually. The converter was tested by applying a fixed duty cycle PWM signal at input and measuring if the output value equals the expected value.
+The DAC converter that uses an I2C interface was the next tested module. Using a USB to I2C Master board from Microchip Technology Inc I sent the configuration bytes that should have produced 2.05 at the DAC output - the measured output value was as expected.
+Testing the comparator was the next stage of ensuring that the board functioned correctly. The hysteresis comparator acts like a feedback mechanism which provides the input for the control algorithm. The hysteresis was introduced to reduce the switching frequency of comparators output and it was set to 80mV. A higher value would have generated a higher ripple, too.&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/sites/default/files/image6.png&quot; alt=&quot;Smart Switching Regulator PCB&quot; title=&quot;Smart Switiching Regulator PCB&quot; /&gt;&lt;span class=&quot;caption&quot;&gt;Figure 2. The PCB&lt;/span&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;
+To test if this value is also obtained in practice, a triangle wave signal was applied to the non-inverting input of the comparator while a fixed voltage was applied at the inverting input. Figure 3 (below) illustrates the triangular signal and also the comparator output where the two thresholds are obvious. To test if this value is also obtained in practice, a triangle wave signal was applied to the non-inverting input of the comparator while a fixed voltage was applied at the inverting input. Figure 3 (below) illustrates the triangular signal and also the comparator output where the two thresholds are visible. 
+&lt;/div&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/sites/default/files/image4.png&quot; alt=&quot;Smart Switching Regulator comparator output&quot; title=&quot;Smart Switiching Regulator comparator output&quot; /&gt;&lt;br /&gt;&lt;span class=&quot;caption&quot;&gt;Figure 3. The comparator output&lt;/span&gt;
+&lt;/div&gt;&lt;br /&gt;
+
+&lt;h2&gt;UART to I2C Bridge&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;To simplify the hardware, testing a UART (Universal Asynchronous Receiver-Transmitter) to I2C bridge was designed to control the system from a PC via serial port. This bridge allows real-time communication between computer and converter which means that the converters parameters and the DAC output voltage can be adjusted via computer. The FPGA (Field Programmable Gate Array) development board used for this purpose was a ‘Digilent Nexys Video’, populated with a ‘Xilinx Artix 7’. 
+The first step was to establish communication between computer and FPGA. The Nexys Video board uses an USB to UART bridge chip to connect the FPGA to a computer via USB.&lt;/div&gt;
+&lt;br /&gt;
+The UART to I2C bridge was split into two components:&lt;br /&gt;&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;The UART control interface: This half is used to adjust the converter settings&lt;/li&gt;
+&lt;li&gt;The I2C Master: In order to configure the DAC, this component is also required&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;Therefore, the first developed component was a UART module. The second step was to develop a I2C Master module. This takes the information received from the UART receiver module and sends it through I2C to the DAC to configure it. The received command is decoded and sent to the I2C bus (controlling the DAC). Both UART and I2C Master are implemented as Verilog modules. The DAC I2C package structure consists of 9 bytes for each transmission - The first one is the DAC address and the other four pairs of bytes are output values for four channels. These numbers are set by the user from the serial console and the bridge makes sure they arrive in the DAC registers. The communication protocol of the bridge consists of a string of characters that represent hexadecimal numbers. The I2C Master sends 8-bit packages and the command string consists of pairs of two bytes followed by a read/write flag. I used a discrete slave-I2C device to figure out if the Master works properly. I sent a sequence like “S49W71W00Rs”, which reads the value in register 0x71 for a device with an address 0x24 (by converting 0x24 in binary format and concatenating it with the read bit - which is 1, it leads to a number that converted back to hexadecimals will equal 49). “S” denotes that a command for the DAC is going to be sent and “s” marks the final character in this command. More information about the bridge protocol can be found &lt;a href=&quot;https://github.com/vladniculescu/GSOC/blob/master/Documentation.pdf&quot; target=&quot;blank&quot;&gt;here&lt;/a&gt; (page 7, close). After I was sure that both the UART module and I2C Master worked, I integrated these two modules to obtain the desired bridge. Finally, I sent a string from the serial console to configure the DAC.
+I wanted to obtain 2.05V at all of the four outputs of the DAC.&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/sites/default/files/image3.png&quot; alt=&quot;Smart Switching Regulator command package&quot; title=&quot;Smart Switiching Regulator command package&quot; /&gt;&lt;br /&gt;&lt;span class=&quot;caption&quot;&gt;Figure 4. The command package
+&lt;/span&gt;
+&lt;/div&gt;&lt;br /&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/sites/default/files/smart-switching-regulartor-table1.png&quot; alt=&quot;Smart Switching Regulator Table 1&quot; title=&quot;Smart Switiching Regulator Table 1&quot; /&gt;&lt;br /&gt;&lt;span class=&quot;caption&quot;&gt;Table 1. The Package Structure for the DAC configuration&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;
+Table 1 shows the structure of the package that has to be sent in order to configure the DAC.
+Packages are named Ch1-Ch4 in order of significance with Ch1 being the most significant. There are four channels because the DAC is a 12-bit four-channel type. The ChX_MSbyte is a 4-bit number and ChX_LSbyte is an 8 bit one. Concatenating those two, the 12-bit value is obtained for each channel. So, returning to the example, “SC0W07WFFW07WFFW07WFFW07WFFWs” is sent from the serial console where ‘S’ represents the start command, ‘C0’ the device address, and ‘W’ written after each two-number group. This denotes that the number has to be written (R is for read) - The numbers are sent in hexadecimal format. Concatenating 07 and FF for each channel, 2047 is obtained. This is 2.05V for a 4.096V reference. 
+The Bridge can also adjust converter parameters. The structure of the command is very similar but this time the first letter of the string command can have a value other than “S”.&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/sites/default/files/smart-switching-regulartor-table2.png&quot; alt=&quot;Smart Switching Regulator Table 2&quot; title=&quot;Smart Switiching Regulator Table 2&quot; /&gt;&lt;br /&gt;&lt;span class=&quot;caption&quot;&gt;Table 2. The commands of the Bridge&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;Table 2 shows the adjustments that can be made using the Bridge. Those adjustments are executed from the serial console. The “X” and “T” characters signal that a command intended for the converter is going to be made. In order to adjust the converter parameters (using the last two commands from Table 2) only the UART module is necessary (not the I2C module).
+The switching frequency is variable and can be adjusted between 0 and 780kHz with 16-bit resolution. In order to modify it, a command like “Xxxxxs” should be sent from the serial console, where “xxxx” represents a 16-bit number in hexadecimal format. Consequently, “XFFFFs” will set the frequency to its maximum value. The same mechanism works for setting the loop responsiveness with the “T” command.
+The Bridge is designed as a state machine. A detailed description of states can be found here (page 9, close).
+This I2C Master module was designed for development purposes. Because it allowed me to control the converter and DAC in real time I didn’t need to re-synthesize the project at every parameter change. When the converter is integrated into the AXIOM System this won’t be necessary because it will be controlled by this one through the I2C Slave module. So the next step I took was to implement the Slave I2C for converter. Its structure and functionality are described &lt;a href=&quot;https://github.com/vladniculescu/GSOC/blob/master/Documentation.pdf&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; (page 10, paragraph 2).&lt;/div&gt;&lt;br /&gt;
+
+&lt;h2&gt;The Control Algorithm&lt;/h2&gt;
+
+&lt;div class=&quot;justify twocoloumns&quot;&gt;The control algorithm uses a fixed switching frequency and varies only in response to the duty cycle of the PWM control signal. The parameters of this algorithm are the interval at which the duty-cycle and switching frequency are updated - Through experimenting the switching frequency was determined to be 780kHz. A counter is incremented whenever the output voltage is higher than, and decremented when smaller than the reference. When the update time comes the counter is evaluated, and the duty-cycle is increased or decreased by 1, according to the value of this counter.&lt;/div&gt;
+&lt;br /&gt;
+&lt;h3&gt;Tuning the algorithm:&lt;/h3&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;
+Finding a way to control the transistor was by far the most challenging stage of this project’s task (In the beginning I didn’t think to pursue a variable that sets the feedback loop responsiveness). Despite the fact that a high efficiency (over 85%) was obtained even from the first iterations of the algorithm, the biggest challenge was reducing the output ripple. I used an oscilloscope to measure this ripple by evaluating the peak-to-peak amplitude of the AC component. It basically has a high frequency component stemming from switching, and a lower frequency component generated by the action of the control loop (this is usually between 1 and 30 kHz). If the feedback loop actions is too slow the ripple will be higher because a low frequency component won’t be rejected by the LC filter.&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/sites/default/files/image7.png&quot; alt=&quot;Smart Switching Regulator output ripple&quot; title=&quot;Smart Switching Regulator output ripple&quot; /&gt;&lt;br /&gt;&lt;span class=&quot;caption&quot;&gt;Figure 5. The output ripple for a slow feedback loop&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;Figure 5 highlights the output signal when such a situation occurs. The transitions between levels look like a square form - which indicates a poor filtering effect. In this case, the feedback loop responsiveness should be increased because a low-pass filter does not have any effect on a very low frequency signal. Unfortunately this may have been due to an error made on my part but I neglected to determine one way or the other whether this had been the case.&lt;/div&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/sites/default/files/image11.png&quot; alt=&quot;Smart Switching Regulator output ripple&quot; title=&quot;Smart Switching Regulator output ripple&quot; /&gt;&lt;br /&gt;&lt;span class=&quot;caption&quot;&gt;Figure 6. The output ripple for a fast feedback loop 
+&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;However, if the speed of the feedback loop responsiveness is set to a high value, its effect will be harmful too. Because the algorithm uses only a proportional component, and if this proportional component is too aggressive, it will determine an increase in the output voltage at every iteration - In the end an equilibrium was found and I determined that the best value of the interval variable is 96. This means that the feedback loop is read every 96 cycles. Figure 6 highlights the improvement in ripple value. Finally, adjusting the switching frequency to 780kHz for the speed of the feedback loop, I was able to obtain the waveform in Figure 7.&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/sites/default/files/image2.png&quot; alt=&quot;Smart Switching Regulator output ripple&quot; title=&quot;Smart Switching Regulator output ripple&quot; /&gt;&lt;br /&gt;&lt;span class=&quot;caption&quot;&gt;Figure 7. The output signal – 110mV ripple&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;The obtained ripple reading is around 110mV. This value is still poor when considering the requirements of this project (that the value of ripple does not exceed 50mV). In order to reduce this ripple an additional hardware filter was introduced which consists of a ferrite bead and an 1uF capacitor. Figure 8 (below) presents the output ripple after this additional circuit was added. The ripple was reduced to 30mV.&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/sites/default/files/image8.png&quot; alt=&quot;Smart Switching Regulator output ripple&quot; title=&quot;Smart Switching Regulator output ripple&quot; /&gt;&lt;br /&gt;&lt;span class=&quot;caption&quot;&gt;Figure 8. The output ripple after the second filter was added&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/sites/default/files/image10.png&quot; alt=&quot;Smart Switching Regulator output ripple&quot; title=&quot;Smart Switching Regulator output ripple&quot; /&gt;&lt;br /&gt;&lt;span class=&quot;caption&quot;&gt;Figure 9. The output voltage measured with an oscilloscope&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+Figure 9 displays the same waveform exported from a Rigol DS1102E oscilloscope set to 50mV/div.&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Measuring the efficiency&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;After I managed to achieve the most important objective (obtaining a low ripple), I went on to determine the efficiency. The efficiency was measured as being the ratio between the output-power and the input power. All the efficiency measurements were done for a 2V output voltage. The efficiency was calculated with the formula:&lt;/div&gt;
+&lt;br /&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/sites/default/files/smart-switching-regulartor-formular.png&quot; alt=&quot;Smart Switching Regulator formular&quot; title=&quot;Smart Switching Regulator formular&quot; /&gt;&lt;br /&gt;&lt;span class=&quot;caption&quot;&gt;&lt;br /&gt;&lt;br /&gt;
+
+&lt;img src=&quot;/sites/default/files/image5.png&quot; alt=&quot;Smart Switching Regulator output ripple&quot; title=&quot;Smart Switching Regulator output ripple&quot; /&gt;&lt;br /&gt;&lt;span class=&quot;caption&quot;&gt;Figure 10: Variation of efficiency with current
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+What is important to notice in Figure 10 is that for load currents over 100mA, the efficiency goes over 70%. Moreover, for output currents higher than 250mA the efficiency exceeds 90%.&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Measuring Accuracy&lt;/h2&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img width=&quot;400px&quot; src=&quot;/sites/default/files/smart-switching-regulartor-table3.png&quot; alt=&quot;Smart Switching Regulator Accuracy Table&quot; title=&quot;Smart Switching Regulator Accuracy Table&quot; /&gt;&lt;br /&gt;&lt;span class=&quot;caption&quot;&gt;Table 3. Reference Voltage vs Output Voltage&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;Future improvements&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;There are still improvements to be made here, especially in terms of ripple and efficiency:
+Replacing the comparator with an ADC might bring some advantages, and, basically, the comparator is a 1-bit ADC and the information provided by it is very poor. Consequently the complexity of the control algorithm is limited due to poor feedback information from the comparator output. By knowing the precise value of the output voltage a more accurate control could be achieved, however, some research should be done here as any advantages might not justify the additional outlay and, in addition, the space occupied by an ADC.
+Integrating a current measurement circuit: The output ripple and efficiency are power-dependent on the load current, by knowing the value of the instantaneous current the algorithm parameters can be adapted, even during running. A lookup table could be developed inside the FPGA so that the algorithm will know what parameters to use depending on the load current.&lt;/div&gt;
+&lt;br /&gt;
+&lt;b&gt;Note:&lt;/b&gt; The project building steps can be found at &lt;a href=&quot;https://github.com/vladniculescu/GSOC/blob/master/Documentation.pdf&quot; target=&quot;_blank&quot;&gt;https://github.com/vladniculescu/GSOC/blob/master/Documentation.pdf&lt;/a&gt; (page 18, chapter 10).
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;article class=&quot;node-481 node node-page en clearfix&quot; about=&quot;/node/481&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Further Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Newsletter&quot; target=&quot;blank&quot;&gt;Newsletter editions&lt;/a&gt; - Previous, HTML newsletters archived. &lt;a href=&quot;http://newsletter.apertus.org/lists/?p=subscribe&amp;amp;id=1&quot; target=&quot;blank&quot;&gt;Subscribe here&lt;/a&gt; to receive yours via email.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Prices&quot; target=&quot;blank&quot;&gt;Shop links, prices and availability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Camera_Structure&quot; target=&quot;blank&quot;&gt;Camera structure&lt;/a&gt; - A complete guide to the camera&#039;s specifications and components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Video&quot; target=&quot;blank&quot;&gt;AXIOM Beta sample videos&lt;/a&gt; - Uncompressed .mov .mp4 and .dng files in 720p, 1080p and 4K are archived here if you&#039;d like to play with them. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEBkXWJgDUvEysgwMsNOzTuwJB0vSRnamxlx6PK4vM671L1g/viewform&quot; target=&quot;blank&quot;&gt;Pre-order notification&lt;/a&gt; - Receive an email when a more user-friendly version of the camera is ready to ship. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema&quot; target=&quot;blank&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Join_the_Team&quot; target=&quot;blank&quot;&gt;Join the Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Social&quot; target=&quot;blank&quot;&gt;Social accounts&lt;/a&gt; - Links to YouTube etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Project_Background&quot; target=&quot;blank&quot;&gt;AXIOM Project Background&lt;/a&gt; - How apertus° and the AXIOM project got started. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h2&gt;Want to participate?&lt;/h2&gt;
+&lt;p&gt;Want to provide feedback or suggest improvements? Want to try your own approach and need help?&lt;/p&gt;
+
+&lt;p&gt;Get in touch via &lt;a class=&quot;btn&quot; href=&quot;/irc-chat&quot; target=&quot;blank&quot;&gt;IRC&lt;/a&gt; or &lt;a class=&quot;btn&quot; href=&quot;/contact&quot; target=&quot;blank&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/axiom-beta-old&quot;&gt;AXIOM Beta&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 24 Oct 2017 11:51:35 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">482 at </guid>
+  </item>
+  <item>
+    <title>AXIOM Team Talk Volume 13.1- SDI Module, SMT Workshop and Exhibition</title>
+    <link>/axiom-team-talk-volume-13.1-article-september-2017</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;twocoloumns justify&quot;&gt;We know a lot of people are waiting for news about hardware production and we are doing production and development in parallel. Our most recent article talked about progress with &lt;a href=&quot;/road-from-axiom-beta-developer-kit-to-production-camera-article-july-2017&quot;&gt;electronics manufacturing&lt;/a&gt; - in this article and Team Talk we want to share news about new ongoing developments though.&lt;/div&gt; 
+&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube.com/embed/efT7BhaubyM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;AXIOM Beta Dual 6G SDI module in development&lt;/h2&gt;
+&lt;div class=&quot;twocoloumns justify&quot;&gt;When choosing between HDMI and SDI we have so far given HDMI priority as, for developers working with the AXIOM Beta, it meant a larger and more affordable choice of monitors, recorders and accessories (even if doing so risked the Beta being wrongfully perceived as a consumer device at the time) were compatible with the camera. With more developer kits out in the wild we’re now ready to focus on an SDI solution and since the Beta is fully modular it’s users are able to choose which plugin modules they want to install in this regard ie. SDI, HDMI, or both. Because the AXIOM Beta’s current CMV12000 sensor is capable of recording RAW video in 4K at high frame rates, and with other, future, more capable sensors being incorporated into the camera in mind, a good solution for transferring large amounts of data quickly is very important. The SDI module will be a dual-slot plugin module (for HDMI and SDI connectivity at the same time the &lt;a href=&quot;/new-axiom-beta-modules-shields-article-february-2017&quot;&gt;HDMI output shield&lt;/a&gt; can be used).&lt;/div&gt;  
+&lt;br /&gt;
+&lt;img src=&quot;/sites/default/files/prototype-fund-01.jpg&quot; alt=&quot;prototypefund.de&quot; title=&quot;prototypefund.de&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;twocoloumns justify&quot;&gt;We received a grant from the &lt;a href=&quot;https://prototypefund.de/project/videoactive/&quot; target=&quot;_blank&quot;&gt;Prototype Fund&lt;/a&gt; backed by the German Federal Ministry of Education and Research (BMBF) to develop open source FPGA Code/Logic for SDI video input and output. The project is titled Photon-SDI and is being developed in collaboration with &lt;a href=&quot;https://code.timvideos.us/&quot; target=&quot;_blank&quot;&gt;timvideos.us&lt;/a&gt;. TimVideos was founded by Tim ‘mithro’ Ansell, an Australia-based programmer creating the Numato Opsis board - a Mini-ITX standard, FPGA-based, open source, open hardware, video-data capture platform geared towards conference live-streaming/recording and FPGA-based video research.&lt;/div&gt; 
+&lt;br /&gt; 
+&lt;div width=&quot;500px&amp;quot;&quot;&gt;Now let’s look at what the SDI module really means for the AXIOM Beta’s technical capabilities (Note: Not everything here is covered by the grant):&lt;/div&gt;
+&lt;br /&gt;
+
+&lt;ul style=&quot;padding-left:100px; width:600px&quot;&gt;
+&lt;li&gt;Cable lengths of up to 100m.&lt;/li&gt;
+&lt;li&gt;Better integration into existing broadcast/live recording setups.&lt;/li&gt;
+&lt;li&gt;6G SDI supports: 10 Bit 4:2:2 UHD up to 30p, 10/12bit UHD RAW up to 60p.&lt;/li&gt;
+&lt;li&gt;Dual 6G SDI will effectively double the aforementioned framerates/data rates.&lt;/li&gt;
+&lt;li&gt;The AXIOM Beta module will be a dual slot plugin module and feature 2x 6G SDI inputs and 2x 6G SDI outputs (up to 12gbit/s total bandwidth simultaneously)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/sites/default/files/34c3.jpg&quot; title=&quot;AXIOM at 34C3&quot; alt=&quot;AXIOM at 34C3&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;Next stop 34C3&lt;/h2&gt;
+&lt;div class=&quot;twocoloumns justify&quot;&gt;
+If everything goes as planned we would love to do first real world experimentation with AXIOM Betas and installed SDI modules at the &lt;a href=&quot;https://www.ccc.de/en/updates/2017/34C3-in-leipzig&quot; target=&quot;_blank&quot;&gt;34th Chaos Communication Congress - 34C3&lt;/a&gt; (this year in Leipzig, Germany). The idea is to integrate the SDI Betas into the live streaming and recording system that captures the lectures at the congress.&lt;/div&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;
+&lt;a href=&quot;/sites/default/files/mfb17-01.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/mfb17-01.jpg&quot; alt=&quot;AXIOM SMT workshop at Maker Faire Berlin&quot; title=&quot;AXIOM SMT workshop at Maker Faire Berlin&quot; class=&quot;thumbnail&quot; style=&quot;height:210px&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/sites/default/files/mfb17-02.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/mfb17-02.jpg&quot; alt=&quot;AXIOM SMT workshop at Maker Faire Berlin&quot; title=&quot;AXIOM SMT workshop at Maker Faire Berlin&quot; class=&quot;thumbnail&quot; style=&quot;height:210px&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/sites/default/files/mfb17-03.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/mfb17-03.jpg&quot; alt=&quot;AXIOM SMT workshop at Maker Faire Berlin&quot; title=&quot;AXIOM SMT workshop at Maker Faire Berlin&quot; class=&quot;thumbnail&quot; style=&quot;height:210px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;br /&gt;
+
+&lt;h2&gt;SMT Workshop&lt;/h2&gt;
+&lt;div class=&quot;twocoloumns justify&quot;&gt;
+During several Make:, Maker Faire and Linux events recently we have held Surface Mount Technology (SMT) workshops, inside which interested tinkerers could practice building their own electronic jewelry: small PCBs with a PIC microcontroller, battery and color LEDs. The process is very similar to the one we use to build AXIOM Beta hardware - reasonably simple if you have the right tools and know a few tricks. So after finishing their &lt;a href=&quot;/smt-workshop&quot;&gt;blinking bracelets&lt;/a&gt; we hope people start soldering their own AXIOM Betas right away at home.
+&lt;/div&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;
+&lt;a href=&quot;/sites/default/files/A-MAK_StadtFabrik_16_06_2017_51.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/A-MAK_StadtFabrik_16_06_2017_51.jpg&quot; alt=&quot;AXIOM at MAK Stadtfabrik&quot; title=&quot;AXIOM at MAK Stadtfabrik&quot; class=&quot;thumbnail&quot; width=&quot;400px&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/sites/default/files/A-MAK_StadtFabrik_16_06_2017_56.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/A-MAK_StadtFabrik_16_06_2017_56.jpg&quot; alt=&quot;AXIOM at MAK Stadtfabrik&quot; title=&quot;AXIOM at MAK Stadtfabrik&quot; class=&quot;thumbnail&quot; width=&quot;400px&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;AXIOM at Vienna Biennale&lt;/h2&gt;
+&lt;div class=&quot;twocoloumns justify&quot;&gt;The project, two AXIOM cameras and a film shot on the AXIOM Beta are currently being exhibited across &lt;a href=&quot;http://www.viennabiennale.org/en/&quot; target=&quot;_blank&quot;&gt;Vienna Biennale 2017 at the Museum of Applied Arts Vienna&lt;/a&gt;. Until the 1st of October you can visit the exhibition about artificial Intelligence, robots, automatized working environments, the Internet of Things, unlimited digital communication, “transparent” human beings, etc. The AXIOM project can be found in the &lt;i&gt;City Factory: New Work. New Design.&lt;/i&gt; exhibition.&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;article class=&quot;node-481 node node-page en clearfix&quot; about=&quot;/node/481&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Further Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Newsletter&quot; target=&quot;blank&quot;&gt;Newsletter editions&lt;/a&gt; - Previous, HTML newsletters archived. &lt;a href=&quot;http://newsletter.apertus.org/lists/?p=subscribe&amp;amp;id=1&quot; target=&quot;blank&quot;&gt;Subscribe here&lt;/a&gt; to receive yours via email.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Prices&quot; target=&quot;blank&quot;&gt;Shop links, prices and availability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Camera_Structure&quot; target=&quot;blank&quot;&gt;Camera structure&lt;/a&gt; - A complete guide to the camera&#039;s specifications and components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Video&quot; target=&quot;blank&quot;&gt;AXIOM Beta sample videos&lt;/a&gt; - Uncompressed .mov .mp4 and .dng files in 720p, 1080p and 4K are archived here if you&#039;d like to play with them. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEBkXWJgDUvEysgwMsNOzTuwJB0vSRnamxlx6PK4vM671L1g/viewform&quot; target=&quot;blank&quot;&gt;Pre-order notification&lt;/a&gt; - Receive an email when a more user-friendly version of the camera is ready to ship. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema&quot; target=&quot;blank&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Join_the_Team&quot; target=&quot;blank&quot;&gt;Join the Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Social&quot; target=&quot;blank&quot;&gt;Social accounts&lt;/a&gt; - Links to YouTube etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Project_Background&quot; target=&quot;blank&quot;&gt;AXIOM Project Background&lt;/a&gt; - How apertus° and the AXIOM project got started. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h2&gt;Want to participate?&lt;/h2&gt;
+&lt;p&gt;Want to provide feedback or suggest improvements? Want to try your own approach and need help?&lt;/p&gt;
+
+&lt;p&gt;Get in touch via &lt;a class=&quot;btn&quot; href=&quot;/irc-chat&quot; target=&quot;blank&quot;&gt;IRC&lt;/a&gt; or &lt;a class=&quot;btn&quot; href=&quot;/contact&quot; target=&quot;blank&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/axiom-beta-old&quot;&gt;AXIOM Beta&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 18 Sep 2017 18:45:19 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">480 at </guid>
+  </item>
+  <item>
+    <title>The Road from AXIOM Beta Developer Kit to Production Camera</title>
+    <link>/road-from-axiom-beta-developer-kit-to-production-camera-article-july-2017</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;justify twocoloumns&quot;&gt;Developer Kits have been shipping for some time now and we are aware that the most pressing question for many of you is &quot;When will the AXIOM Beta evolve from a Developer Kit to being a production ready camera?&quot; This article should help to answer that question, but keep in mind that the camera has been carefully designed to evolve constantly.&lt;/div&gt;
+&lt;br /&gt;
+For a detailed itinerary of outstanding tasks and a statement on expected timeframes please see 
+
+&lt;a href=&quot;https://wiki.apertus.org/index.php/Mission_Briefings#AXIOM_Beta_Related&quot;&gt;Mission Briefings &lt;/a&gt;on the project&#039;s Wiki.
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/axiom-beta-dev-kit01.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/axiom-beta-dev-kit01.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Metal Full Enclosure&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;The work on completing &lt;a href=&quot;https://lab.apertus.org/project/board/4/&quot;&gt;open tasks &lt;/a&gt;related to enclosure design is progressing well (Additional help is always appreciated however). We have started visualizing current &lt;a href=&quot;https://cad.onshape.com/documents/5807a00826b0d211439612f8/w/1d3df0944e4dc28288df4327/e/06c2b0fbaf92ffc726d2889e&quot;&gt;Full Enclosure CAD&lt;/a&gt; files with photo-realistic renders in order to allow for reviewing parts more easily and seeing how things fit together better - allowing viewers to get as close to virtually feeling the camera parts in hand without actually having physical components ready.&lt;/div&gt;&lt;br /&gt;
+&lt;a class=&quot;colorbox&quot; href=&quot;/sites/default/files/Cap-Top-Revision-View_ABPR.E01.CT_.02.03.jpg&quot;&gt;&lt;img src=&quot;/sites/default/files/Cap-Top-Revision-View_ABPR.E01.CT_.02.03.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a class=&quot;colorbox&quot; href=&quot;/sites/default/files/Side_Plate_02V1_ABPR.E01.SP_.02.01..jpg&quot;&gt;&lt;img src=&quot;/sites/default/files/Side_Plate_02V1_ABPR.E01.SP_.02.01..jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Automated Production&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;If you read our recent &lt;a href=&quot;/picking-and-placing-hardware-production-progress-article-feburary-2017&quot;&gt;Pick and Place Machining &lt;/a&gt; article you&#039;ll know that we&#039;re in the process of automating manual electronic production workflows in-house. Good progress has been made calibrating these machines so that the pin-point accuracy required for populating printed circuit boards is successful. We&#039;ll commence the production of automatically produced test boards soon - the problems are always in the details though and small problems can cause the entire process to grind to a halt. This has taken considerable time and effort to master and it was important that we made efforts to accommodate for increased production volumes ahead of shipping AXIOM Beta II&#039;s (preferably without relying on third parties) but thankfully our working on Pick and Place machines also allowed us to push open source development in this regard upstream so that other communities can benefit.&lt;/div&gt;
+&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube.com/embed/pmJyBEiuB7c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube.com/embed/0vEffLKqdrs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;Software Rewrite, Camera Control &amp;amp; Automatic Firmware Builds&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;Most of the firmware/software running inside the AXIOM Beta has been ported code that was originally written for the AXIOM Alpha - up to now our team has been focused on hardware design/manufacturing processes but recreating the camera&#039;s software from the ground up is essential. It&#039;s true that the Developer Kit&#039;s user experience is not tailored for the end-user, eg. There are no buttons on the camera and the only way to effectively control its operations is through a commandline interface - this can intimidate non-programmers so we knew that a built-in WiFi and browser-based control interface had to be devised (this approach will function on any device, any operating system, and any platform as long as it has WiFi connectivity and a browser). Below you can see some screen designs and GUI concepts of how camera control could look. If you want to help us turn this into responsive javascript or simply provide feedback and ideas, then please consider &lt;a href=&quot;/contact&quot;&gt;joining the team&lt;/a&gt;. Another aspect to supplying a camera&#039;s firmware is the need to establish an automated build system so that users can easily download micro SD card image versions and perform updates (to upgrade the firmware or easily try new builds and features). Work on this task is taking place in the &lt;a href=&quot;https://lab.apertus.org/T737&quot;&gt;Qemu AXIOM Beta virtualization and firmware building task&lt;/a&gt;.&lt;/div&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/axiom-beta-webgui-concept-02---overview.png&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/axiom-beta-webgui-concept-02---overview.png&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;AXIOM Beta Control GUI concept&lt;/div&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/axiom-beta-webgui-concept-01---shutter.png&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/axiom-beta-webgui-concept-01---shutter.png&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;AXIOM Beta Control GUI concept&lt;/div&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;Additional Challenges&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;Besides these there are more challenges ahead of course - Once you start selling a product (developer kits are explicitly exempted here) it has to meet certain standard criteria and acquiring certificates such as FCC or CE are mandatory and far from straight forward - the process requires studying law regulations, passing electronic emission lab tests and having various technical formalities approved... these things can be quite expensive and take time too, but as the project negotiates its last remaining hurdles continued patience is greatly appreciated.
+ 
+
+As always with a community project like ours, your feedback, support and ideas regarding these topics is valued: &lt;a href=&quot;/contact&quot;&gt;Contact us&lt;/a&gt;&lt;/div&gt;
+&lt;img src=&quot;/sites/default/files/fcc-ec-logos_0.png&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;h2&gt;Join Us&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;It&#039;s not too late to contribute or assist either. We humbly accept &lt;a href=&quot;/donate&quot;&gt;donations&lt;/a&gt; and if you&#039;d be willing to contribute your time and skills you can find first steps to joining the team &lt;a href=&quot;https://wiki.apertus.org/index.php/Join_the_Team&quot;&gt;here&lt;/a&gt;. We&#039;d sorely like to redesign the website and some works have been completed in this respect, but as no one on the team is a web developer currently this tends to get put onto the back burner. If you have Drupal experience and would like to help we&#039;d love to hear from you so please do &lt;a href=&quot;/contact&quot;&gt;contact us,&lt;/a&gt; or if you know anyone who&#039;d be interested in the project then feel free to pass a link to this article on.&lt;/div&gt;
+&lt;br /&gt;
+&lt;article class=&quot;node-481 node node-page en clearfix&quot; about=&quot;/node/481&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Further Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Newsletter&quot; target=&quot;blank&quot;&gt;Newsletter editions&lt;/a&gt; - Previous, HTML newsletters archived. &lt;a href=&quot;http://newsletter.apertus.org/lists/?p=subscribe&amp;amp;id=1&quot; target=&quot;blank&quot;&gt;Subscribe here&lt;/a&gt; to receive yours via email.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Prices&quot; target=&quot;blank&quot;&gt;Shop links, prices and availability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Camera_Structure&quot; target=&quot;blank&quot;&gt;Camera structure&lt;/a&gt; - A complete guide to the camera&#039;s specifications and components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Video&quot; target=&quot;blank&quot;&gt;AXIOM Beta sample videos&lt;/a&gt; - Uncompressed .mov .mp4 and .dng files in 720p, 1080p and 4K are archived here if you&#039;d like to play with them. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEBkXWJgDUvEysgwMsNOzTuwJB0vSRnamxlx6PK4vM671L1g/viewform&quot; target=&quot;blank&quot;&gt;Pre-order notification&lt;/a&gt; - Receive an email when a more user-friendly version of the camera is ready to ship. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema&quot; target=&quot;blank&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Join_the_Team&quot; target=&quot;blank&quot;&gt;Join the Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Social&quot; target=&quot;blank&quot;&gt;Social accounts&lt;/a&gt; - Links to YouTube etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Project_Background&quot; target=&quot;blank&quot;&gt;AXIOM Project Background&lt;/a&gt; - How apertus° and the AXIOM project got started. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h2&gt;Want to participate?&lt;/h2&gt;
+&lt;p&gt;Want to provide feedback or suggest improvements? Want to try your own approach and need help?&lt;/p&gt;
+
+&lt;p&gt;Get in touch via &lt;a class=&quot;btn&quot; href=&quot;/irc-chat&quot; target=&quot;blank&quot;&gt;IRC&lt;/a&gt; or &lt;a class=&quot;btn&quot; href=&quot;/contact&quot; target=&quot;blank&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/axiom-beta-old&quot;&gt;AXIOM Beta&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 17 Jul 2017 18:00:06 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">479 at </guid>
+  </item>
+  <item>
+    <title>Google Summer of Code Projects - Coding Begins</title>
+    <link>/apertus-google-summer-of-code-article-may-2017</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div style=&quot;text-align:center&quot;&gt;&lt;a href=&quot;https://summerofcode.withgoogle.com/organizations/4801281785856000/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/sites/default/files/google-summer-of-code flags.png&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;For this year’s Summer of Code, Google awarded apertus° three student slots. This is significant as new mentoring organizations are warned that they’re likely to receive a maximum of 1-2 slots in their first year. We set out to choose the best of the best from almost thirty project proposals - a difficult decision as all were of a very high standard. The chosen students have already started reading up on the required documentation and have been familiarising themselves with development tools as well as getting to know our team, community and our communication platforms as well as our &lt;a href=&quot;https://github.com/apertus-open-source-cinema/&quot; target=&quot;_blank&quot;&gt;github code repositories&lt;/a&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;The Projects&lt;/h2&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+&lt;div class=&quot;span3&quot;&gt;
+&lt;b&gt;champika&lt;/b&gt;&lt;br /&gt;
+Linux Kernel driver for Lattice MachXO2 programming/debugging
+&lt;/div&gt;
+&lt;div class=&quot;span9&quot;&gt;
+Currently, both MachXO2 FPGAs on the AXIOM Beta mainboard are &#039;programmed&#039; with a python script which takes some time and doesn&#039;t allow for easy updates and development for those relatively important FPGAs. The Linux kernel driver to be developed in this task will not just speed up things, but also allow to test and even debug new code easily. 
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;row-fluid&quot;&gt;
+&lt;div class=&quot;span3&quot;&gt;
+&lt;b&gt;Vlad Niculescu&lt;/b&gt;&lt;br /&gt;
+Smart Switching Regulator
+&lt;/div&gt;
+&lt;div class=&quot;span9&quot;&gt;
+The next generation Power Board for the AXIOM Beta will feature Smart Switching Regulators to increase the power efficiency and flexibility in voltage regulation. The idea is to use a custom switching regulator based on an energy efficient FPGA/CPL and a power stage.&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;row-fluid&quot;&gt;
+&lt;div class=&quot;span3&quot;&gt;
+&lt;b&gt;Anudit Verma&lt;/b&gt;&lt;br /&gt;
+AXIOM beta REST Interface
+&lt;/div&gt;
+&lt;div class=&quot;span9&quot;&gt;
+The AXIOM Beta REST interface is meant to be capable of setting and getting all camera control parameters. This interface will be the foundation for future higher level GUIs/Apps that utilize the API.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal.svg&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;The official coding phase started on May 30th and will run the entire summer until the end of August. All students will release their code as open source, of course.Although all this year’s GSoC placements are filled, if you would still like to assist with &lt;a href=&quot;https://lab.apertus.org/project/view/20/&quot;&gt;one of the unassigned tasks&lt;/a&gt;, then please feel free to get in contact! &lt;/div&gt;
+&lt;br /&gt;
+
+&lt;article class=&quot;node-481 node node-page en clearfix&quot; about=&quot;/node/481&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Further Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Newsletter&quot; target=&quot;blank&quot;&gt;Newsletter editions&lt;/a&gt; - Previous, HTML newsletters archived. &lt;a href=&quot;http://newsletter.apertus.org/lists/?p=subscribe&amp;amp;id=1&quot; target=&quot;blank&quot;&gt;Subscribe here&lt;/a&gt; to receive yours via email.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Prices&quot; target=&quot;blank&quot;&gt;Shop links, prices and availability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Camera_Structure&quot; target=&quot;blank&quot;&gt;Camera structure&lt;/a&gt; - A complete guide to the camera&#039;s specifications and components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Video&quot; target=&quot;blank&quot;&gt;AXIOM Beta sample videos&lt;/a&gt; - Uncompressed .mov .mp4 and .dng files in 720p, 1080p and 4K are archived here if you&#039;d like to play with them. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEBkXWJgDUvEysgwMsNOzTuwJB0vSRnamxlx6PK4vM671L1g/viewform&quot; target=&quot;blank&quot;&gt;Pre-order notification&lt;/a&gt; - Receive an email when a more user-friendly version of the camera is ready to ship. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema&quot; target=&quot;blank&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Join_the_Team&quot; target=&quot;blank&quot;&gt;Join the Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Social&quot; target=&quot;blank&quot;&gt;Social accounts&lt;/a&gt; - Links to YouTube etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Project_Background&quot; target=&quot;blank&quot;&gt;AXIOM Project Background&lt;/a&gt; - How apertus° and the AXIOM project got started. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h2&gt;Want to participate?&lt;/h2&gt;
+&lt;p&gt;Want to provide feedback or suggest improvements? Want to try your own approach and need help?&lt;/p&gt;
+
+&lt;p&gt;Get in touch via &lt;a class=&quot;btn&quot; href=&quot;/irc-chat&quot; target=&quot;blank&quot;&gt;IRC&lt;/a&gt; or &lt;a class=&quot;btn&quot; href=&quot;/contact&quot; target=&quot;blank&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/axiom-beta-old&quot;&gt;AXIOM Beta&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 30 May 2017 14:57:50 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">475 at </guid>
+  </item>
+  <item>
+    <title> AXIOM Team Talk Volume 12.3: Sample Footage!!!</title>
+    <link>/axiom-team-talk-volume-12.3-article-march-2017</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube.com/embed/TMUT_iiPefY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;Development History in Images&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;These clips were shot over the course of around 18 months of development. Some of the periodic developments improved image quality eg. by reducing noise, but some tweaks didn&#039;t make the image noticeably better to any significant degree so please be aware that this collection of clips demonstrate technical snapshots relating to software and hardware development only. Nothing was shot to highlight specific aspects of the camera&#039;s development, rather, we wanted to test and evaluate its operating processes in various environments that happened to be available to us during particular times. The footage is all 1080p - some later clips were shot in &lt;a href=&quot;/axiom-beta-uhd-raw-mode-explained-article-may-2016&quot;&gt;UHD mode&lt;/a&gt; but processed at 1080p.&lt;/p&gt;
+&lt;h2&gt;Lenses&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;In the beginning we were borrowing lenses, then we started buying old Nikon photography primes for shooting with the AXIOM Alpha prototype, but over the years we have acquired a selection of old Contax Yashica, M42, Canon and Nikon lenses like the the Zeiss 50mm F1.4 or Distagon 35mm F1.4 and 85mm F1.4. We haven&#039;t used any real cinema lens with the AXIOM Beta up to this point as we didn&#039;t feel that our test-shots would justify their outlay. 
+Note that all AXIOM Beta developer kits currently use no optical low pass filter and have an infra-red cut-off filter screwed onto the lens. However, our integrating an infra-red filter into the lens mount in the future is planned. In addition, a new optical low pass filter module option will be offered but as yet we&#039;re not sure when.
+&lt;/p&gt;
+&lt;h2&gt;Sample Footage Clips&lt;/h2&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube.com/embed/KF-inHKfzvo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;a href=&quot;http://files.apertus.org/AXIOM-Beta/samples/AXIOM_Beta_CMV12000_1080p30_002._Haunted_House_Graded_-_23.03.17.zip&quot; class=&quot;btn btn-info btn-large&quot;&gt;Graded DNxHD Clip (740 MB)&lt;/a&gt; &lt;a href=&quot;http://files.apertus.org/AXIOM-Beta/samples/AXIOM_Beta_CMV12000_1080p30_003._Haunted_House_Ungraded_-_23.03.17.zip&quot; class=&quot;btn btn-info btn-large&quot;&gt;Ungraded DNxHD Clip (558 MB)&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube.com/embed/A_CyjPHZkaA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;a href=&quot;http://files.apertus.org/AXIOM-Beta/samples/AXIOM_Beta_CMV12000_1080p30_004._Vienna_Danube_Graded_-_24.03.17.zip&quot; class=&quot;btn btn-info btn-large&quot;&gt;Graded DNxHD Clip (1.5 GB)&lt;/a&gt; &lt;a href=&quot;http://files.apertus.org/AXIOM-Beta/samples/AXIOM_Beta_CMV12000_1080p30_005._Vienna_Danube_Ungraded_-_24.03.17.zip&quot; class=&quot;btn btn-info btn-large&quot;&gt;Ungraded DNxHD Clip (1.5 GB)&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube.com/embed/SoC3Kgk77Sw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;a href=&quot;http://files.apertus.org/AXIOM-Beta/samples/AXIOM_Beta_CMV12000_1080p30_006._CAXIOM_Graded_-_24.03.17.zip&quot; class=&quot;btn btn-info btn-large&quot;&gt;Graded DNxHD Clip (932 MB)&lt;/a&gt; &lt;a href=&quot;http://files.apertus.org/AXIOM-Beta/samples/AXIOM_Beta_CMV12000_1080p30_007._CAXIOM_Unraded_-_24.03.17.zip&quot; class=&quot;btn btn-info btn-large&quot;&gt;Ungraded DNxHD Clip (791 MB)&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube.com/embed/bf7PPuGGefc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;a href=&quot;http://files.apertus.org/AXIOM-Beta/samples/AXIOM_Beta_CMV12000_1080p30_008._Vienna_Stadtpark_Graded_-_24.03.17.zip&quot; class=&quot;btn btn-info btn-large&quot;&gt;Graded DNxHD Clip (2.7 GB)&lt;/a&gt; &lt;a href=&quot;http://files.apertus.org/AXIOM-Beta/samples/AXIOM_Beta_CMV12000_1080p30_009._Vienna_Stadtpark_Ungraded_-_24.03.17.zip&quot; class=&quot;btn btn-info btn-large&quot;&gt;Ungraded DNxHD Clip (2.6 GB)&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;First HDR Footage&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;The image sensor datasheet declares 10 f-stops native dynamic range but a so called &lt;a href=&quot;https://wiki.apertus.org/index.php/PLR&quot;&gt;Piecewise Linear Response (PLR) High Dynamic Range (HDR) mode&lt;/a&gt; is also mentioned. We&#039;ve done initial tests with this mode and found that it allowed us to get quite a few additional stops dynamic range out of the image sensor, which is very promising. PLR can make individual sensels (pixels on an image sensor) less light sensitive based on their saturation value during each exposure cycle. In other words, highlights can be tuned to contain a predefined additional number of f-stops. &lt;a href=&quot;http://www.imdb.com/title/tt5902750/&quot; target=&quot;_blank&quot;&gt;Trust&lt;/a&gt; is a Shakespearean short film directed by &lt;a href=&quot;https://www.juliananeuhuber.com/&quot;&gt;Juliana Neuhuber&lt;/a&gt; and the below clip was the first footage shot with the AXIOM Beta&#039;s PLR HDR mode turned on. While the settings might not have been 100% optimal at this point, and while we felt there may still be some room for improvement, the results were better than expected. A single response curve knee-point was used for the time being - in addition the image sensor supports the incorporation of a second knee-point, so, dynamic range increases in the highlights can be tuned for further improvement.&lt;/p&gt;
+&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube.com/embed/L65zNiAnM0E&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;a href=&quot;http://files.apertus.org/AXIOM-Beta/samples/AXIOM_Beta_CMV12000_1080p30_010._Trust_Graded_-_24.03.17.zip&quot; class=&quot;btn btn-info btn-large&quot;&gt;Graded DNxHD Clip (1.8 GB)&lt;/a&gt; &lt;a href=&quot;http://files.apertus.org/AXIOM-Beta/samples/AXIOM_Beta_CMV12000_1080p30_011._Trust_Ungraded_-_24.03.17.zip&quot; class=&quot;btn btn-info btn-large&quot;&gt;Ungraded DNxHD Clip (1.4 GB)&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+
+
+UHD raw footage clips and sample DNGs from our RELAXiom shoot can be downloaded at the end of the article: &lt;a href=&quot;/axiom-beta-uhd-raw-mode-explained-article-may-2016&quot;&gt;AXIOM Beta UHD Raw Workflow Explained&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;Call for Remixes&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;You downloaded the ungraded clips we provided here and put them into a new order, added your own music and regraded the &quot;raw&quot; footage? We would love to see and share the results. If you have such a clips please upload it and &lt;a href=&quot;/contact&quot;&gt;let us know&lt;/a&gt;.&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;Update: Community Color Grades&lt;/h2&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube.com/embed/aEQcOqlCgqQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube.com/embed/4FGANCAU7-c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;
+
+
+&lt;article class=&quot;node-481 node node-page en clearfix&quot; about=&quot;/node/481&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Further Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Newsletter&quot; target=&quot;blank&quot;&gt;Newsletter editions&lt;/a&gt; - Previous, HTML newsletters archived. &lt;a href=&quot;http://newsletter.apertus.org/lists/?p=subscribe&amp;amp;id=1&quot; target=&quot;blank&quot;&gt;Subscribe here&lt;/a&gt; to receive yours via email.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Prices&quot; target=&quot;blank&quot;&gt;Shop links, prices and availability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Camera_Structure&quot; target=&quot;blank&quot;&gt;Camera structure&lt;/a&gt; - A complete guide to the camera&#039;s specifications and components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Video&quot; target=&quot;blank&quot;&gt;AXIOM Beta sample videos&lt;/a&gt; - Uncompressed .mov .mp4 and .dng files in 720p, 1080p and 4K are archived here if you&#039;d like to play with them. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEBkXWJgDUvEysgwMsNOzTuwJB0vSRnamxlx6PK4vM671L1g/viewform&quot; target=&quot;blank&quot;&gt;Pre-order notification&lt;/a&gt; - Receive an email when a more user-friendly version of the camera is ready to ship. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema&quot; target=&quot;blank&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Join_the_Team&quot; target=&quot;blank&quot;&gt;Join the Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Social&quot; target=&quot;blank&quot;&gt;Social accounts&lt;/a&gt; - Links to YouTube etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Project_Background&quot; target=&quot;blank&quot;&gt;AXIOM Project Background&lt;/a&gt; - How apertus° and the AXIOM project got started. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h2&gt;Want to participate?&lt;/h2&gt;
+&lt;p&gt;Want to provide feedback or suggest improvements? Want to try your own approach and need help?&lt;/p&gt;
+
+&lt;p&gt;Get in touch via &lt;a class=&quot;btn&quot; href=&quot;/irc-chat&quot; target=&quot;blank&quot;&gt;IRC&lt;/a&gt; or &lt;a class=&quot;btn&quot; href=&quot;/contact&quot; target=&quot;blank&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/axiom-beta-old&quot;&gt;AXIOM Beta&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 28 Mar 2017 15:50:45 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">470 at </guid>
+  </item>
+  <item>
+    <title>apertus° accepted for Google Summer of Code 2017</title>
+    <link>/apertus-google-summer-of-code-article-march-2017</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;row-fluid&quot;&gt;
+&lt;div class=&quot;span5&quot;&gt;&lt;img src=&quot;/sites/default/files/gsoc2017.png&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span7&quot;&gt;
+&lt;p&gt;
+We are very proud to announce that apertus° has been accepted as a new mentoring organization for this year’s &lt;a href=&quot;https://developers.google.com/open-source/gsoc/&quot; target=&quot;_blank&quot;&gt;Google Summer of Code (GSoC)&lt;/a&gt;. As only a small number of new organizations are allowed to join each year and the majority already in the program have been participating for many years, this is especially exciting. For anyone not familiar, GSoC is a program where students are paid to contribute to selected open source projects between June and August.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://wiki.apertus.org/index.php/GSoC_Overview&quot; class=&quot;btn btn-info btn-large&quot;&gt;Project Overview&lt;/a&gt; &lt;a href=&quot;https://summerofcode.withgoogle.com/organizations/4801281785856000/&quot; class=&quot;btn btn-info btn-large&quot;&gt;apertus° GSoC Profile&lt;/a&gt; 
+&lt;a href=&quot;https://lab.apertus.org/project/view/20/&quot; class=&quot;btn btn-info btn-large&quot;&gt;apertus° Idea List&lt;/a&gt;
+&lt;a href=&quot;https://groups.google.com/forum/#!forum/apertus-gsoc&quot; class=&quot;btn btn-info btn-large&quot;&gt;apertus° GSoC Mailinglist&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;FPGA Hackers wanted&lt;/h2&gt;
+&lt;p class=&quot;twocoloumns justify&quot;&gt;
+
+Field Programmable Gate Arrays (FPGAs) and their embedded systems are central to the AXIOM camera&#039;s design so these will feature in many of our GSoC projects. For anyone not already familiar, FPGAs are hardware (in general a chip) which contains a huge number of predefined resources, so called Gates - which are actaully lookup tables (LUTs) nowadays - and flip-flops (FFs), which can be reconfigured by uploading a specific bitstream (the software) into the volatile configuration memory. As these logic elements can be connected to each other in many possible configurations, the firmware needs to be carefully designed to ensure it works exactly as intended. This is where the hardware description language (HDL) comes in. HDL lets developers describe the functional aspects of the design without the need to bother about the low-level electrical details. FPGAs are able to process huge amounts of data in a highly optimized, pipelined and parallelized way, which makes them perfect for real-time data crunching like processing high speed high resolution raw video. This year, in collaboration with other GSoC projects &lt;a href=&quot;https://code.timvideos.us/summer-of-code/&quot; target=&quot;_blank&quot;&gt;TimVideos.us&lt;/a&gt; and &lt;a href=&quot;https://summerofcode.withgoogle.com/organizations/5867002221559808/&quot; target=&quot;_blank&quot;&gt;FOSSi&lt;/a&gt;, we&#039;re looking for people who want to get their hands dirty with FPGAs :)&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;Projects excerpt:&lt;/h2&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+&lt;div class=&quot;span3&quot;&gt;&lt;a href=&quot;https://lab.apertus.org/T733&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3e/Bikesgray_prewitt.JPG&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;span8&quot;&gt;&lt;h3&gt;FPGA real time Sobel Filter&lt;/h3&gt;&lt;p&gt;VHDL logic to calculate/detect real time contrast/gradients (sobel) values from an image. This can be utilized for implementing autofocus or focus peaking.&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+&lt;div class=&quot;span3&quot;&gt;&lt;a href=&quot;https://lab.apertus.org/T721&quot;&gt;&lt;img src=&quot;/sites/default/files/ibc.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;span8&quot;&gt;&lt;h3&gt;4K HDMI output HDL gear work Logic / IP Core&lt;/h3&gt;&lt;p&gt;
+The AXIOM Beta will soon feature a plugin module with a Xilinx Artix FPGA and gigabit transceivers to act as gear work for the ZYNQ 4K/UHD HDMI output.&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+These are just a couple of project ideas from the list so feel free to browse and get in touch - we’re happy to share our ideas and are especially interested in hearing your own.&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Timeline&lt;/h2&gt;
+&lt;table class=&quot;table&quot;&gt;
+&lt;tr&gt;&lt;td width=&quot;220px&quot;&gt;&lt;b&gt;February 27 - March 20&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Potential student participants discuss application ideas with mentoring organizations.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;b&gt;March 20 16:00 UTC&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Student application period opens&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;b&gt;April 3 16:00 UTC &lt;/b&gt;&lt;/td&gt;&lt;td&gt;Student application deadline&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+Further dates and details see: &lt;a href=&quot;https://developers.google.com/open-source/gsoc/timeline&quot;&gt;Official GSoC Timeline&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/axiom-beta-old&quot;&gt;AXIOM Beta&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/opencine&quot;&gt;Open Cine&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 07 Mar 2017 15:25:27 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">468 at </guid>
+  </item>
+  <item>
+    <title>AXIOM Team Talk Volume 12.2</title>
+    <link>/axiom-team-talk-volume-12.2-article-february-2017</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube.com/embed/MvFgHYnl3gg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;Small Hardware Changes/Upgrades here and there&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;
+In this team talk, Sebastian gives a brief rundown of some recent hardware changes to the AXIOM Beta development kits. Changes include; different chips to reduce the Lattice FPGA programming time, a new connector to attach the main cooling fan (which is now held in place by noise reducing nylon screws), some schematic changes relating to the JTAG interface FTDI chips (to reduce power feedback), a new onboard sound buzzer. Also, to reduce mechanical stress on the electronics, we now have new precision manufactured nylon spacers to align the PCB stack at exactly the right distance.
+&lt;/div&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;div style=&quot;position:relative;padding-bottom:57%&quot;&gt;&lt;iframe src=&quot;https://gfycat.com/ifr/NeglectedGranularKomododragon&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;position:absolute;top:0;left:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;AXIOM Beta Assembly timelapse&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;
+This timelapse (yes, it actually is sped up - don&#039;t believe the alternative facts shown in the video itself! :) ) shows the entire build process from the initial sensor cleaning, to attaching the PCB boards to each other and fixing all the mechanical components in place with the threaded rods and new nylon spacers. We finally attach the plugin modules, which are held in place by some small custom 3d printed clips.&lt;/div&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/fpn0.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/fpn0.jpg&quot; title=&quot;AXIOM Beta FPN compensation&quot; alt=&quot;AXIOM Beta FPN compensation&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Camera FPN Calibration Demo&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;
+We show you the entire process of capturing 64 dark frames with an AXIOM Beta developer kit and how to process and apply the Fixed Pattern Noise or Row/Coloumn Noise compensation, which is applied inside the camera by the FPGA in real time. Details about the process can be found &lt;a href=&quot;https://wiki.apertus.org/index.php/Factory_Calibration#Step_2:_RCN_calibration&quot;&gt;in the wiki&lt;/a&gt;. We also show that after the FPN noise is removed, if we contrast enhance the image, &quot;dynamic row noise&quot; becomes visible. This is a CMOSIS global shutter specific phenomenon. We can already compensate for this noise type for raw still images by utilizing the so called &quot;black columns&quot; along the edge of the sensor - but that correction process is not part of this video and doesn&#039;t work in real time yet.&lt;/div&gt;
+&lt;br /&gt;
+&lt;hr /&gt;
+&lt;h2&gt;New Team Talk Naming Scheme&lt;/h2&gt;
+&lt;div class=&quot;justify twocoloumns&quot;&gt;
+Note that from now on, Team Talks shot on the same day will be released under the same volume name (like Volume 12 now), but episodes released with a decimal number added to the end, e.g. Volume 12.2. The next release would be Volume 12.3, etc. until we go to the studio on a different day to shoot Volume 13.&lt;/div&gt;
+&lt;br /&gt;
+
+&lt;article class=&quot;node-481 node node-page en clearfix&quot; about=&quot;/node/481&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Further Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Newsletter&quot; target=&quot;blank&quot;&gt;Newsletter editions&lt;/a&gt; - Previous, HTML newsletters archived. &lt;a href=&quot;http://newsletter.apertus.org/lists/?p=subscribe&amp;amp;id=1&quot; target=&quot;blank&quot;&gt;Subscribe here&lt;/a&gt; to receive yours via email.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Prices&quot; target=&quot;blank&quot;&gt;Shop links, prices and availability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Camera_Structure&quot; target=&quot;blank&quot;&gt;Camera structure&lt;/a&gt; - A complete guide to the camera&#039;s specifications and components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Video&quot; target=&quot;blank&quot;&gt;AXIOM Beta sample videos&lt;/a&gt; - Uncompressed .mov .mp4 and .dng files in 720p, 1080p and 4K are archived here if you&#039;d like to play with them. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEBkXWJgDUvEysgwMsNOzTuwJB0vSRnamxlx6PK4vM671L1g/viewform&quot; target=&quot;blank&quot;&gt;Pre-order notification&lt;/a&gt; - Receive an email when a more user-friendly version of the camera is ready to ship. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema&quot; target=&quot;blank&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Join_the_Team&quot; target=&quot;blank&quot;&gt;Join the Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Social&quot; target=&quot;blank&quot;&gt;Social accounts&lt;/a&gt; - Links to YouTube etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Project_Background&quot; target=&quot;blank&quot;&gt;AXIOM Project Background&lt;/a&gt; - How apertus° and the AXIOM project got started. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h2&gt;Want to participate?&lt;/h2&gt;
+&lt;p&gt;Want to provide feedback or suggest improvements? Want to try your own approach and need help?&lt;/p&gt;
+
+&lt;p&gt;Get in touch via &lt;a class=&quot;btn&quot; href=&quot;/irc-chat&quot; target=&quot;blank&quot;&gt;IRC&lt;/a&gt; or &lt;a class=&quot;btn&quot; href=&quot;/contact&quot; target=&quot;blank&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/axiom-beta-old&quot;&gt;AXIOM Beta&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 22 Feb 2017 18:10:55 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">467 at </guid>
+  </item>
+  </channel>
+</rss>

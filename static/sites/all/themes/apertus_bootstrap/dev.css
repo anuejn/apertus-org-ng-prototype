@@ -1,0 +1,29 @@
+/************ this is the last css file added to the theme, use it for developpping new stuff ******************/
+
+article
+{
+	font-size: 0.9em;	
+}
+
+
+
+@media (max-width: 980px)
+{
+	article 
+	{
+		font-size: 0.8em;
+	}
+}
+
+
+
+.links a
+{
+	text-transform:capitalize;
+}
+
+article iframe
+{
+	/*height: auto;*/
+	max-width: 100%;
+}

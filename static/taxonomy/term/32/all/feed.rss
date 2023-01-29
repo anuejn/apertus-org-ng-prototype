@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="/taxonomy/term/32/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>In Development</title>
+    <link>/taxonomy/term/32/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="/taxonomy/term/32/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>AXIOM Beta</title>
+    <link>/axiom-beta-old</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden default-file&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/default_images/apertus-default-logo_2.jpg&quot; title=&quot;AXIOM Beta&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-310-6W-j7VywBUM&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/default_images/apertus-default-logo_2.jpg?itok=xBGA32s-&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;breadcrumbsubnav&quot;&gt;
+  &lt;a class=&quot;chevron-a&quot; href=&quot;/views/beta-news&quot;&gt;
+    &lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt; 
+  &lt;/a&gt;
+  &lt;a class=&quot;chevron-a&quot; href=&quot;/axiom-beta-tech-specs&quot;&gt;
+    &lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt; 
+  &lt;/a&gt;
+  &lt;a href=&quot;/views/beta-news&quot; class=&quot;breadsubnav-item&quot; style=&quot;max-width:15%&quot;&gt;
+    Latest News
+  &lt;/a&gt;
+
+  &lt;a href=&quot;/axiom-beta&quot; class=&quot;selected breadsubnav-item&quot; style=&quot;max-width:15%&quot;&gt;
+    Overview
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-beta-tech-specs&quot; class=&quot;breadsubnav-item&quot; style=&quot;max-width:15%&quot;&gt;
+    Tech Specs
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-beta-imagesensors&quot; class=&quot;breadsubnav-item&quot; style=&quot;max-width:15%&quot;&gt;
+    Image Sensors
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-beta-modularity&quot; class=&quot;breadsubnav-item&quot; style=&quot;max-width:15%&quot;&gt;
+    Modularity
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-beta-status&quot; class=&quot;breadsubnav-item&quot; style=&quot;max-width:15%&quot;&gt;
+    Development Status
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;br /&gt;&lt;!--
+&lt;br /&gt;&lt;a href=&quot;/sites/default/files/axiom-beta-concept-enlosure-01.png&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/axiom-beta-concept-enlosure-01.png&quot; alt=&quot;AXIOM Beta&quot;&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;a href=&quot;/sites/default/files/images/axiom-beta-concept-enlosure-02.png&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/images/axiom-beta-concept-enlosure-02.png&quot; alt=&quot;AXIOM Beta&quot;&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;a href=&quot;/sites/default/files/axiom-beta-concept-enlosure-03.png&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/axiom-beta-concept-enlosure-03.png&quot; alt=&quot;AXIOM Beta&quot;&gt;&lt;/a&gt;--&gt;
+
+&lt;br /&gt;
+
+&lt;p class=&quot;twocoloumns justify&quot;&gt;
+&lt;strong&gt;Note:&lt;/strong&gt; This page is currently being rebuilt (06.12.17).
+
+AXIOM Beta is a brand new professional digital image capturing platform and the crowd funding backers get access to it before anybody else does. So we want to make sure that you are aware of what you are getting yourself into. We&#039;re inviting you to be part of this journey as a contributor (you do not need to be a programmer to use the AXIOM Beta), helping to shape the final product.
+&lt;/p&gt;&lt;br /&gt;
+&lt;hr /&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+&lt;div class=&quot;span6&quot; style=&quot;text-align:center&quot;&gt;&lt;a href=&quot;http://magiclantern.fm/&quot; target=&quot;_blank&quot;&gt;&lt;img width=&quot;200px&quot; title=&quot;Magic Lantern Logo&quot; alt=&quot;Magic Lantern Logo&quot; src=&quot;/sites/default/files/Magic_Lantern_logo.png&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;span6 justify&quot; style=&quot;line-height:180%&quot;&gt;The AXIOM Beta is being built together with experts from the Magic Lantern team. The people that brought you the best features on Canon DSLRs that Canon never wanted you to have - only this time the creators of the camera want you to have all of those features - because we and Magic Lantern are the makers :)&lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;!--
+&lt;hr /&gt;
+&lt;h2&gt;3-Phase Payment System&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;The at-cost price of the AXIOM Beta with 4K Super35 image sensor is currently estimated to be around € 2,100. To create a transparent payment plan that only involves money transfers when the funding is actually needed for certain manufacturing steps we came up with a 3 Phase Payment System. Once all 3 phases are covered your AXIOM Beta unit is fully paid and should be on its way to you. Please note that these prices do not include VAT, shipping or any custom/import fees for your particular country.&lt;/p&gt;
+&lt;br /&gt;
+&lt;table class=&quot;table table-striped table-bordered table-condensed&quot;&gt;
+  &lt;tr style=&quot;font-weight: bold;&quot;&gt;
+    &lt;td&gt;Phase 1 Payment&lt;/td&gt;
+    &lt;td&gt;Phase 2 Payment&lt;/td&gt;		
+    &lt;td&gt;Phase 3 Payment&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Prepayment so we can buy essential components (image sensor, Microzed, etc.) at 500+ quantity&lt;/td&gt;
+    &lt;td&gt;Funds to build your AXIOM Beta Hardware(reach 80% of camera value)&lt;/td&gt;		
+    &lt;td&gt;Balance payment to reach 100% at-cost - (~20% rest payment)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;now&lt;/td&gt;
+    &lt;td&gt;when camera is ordered&lt;/td&gt;		
+    &lt;td&gt;when camera ships&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;€ 1000 (excl. VAT)&lt;/td&gt;
+    &lt;td&gt;~ € 700 (excl. VAT)&lt;/td&gt;		
+    &lt;td&gt;~ € 400 (excl. VAT)&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;--&gt;
+
+&lt;h2&gt;Availability&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;We are currently shipping developer and early adopter kits. Later this year a more mature version (with proper enclosure, camera control, etc.) will be available to crowdfunding supporters and voucher holders. Normal retail sales will start once all voucher holders and crowdfunding supporters have received their AXIOM Betas. The wiki features a &lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Prices&quot;&gt;work in progress cost/price estimate&lt;/a&gt;.&lt;/p&gt;
+&lt;br /&gt;
+&lt;div style=&quot;text-align:right&quot;&gt;Get notified when the AXIOM Beta or developer kits become available: &lt;a href=&quot;https://docs.google.com/forms/d/1qAt0AyiwR6SYDu3NqnfOYQbSPmWPP-el7RJ2VHp8emA/viewform&quot; class=&quot;btn btn-warning btn-large&quot;&gt;Register for Pre-order&lt;/a&gt;&lt;/div&gt;
+
+&lt;br /&gt;
+&lt;h2&gt;Source Material&lt;/h2&gt;
+&lt;a href=&quot;https://github.com/apertus-open-source-cinema/beta-software/&quot; class=&quot;btn btn-info btn-large&quot;&gt;Software Source Code Github&lt;/a&gt; &lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Manual#Hardware&quot; class=&quot;btn btn-info btn-large&quot;&gt;Electronics Schematics/Board Layouts/BOM Wiki&lt;/a&gt; &lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/apertus-open-source-cinema/beta-hardware&quot; class=&quot;btn btn-info btn-large&quot;&gt;Mechanical Components Github&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;article class=&quot;node-481 node node-page en clearfix&quot; about=&quot;/node/481&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Further Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Newsletter&quot; target=&quot;blank&quot;&gt;Newsletter editions&lt;/a&gt; - Previous, HTML newsletters archived. &lt;a href=&quot;http://newsletter.apertus.org/lists/?p=subscribe&amp;amp;id=1&quot; target=&quot;blank&quot;&gt;Subscribe here&lt;/a&gt; to receive yours via email.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Prices&quot; target=&quot;blank&quot;&gt;Shop links, prices and availability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Camera_Structure&quot; target=&quot;blank&quot;&gt;Camera structure&lt;/a&gt; - A complete guide to the camera&#039;s specifications and components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Video&quot; target=&quot;blank&quot;&gt;AXIOM Beta sample videos&lt;/a&gt; - Uncompressed .mov .mp4 and .dng files in 720p, 1080p and 4K are archived here if you&#039;d like to play with them. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEBkXWJgDUvEysgwMsNOzTuwJB0vSRnamxlx6PK4vM671L1g/viewform&quot; target=&quot;blank&quot;&gt;Pre-order notification&lt;/a&gt; - Receive an email when a more user-friendly version of the camera is ready to ship. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema&quot; target=&quot;blank&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Join_the_Team&quot; target=&quot;blank&quot;&gt;Join the Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Social&quot; target=&quot;blank&quot;&gt;Social accounts&lt;/a&gt; - Links to YouTube etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Project_Background&quot; target=&quot;blank&quot;&gt;AXIOM Project Background&lt;/a&gt; - How apertus° and the AXIOM project got started. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h2&gt;Want to participate?&lt;/h2&gt;
+&lt;p&gt;Want to provide feedback or suggest improvements? Want to try your own approach and need help?&lt;/p&gt;
+
+&lt;p&gt;Get in touch via &lt;a class=&quot;btn&quot; href=&quot;/irc-chat&quot; target=&quot;blank&quot;&gt;IRC&lt;/a&gt; or &lt;a class=&quot;btn&quot; href=&quot;/contact&quot; target=&quot;blank&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-wiki-link field-type-link-field field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Wiki link:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php?title=AXIOM_Beta&quot; target=&quot;_blank&quot;&gt;https://wiki.apertus.org/index.php?title=AXIOM_Beta&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot;&gt;In Development&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 28 Apr 2014 20:10:54 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">310 at </guid>
+  </item>
+  <item>
+    <title>AXIOM Camera (Español)</title>
+    <link>/node/278</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/project/axiom-website-banner-2013-V4.jpg&quot; title=&quot;AXIOM Camera (Español)&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-278-6W-j7VywBUM&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/project/axiom-website-banner-2013-V4.jpg?itok=WjVEEFul&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;row-fluid&quot;&gt;
+  &lt;div class=&quot;span6&quot;&gt;
+    &lt;h2&gt;Qué es apertus°&lt;/h2&gt;
+      &lt;p align=&quot;justify&quot;&gt;
+      apertus ° Axiom será la primera cámara de cine digital abierta diseñada desde cero con el concepto de apertura en mente. El sensor de imagen elegido es el &lt;a href=&quot;/axiom_imagesensor&quot;&gt;CMV12000 from Cmosis&lt;/a&gt;. Para construirlo, en última instancia, estamos trabajando para crear un prototipo simplificado, &lt;a href=&quot;/alpha_prototype&quot;&gt;el Axiom Alpha&lt;/a&gt;. Debido a que aun estamos puliendo los detalles técnicos de la Axiom, todavía no queremos revelar lo que no esté completamente definido.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;span6 &quot;&gt;
+      &lt;h2&gt;Crowd Funding&lt;/h2&gt;
+      &lt;p align=&quot;justify&quot;&gt;Para financiar el desarrollo de Axiom lanzaremos una campaña de crowdfunding (micromecenazgo o financiación en masa) con una pre-venta. Mientras tanto usted puede &lt;a href=&quot;http://axiom.apertus.org/index.php?site=donate&quot;&gt;donar&lt;/a&gt; para ayudar a cubrir los costos de la creación del prototipo funcional: la cámara &lt;b&gt;the&lt;/b&gt; functional prototype: &lt;a href=&quot;/alpha_prototype&quot;&gt;Axiom Alfa&lt;/a&gt;. El plan de Axiom completo con todas las especificaciones y detalles se publicará antes del inicio de la campaña de crowdfunding.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;img src=&quot;/sites/default/files/axiom-website-banner-2013-V4_0.jpg&quot; alt=&quot;apertus° Axiom&quot; title=&quot;apertus° Axiom&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+  &lt;div class=&quot;span6&quot;&gt;
+    &lt;h2&gt;El Prototipo Axiom Alpha&lt;/h2&gt;
+      &lt;p align=&quot;justify&quot;&gt;&lt;b&gt;apertus° Axiom Alpha&lt;/b&gt; es el nombre del prototipo apertus° Axiom, que constituye algo más que la prueba de un concepto. Está planeado de manera que satisfaga de una vez por todas con las exigencias de algunas aplicaciones del mundo real, como las que se emplean en la producción de cine, hasta cierto punto. No obstante, estamos convencidos de que aunque este prototipo no será la respuesta a todas nuestras oraciones ni el logro de todos nuestros sueños, él será, sin embargo, el primer paso en la jornada hacia ese lugar a donde queremos llegar un día. El lema principal de Axiom Alfa es &quot;hay que mantener la sencillez.&quot; Por lo tanto, las funciones se reducen a lo absolutamente esencial. No hay lujos. Así, por ejemplo, hemos elegido la montura del objetivo más sencilla y más fácil de implementar desde el punto de vista técnico, pero permitiendo el control manual de apertura: La montura Nikon F. La totalidad de la cámara Axiom tendrá un sistema de montura de lentes intercambiable que cubre casi cualquiera de los lentes actualmente utilizados en la producción de películas.&lt;/p&gt;
+      &lt;p&gt;&lt;a class=&quot;btn btn-large btn-info&quot; href=&quot;http://axiom.apertus.org/index.php?site=alpha&quot;&gt;Más información en el Minisitio de Axiom »&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;span6&quot;&gt;
+    &lt;img src=&quot;/sites/default/files/alpha-image-prcessing-pipeline-v05.png&quot; width=&quot;360&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;h2&gt;Comparison Chart: Full Featured Axiom vs Alpha Prototype &lt;/h2&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+	&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Axiom&lt;/th&gt;&lt;th&gt;Axiom Alpha Prototype&lt;/th&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Desarrollo&lt;/b&gt;&lt;/td&gt;&lt;td&gt; Tras crowdfunding exitoso&lt;/td&gt;&lt;td&gt;En desarrollo&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Objetivo&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Camara con todas las opciones&lt;/td&gt;&lt;td&gt;Prueba ampliada del concepto prototipo&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Sensor de Imagen&lt;/b&gt;&lt;/td&gt;&lt;td&gt;CMV12000&lt;/td&gt;&lt;td&gt;CMV12000&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Resolución del Video &lt;/b&gt;&lt;/td&gt;&lt;td&gt;4K&lt;/td&gt;&lt;td&gt;1920x1080 (reducida de 4K)&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Output&lt;/b&gt;&lt;/td&gt;&lt;td&gt; Por definir &lt;/td&gt;&lt;td&gt;HDMI&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt; Format de Video Compatible&lt;/b&gt;&lt;/td&gt;&lt;td&gt;RAW sin compresión&lt;/td&gt;&lt;td&gt;RGB&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Montura para Lentes&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Sistema de Montura Intercambiable&lt;/td&gt;&lt;td&gt;Montura Nikon F&lt;/td&gt;&lt;/tr&gt;
+	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Frecuencia de Imagen&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Hasta 150 (4K)&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot;&gt;In Development&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 02 Feb 2014 13:39:23 +0000</pubDate>
+ <dc:creator>Sasha</dc:creator>
+ <guid isPermaLink="false">278 at </guid>
+  </item>
+  <item>
+    <title>Blender based Workflow</title>
+    <link>/node/161</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Details&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://wiki.elphel.com/index.php?title=Apertus.BlenderWorkflow&quot;&gt;http://wiki.elphel.com/index.php?title=Apertus.BlenderWorkflow&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;How To Videos&lt;/h2&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/50247217&quot; width=&quot;870&quot; height=&quot;490&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&quot;http://vimeo.com/50247217&quot;&gt;tl-etalonaje-paseo&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/telenoika&quot;&gt;Telenoika&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src=&quot;http://player.vimeo.com/video/50247207&quot; width=&quot;870&quot; height=&quot;490&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&quot;http://vimeo.com/50247207&quot;&gt;tuto-edit-compositor&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/telenoika&quot;&gt;Telenoika&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;learn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-status field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;In Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 17 Feb 2013 21:11:13 +0000</pubDate>
+ <dc:creator>CarlosPadial</dc:creator>
+ <guid isPermaLink="false">161 at </guid>
+  </item>
+  <item>
+    <title>Elmyra</title>
+    <link>/elmyra</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden default-file&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/default_images/apertus-default-logo_2.jpg&quot; title=&quot;Elmyra&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-426-6W-j7VywBUM&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/default_images/apertus-default-logo_2.jpg?itok=xBGA32s-&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;As part of the EU-funded AXIOM Gamma project, our heavily blender-based R&amp;amp;D effort codenamed &quot;Project Elmyra&quot; aims to demonstrate that visualization processes can be made more efficient, reusable and sustainable - without having to resort to heavy specialization or rocket science, but through reflection on the way we spend our everyday workhours, and an interdisciplinary design methodology to turn things around!
+
+A web-based &quot;rapid iterative&quot; visualization system, sporting a fully automated pipeline with turntable animations, cross-section renderings, versioned and self-improving render output, different aesthetics, multiple export formats and more to come!&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-github-link field-type-link-field field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Github link:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema/elmyra&quot; target=&quot;_blank&quot;&gt;https://github.com/apertus-open-source-cinema/elmyra&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot;&gt;In Development&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 09 Jan 2016 10:43:39 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">426 at </guid>
+  </item>
+  <item>
+    <title>La caméra Axiom</title>
+    <link>/node/162</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;row-fluid&quot;&gt;
+  &lt;div class=&quot;span6&quot;&gt;
+    &lt;h2&gt;À Propos&lt;/h2&gt;
+      &lt;p align=&quot;justify&quot;&gt;
+      Apertus Axiom sera la première caméra numérique de cinéma développée entièrement, dans l&#039;esprit du logiciel libre. Le capteur cinématographique choisi sera le &lt;a href=&quot;http://axiom.apertus.org/index.php?site=imagesensor&quot;&gt;CMV12000 de Cmosis&lt;/a&gt;. Avant de construire le modèle final, nous travaillons actuellement sur un prototype simplifié: l&#039;&lt;a href=&quot;http://axiom.apertus.org/index.php?site=alpha&quot;&gt;Axiom Alpha&lt;/a&gt;. Parce que les détails techniques d&#039;Axiom ne sont pas encore finalisés, nous avons fait le choix de ne pas divulguer toute information qui n&#039;est pas encore certaine.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;span6 &quot;&gt;
+      &lt;h2&gt;Levée de fond&lt;/h2&gt;
+      &lt;p align=&quot;justify&quot;&gt;Pour couvrir le développement de Axiom, nous allons lancer une campagne de levée de fonds avec prévente. En attendant, vous pouvez &lt;a href=&quot;http://axiom.apertus.org/index.php?site=donate&quot;&gt;faire un don&lt;/a&gt; pour nous aider à couvrir les coûts de la création d&#039;un &lt;b&gt;prototype&lt;/b&gt; fonctionnel: &lt;a href=&quot;http://axiom.apertus.org/index.php?site=alpha&quot;&gt;l&#039;Axiom Alpha&lt;/a&gt;. Le plan complet d&#039;Axiom avec toutes les spécifications et les détails seront publiés avant que la levée de fond ne commence.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+  &lt;div class=&quot;span6&quot;&gt;
+    &lt;h2&gt;l&#039;Axiom Alpha&lt;/h2&gt;
+      &lt;p align=&quot;justify&quot;&gt;L&#039;Alpha Axiom est le nom du prototype apertus°. Alpha n&#039;aura pas toutes les fonctionnalités d&#039;Axiom (pas  d&#039;options de haute vitesse d’enregistrement et pas d&#039;enregistrement RAW brut) mais c&#039;est la première étape pour se lancer dans ce voyage qui doit nous mener où nous voulons arriver un jour.&lt;/p&gt;
+
+      &lt;p align=&quot;justify&quot;&gt; Alpha est censé être plus qu&#039;un simple objet conceptuel. Il est conçu pour satisfaire déjà aux exigences d&#039;applications réelles comme pour être utilisé pour la production cinématographique. La devise principale d&#039;Alpha est: &quot;restons simple!&quot;. Les fonctionnalités sont réduites à l’essentiel. Pas de luxe. Ainsi, par exemple, nous avons choisi la monture d&#039;objectif qui est la plus simple et la plus facile à mettre en œuvre d&#039;un point de vue technique: La monture Nikon F. La caméra Axiom finalisée disposera d&#039;un système de montage d&#039;objectifs interchangeables qui couvrira à peu près tous les objectifs actuellement utilisés pour la production cinématographique. &lt;/p&gt;
+
+      &lt;p&gt;&lt;a class=&quot;btn&quot; href=&quot;http://axiom.apertus.org/index.php?site=alpha&quot;&gt;En savoir plus&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;span6&quot;&gt;
+    &lt;img src=&quot;http://axiom.apertus.org/img/Alpha_Image_Processing_Pipeline_V03.jpg&quot; width=&quot;430&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-status field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;In Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 18 Feb 2013 13:14:38 +0000</pubDate>
+ <dc:creator>philippe</dc:creator>
+ <guid isPermaLink="false">162 at </guid>
+  </item>
+  <item>
+    <title>La caméra Elphel </title>
+    <link>/node/224</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/page/Elphel-Camera-353.jpg&quot; title=&quot;La caméra Elphel &quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-224-6W-j7VywBUM&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/page/Elphel-Camera-353.jpg?itok=s6bevFZI&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;article class=&quot;node-186 node node-page en clearfix&quot; about=&quot;/node/186&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;alert alert-info&quot;&gt;Notice: This page is about the &lt;a href=&quot;http://www3.elphel.com/nc353&quot; target=&quot;_blank&quot;&gt;Elphel®  Model 353 camera&lt;/a&gt; NOT about &lt;a href=&quot;/axiom&quot;&gt;apertus° Axiom&lt;/a&gt;! Elphel® is a registered trademark of &lt;a href=&quot;http://www3.elphel.com/&quot; target=&quot;_blank&quot;&gt;Elphel, Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+
+
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;http://www.youtube.com/embed/mvI7rJ_AZys&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/AMAX.jpg&quot; alt=&quot;AMAX&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La caméra  Elphel modèle 353 modèle conçue avec des logiciels et des composants libres est un appareil très intéressant et puissant pour la réalisation de films. Vous pouvez trouver plus d&#039;informations à ce sujet sur le site d&#039; &lt;a target=&quot;_blank&quot; href=&quot;http://www3.elphel.com/&quot;&gt; Elphel Inc.&lt;/a&gt;. Veuillez noter que apertus° ne vend pas de caméras Elphel. Si vous voulez en acheter une, entrez en contact avec Elphel Inc. directement - ils expédient dans le monde entier.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Spécificités techniques:&lt;/h2&gt;
+
+&lt;h3&gt;Capteur:&lt;/h3&gt;
+
+&lt;p&gt;La caméra utilise un capteur CMOS Aptina &lt;a target=&quot;_blank&quot; title=&quot;http://en.wikipedia.org/wiki/Bayer filter&quot; href=&quot;http://en.wikipedia.org/wiki/Bayer_filter&quot;&gt;bayérisé&lt;/a&gt; avec un format optique de 1/2.5&quot; (5.70mm x 4.28mm) et une résolution native de 2592x1944 (5 Megapixels). Elle dispose de 12 bits ADC et supporte: région d&#039;intérêt, binning sur puce et sous-échantillonage. Aptina affirme que la puce a 70dB de dynamique en pleine résolution et 76dB en utilisant un binning 2x2.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;/sites/default/files/FullHD-Portrait-Mode.gif&quot; alt=&quot;Elphel FullHD portrait mode&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Monture des optiques&lt;/h3&gt;
+
+&lt;p&gt;La caméra a une monture C standard, mais est livré avec une bague d&#039;adaptation qui permet ainsi de monter des optiques CS.&lt;/p&gt;
+
+&lt;h3&gt;Images secondes variables&lt;/h3&gt;
+
+&lt;p&gt;Le taux d&#039;images/secones à laquelle la vidéo est enregistrée peut être simplement la valeur que vous pouvez imaginer. D&#039;un time-lapse super lent avec juste une image par jour / semaine / mois jusqu&#039;à la valeur maximale que le capteur peut fournir à une certaine résolution (voir tableau ci-dessous). Le taux de trame n&#039;est pas non plus limitée à des valeurs entières, vous pouvez enregistrer 29,97 i/s ainsi que 5,79 i/s ou toute autre valeur. La caméra prend même des changements dynamiques de taux dans le même conteneur vidéo. Cela permet des créer des rampes i/s ou n&#039;importe quelle courbe i/s avec son (nous avons encore besoin de les intégrer dans ElphelVision), la caméra enregistre tout image après image dans le conteneur vidéo, peu importe combien de temps s&#039;écoule entre les expositions.&lt;/p&gt;
+
+&lt;h3&gt;Taux de données variables : &lt;/h3&gt;
+
+&lt;p&gt;De la même façon vous avez le libre choix de FPS ou de la résolution que vous pouvez librement choisir le taux de compression et le débit de données qui en résulte. Le compresseur utilise un ratio entre 0 - 100, où 0 correspond à une très forte compression, moins la qualité d&#039;image et datarate et 100 résultats dans pratiquement non compressé, la vidéo haute datarate avec une qualité d&#039;image possible. Le débit de données réel augmente de façon exponentielle vers 100. Ce ratio qualité / compression peut également être modifiée dynamiquement pendant l&#039;enregistrement et le débit de données finale dépend aussi du contenu de l&#039;image réelle. Le débit de données maximal possible avec Elphel 353 est actuellement ~ 144Mbit / s lors de l&#039;enregistrement de la caméra connectée dur SATA et 100Mbit / s lorsque le streaming vidéo via Ethernet. La caméra interne &lt;a href=&quot;http://en.wikipedia.org/wiki/Circular_buffer&quot; target=&quot;_blank&quot;&gt; tampon circulaire (court circbuffer)  a&amp;gt; détient toutes les images de la vidéo après avoir traversé l&#039;image interne compresseur. L&#039;enregistreur de disque ou un logiciel de streamer vidéo prend alors ces cadres et les écrire dans les médias désignés comme HDD / SSD / CF Card ou sur le réseau. Si le débit de données est trop élevée, les cadres ne peuvent pas être écrites sur le support le plus rapidement de nouveaux cadres sont écrites dans le circbuffer. Le circbuffer débordement de volonté et l&#039;enregistrement vont baisser cadres. C&#039;est le jeu délicat: d&#039;une part, vous voulez pousser la qualité au maximum pour obtenir la meilleure qualité d&#039;image possible, mais d&#039;autre part, si vous poussez trop loin, vous finissez par abandonner des images et se retrouve avec un clip vidéo cassé.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Courbes gamma personnalisées&lt;/h3&gt;
+
+&lt;p&gt;Certains grands fabricants d&#039;appareils photo prétendent qu&#039;un aspect important de leur &quot;look cinéma&quot; est le résultat de leur courbe de gamma spécialement développée par eux,  avec des noms commençant généralement par &quot;hype&quot; rou &quot;ciné&quot;. La vérité est que vous aurez des difficultés à trouver la forme réelle de cette courbe de gamma &quot;spéciale&quot;.&lt;/p&gt;
+
+&lt;p&gt;les caméras Elphel  peuvent utiliser n&#039;importe quelle courbe gamma personnalisée (générée à partir des valeurs gamma ou de toute forme personnalisée comme des formes en S, etc.)&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+&lt;a href=&quot;/sites/default/files/Apertus-Effective-Sensor-Sizes_e353.png&quot;&gt;&lt;img src=&quot;/sites/default/files/Apertus-Effective-Sensor-Sizes_e353.png&quot; alt=&quot;Apertus Image Sensors Area Resolutions&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Résolution&lt;/h3&gt;
+
+&lt;p&gt;La résolution d&#039;enregistrement peut être ajustée librement pour tout départ de 16x16 à 2592x1944 en 16 étapes/pixels. Cela inclut AMAX (2224x1251), CIMAX (2592x1120), 2K (2048x1536), Full HD (1920x1080), HD (1280x720) et bien sûr tous les formats SD de résolution inférieure comme DV PAL, DV NTSC, etc &lt;/p&gt;
+
+&lt;p&gt;Plus la résolution est moindre, plus le taux d&#039;image maximal est possible. À la taille du capteur plein (5 millions de pixels ou 5 mégapixels) le taux de trame maximal est de 10 images par secondes en mode couleur normale et de 15 images/secondes en mode RAW JP4. Le JP4 atteint des taux d&#039;images plus élevés en général quand quelques calculs internes de l&#039;appareil sont ignorés et sont appliquées plus tard dans la post-production (comme le debayering/dématriçage).&lt;/p&gt;
+
+&lt;table class=&quot;table table-striped&quot;&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Standard &lt;/th&gt;&lt;th&gt; Résolution &lt;/th&gt;&lt;th&gt; Mode d&#039;enregistrement &lt;/th&gt;&lt;th&gt; i/s max &lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AMAX 16:9&lt;/td&gt;
+&lt;td&gt;2224x1264&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CIMAX 2.35:1&lt;/td&gt;
+&lt;td&gt;2592x1120&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;24.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Full HD (1080p)&lt;/td&gt;
+&lt;td&gt;1920x1088&lt;/td&gt;
+&lt;td&gt;RGB&lt;/td&gt;
+&lt;td&gt;25.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Full HD (1080p)&lt;/td&gt;
+&lt;td&gt;1920x1088&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;30.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2K&lt;/td&gt;
+&lt;td&gt;2048x1088&lt;/td&gt;
+&lt;td&gt;RGB&lt;/td&gt;
+&lt;td&gt;23.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2K&lt;/td&gt;
+&lt;td&gt;2048x1088&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;29.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HD (720p)&lt;/td&gt;
+&lt;td&gt;1280x720&lt;/td&gt;
+&lt;td&gt;RGB&lt;/td&gt;
+&lt;td&gt;57.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HD (720p)&lt;/td&gt;
+&lt;td&gt;1280x720&lt;/td&gt;
+&lt;td&gt;JP4 RAW&lt;/td&gt;
+&lt;td&gt;60&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NTSC DV&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;640x480&lt;/td&gt;
+&lt;td&gt;RGB / JP4 RAW&lt;/td&gt;
+&lt;td&gt;126&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NTSC 16:9&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;854x480&lt;/td&gt;
+&lt;td&gt;RGB / JP4 RAW&lt;/td&gt;
+&lt;td&gt;110&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PAL DV&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;720x576&lt;/td&gt;
+&lt;td&gt;RGB / JP4 RAW&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PAL DV 16:9&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;1024x576&lt;/td&gt;
+&lt;td&gt;RGB / JP4 RAW&lt;/td&gt;
+&lt;td&gt;84&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;Enregistrement Raw&lt;/h3&gt;
+
+&lt;p&gt;Le mode d&#039;enregistrement RAW dans l&#039;appareil Elphel est appelé JP4 RAW. Parce que certaines étapes de compression internes peuvent être ignorées, le JP4 RAW permet une vitesse d&#039;enregistrement plus élev, avec comme résultat en plus d&#039;images secondes (i/s). le JP4 RAW nécessite un post-traitement (le logiciel DNG Converter) mais en retour, il offre la meilleure qualité d&#039;image possible.&lt;/p&gt;
+
+&lt;h3&gt;Codec gratuit, léger, et de haute qualité :&lt;/h3&gt;
+
+&lt;p&gt;Le principal algorithme de compression utilisé est basé sur MJPEG (Motion JPEG). Cela signifie qu&#039;il n&#039;y a AUCUNE inter-compression résultant de lavage lent et exigences accrues en matière de performance sur les ordinateurs de la lecture d&#039;un fichier vidéo. Avec les appareils photo réflex numériques modernes (très populaire pour le tournage vidéo récemment) rédacteurs suggèrent de convertir les images en ProRes ou MJPEG avant l&#039;édition départ. La caméra Elphel utilise ce codec tout de suite.&lt;/p&gt;
+
+&lt;p&gt;Red utilise une approche similaire avec leur Redcode codec Raw en utilisant le JPEG2000 (également appelée ondelette) en compression.&lt;/p&gt;
+
+&lt;p&gt;MJPEG n&#039;est pas lié à des droits de licence et des redevances de brevets, contrairement à l&#039;H264 (-&amp;gt; &lt;a target=&quot;_blank&quot; href=&quot;# http://en.wikipedia.org/wiki/H.264/MPEG-4_AVC Patent_licensing&quot;&gt; Wikipedia &lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;les codecs H264 de base comme l&#039;AVCHD ou tout autre codec de compression internes exigent beaucoup plus de puissance de calcul pour le décodage ou de matériel de décodage dédié pour une lecture fluide. les vidéos MJPEG sont légeres et nécessitent très peu de ressources informatiques pour le décodage. Cela nous permet d&#039;utiliser les netbooks ou tablettes-PC comme viseur avec apertus °.&lt;/p&gt;
+
+&lt;h3&gt;Connecteurs&lt;/h3&gt;
+
+&lt;p&gt;SATA: peut être utilisé pour connecter un périphérique SATA externe qui est supporté sous Linux (disques durs externes, raids, etc)&lt;/p&gt;
+&lt;p&gt;Ethernet: 100MBit avec POE (48V)&lt;/p&gt;
+&lt;p&gt;USB: USB 1.1 avec alimentation 5V&lt;/p&gt;
+&lt;p&gt;IDE: Utilisée pour connecter un HDD interne&lt;/p&gt;
+&lt;p&gt;RS232: accès à la console et à la sortie pour débogage&lt;/p&gt;
+
+&lt;h3&gt;Support d&#039;enregistrement &lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IDE 1.8&quot; HDD interne optionnel&lt;/li&gt;
+&lt;li&gt;2 logements internes de carte CF&lt;/li&gt;
+&lt;li&gt;connecteur externe SATA pour connecter n&#039;importe quel appareil SATA (Support Linux requis)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/43&quot;&gt;Research&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot;&gt;In Development&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 26 Apr 2013 07:39:04 +0000</pubDate>
+ <dc:creator>Alban</dc:creator>
+ <guid isPermaLink="false">224 at </guid>
+  </item>
+  <item>
+    <title>Open Cine</title>
+    <link>/en/opencine</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/project/JP4ToolsGUI_05.jpg&quot; title=&quot;Open Cine&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-98-6W-j7VywBUM&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/project/JP4ToolsGUI_05.jpg?itok=V6Zs-_NU&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;alert alert-error&quot;&gt;This software is under active development - it is not yet ready for end users. We are looking for software developers! Help us to push it further.&lt;/div&gt;
+&lt;hr /&gt;
+&lt;h2&gt;About&lt;/h2&gt;
+&lt;br /&gt;
+There are several free and open raw-image processing tools for still images like: &lt;a href=&quot;http://ufraw.sourceforge.net/&quot;&gt;ufraw&lt;/a&gt;, &lt;a href=&quot;http://www.darktable.org/&quot;&gt;darktable&lt;/a&gt;, &lt;a href=&quot;http://rawtherapee.com/&quot;&gt;RawTherapee&lt;/a&gt;, &lt;a href=&quot;http://www.digikam.org/&quot;&gt;digiKam&lt;/a&gt; and many more. While some of them offer batch processing capabilities none of these tools were designed for moving pictures. Processing DNG sequences is cumbersome and time consuming, CinemaDNG MXF files are not yet supported at all.&lt;br /&gt;
+&lt;br /&gt;
+This is where Open Cine should come in. It will be a raw processing tool designed from the ground up for moving images instead of still images.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/project/JP4ToolsGUI_05.jpg&quot; rel=&quot;0&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/project/JP4ToolsGUI_05.jpg&quot; width=&quot;100%&quot; alt=&quot;Grading Video Conversion GUI Concept&quot; title=&quot;Grading Video Conversion GUI Concept&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;div style=&quot;text-align:center&quot; class=&quot;caption&quot;&gt;Early Open Cine GUI Concept Mockup&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Feature Overview&lt;/h2&gt;&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;Import Footage from Camera over network (FTP Transfer to backup location)&lt;/li&gt;
+&lt;li&gt;Import Footage from local drive&lt;/li&gt;
+&lt;li&gt;Preview Footage in real-time (GPU based raw debayering at full/reduced resolution [Reduced resolution equates to better playback performance])&lt;/li&gt;
+&lt;li&gt;View(all) / Edit(some) Metadata&lt;/li&gt;
+&lt;li&gt;Set IN/OUT points in footage&lt;/li&gt;
+&lt;li&gt;Apply color relevant RAW transformations (Whitebalance, Exposure, Curves, etc.)&lt;/li&gt;
+&lt;li&gt;Save/Load color transformation presets to/from File.&lt;/li&gt;
+&lt;li&gt;Adjustments are preserved in a XMP file that stays with the original unaltered footage.&lt;/li&gt;
+&lt;li&gt;Compare Color transformations (Presets A,B,C; split screen, etc.)&lt;/li&gt;
+&lt;li&gt;Live Histogram/Vectorscope&lt;/li&gt;
+&lt;li&gt;Batch Export RAW footage between IN/OUT to non destructive RAW conforming format&lt;br /&gt;(DNG, DPX, etc.)&lt;/li&gt;
+&lt;li&gt;Batch Export RAW footage between IN/OUT to destructive digital intermediate format&lt;br /&gt;
+(Quicktime Prores444, AVI DNxHD, Image Sequence, etc.)&lt;/li&gt;
+&lt;li&gt;Batch Export RAW footage between IN/OUT to destructive proxy format&lt;br /&gt;
+(Quicktime Prores422 (proxy), Quicktime/AVI MJPEG, etc.)&lt;/li&gt;
+&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Typical Usages&lt;/h2&gt;&lt;br /&gt;
+&lt;b&gt;Reviewing and Sorting Footage&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;Import DNG sequence that was shot with a raw camera (Apertus or other) into Open Cine&lt;/li&gt;
+&lt;li&gt;View footage in real-time&lt;/li&gt;
+&lt;li&gt;mark unneeded clips, rate good clips, write comments for each clip&lt;/li&gt;
+&lt;li&gt;later a filter can be used to hide all the bad/unneeded clips. Director could now review only the good ones and continue working with them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;b&gt;Prepare Footage for Editing&lt;/b&gt;&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;Import DNG sequence that was shot with a raw camera (Apertus or other) into Open Cine&lt;/li&gt;
+&lt;li&gt;Sort through footage and select best clips (rating, marking), shorten to relevant parts in the clips by setting IN/OUT points&lt;/li&gt;
+&lt;li&gt;Apply color grading nodes to the raw footage (White-balance, Exposure correction, Tonal Curves, etc.)&lt;/li&gt;
+&lt;li&gt;Export Intermediate Clips in FullHD as Avid DNxHD or Apple ProRes for editing in another software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;b&gt;Prepare Footage for Finishing&lt;/b&gt;&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;An EDL/XML file of a complete edit contains the list of clips we need for finishing, import EDL/XML and link the clips to the raw footage (big win if we find a way to do this automatically)&lt;/li&gt;
+&lt;li&gt;Apply color grading nodes to the raw footage (White-balance, Exposure correction, Tonal Curves, etc.)&lt;/li&gt;
+&lt;li&gt;export required clips as *.DPX or *.EXR image sequence (with full bitdepth) for finishing suite&lt;/li&gt;
+&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Developers&lt;/h2&gt;
+&lt;br /&gt;
+&lt;h3&gt;Build Instructions&lt;/h3&gt;
+&lt;iframe width=&quot;1170&quot; height=&quot;658&quot; src=&quot;https://www.youtube.com/embed/Rpq_ItPHFx8&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://wiki.apertus.org/index.php/OpenCine.Build_Instructions&quot;&gt;OpenCine Build Instructions&lt;/a&gt; - This details what system requirements, languages and methods are necessary to become involved in the program&#039;s development. &lt;br /&gt;
+&lt;br /&gt;
+&lt;h3&gt;Further Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema/opencine&quot;&gt;Source Code on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://lab.apertus.org/tag/open_cine/&quot;&gt;apertus° Labs Workboard&lt;/a&gt; - All outstanding tasks and discussions can be found listed here.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/OpenCine&quot;&gt;Opencine on Wiki&lt;/a&gt; - All outstanding tasks and discussions can be found listed here.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot;&gt;In Development&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Sep 2012 13:05:22 +0000</pubDate>
+ <dc:creator>philippe</dc:creator>
+ <guid isPermaLink="false">98 at </guid>
+  </item>
+  <item>
+    <title>Project Elmyra - An automated Blender visualization pipeline for AXIOM (and you?)</title>
+    <link>/project-elmyra-article-july-2015</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h3&gt;Answering the demand for visualization&lt;/h3&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Internally and externally the AXIOM camera projects provides ample opportunities and also a definite need for visualization. Our decentralized teams are iterating over rapidly evolving designs for circuit boards, sockets, handles, enclosures and soon with the production of the AXIOM Beta also packaging and possibly expansion components, and all of this needs to be communicated between our team members, to our backers and the public. Having only limited resources to spend on the artistic rendition of our hardware designs we opted for an R&amp;amp;D effort to supply ourselves with an automated visualization system, currently codenamed &quot;Project Elmyra&quot;. This article outlines our goals and thoughts on this issue, and provides a short teaser to the system architecture and components we will use. (If you&#039;re in a hurry and just want the executive summary, scroll down to the second-last paragraph - &quot;The Plan&quot;)
+&lt;/p&gt;
+
+&lt;h3&gt;Reducing overhead&lt;/h3&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Graphics and visualization work is often understood as a manual process, applied on-demand and one-by-one on discreet pieces of source material by a dedicated person that is usually unconnected to the actual work being carried out. We can for instance imagine this process as some engineer producing technical hardware designs and giving them to an artist in order for her to transform them into something that communicates well with the non-technical audience, something that is understandable and beautiful. Put into practice, such a design workflow often poses a horrendous threat to productivity due to wildly undefined routines and therefore ensuing chaos and emotional stress: How/when is material given to the designer? How much source material is needed to work out a design? When should it be ready and how may the artist prioritize requests? How is feedback handled? How/when is the finished work returned to the requester? ... Addressing these issues is one core aspect of Project Elmyra.
+&lt;/p&gt;
+&lt;br /&gt;
+
+&lt;img src=&quot;/sites/default/files/bubbleslide.png&quot; /&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;Behold, the creepy chamber of design overhead horrors!&lt;/div&gt;&lt;br /&gt;
+
+&lt;h3&gt;Empower the engineer - Relieve the artist&lt;/h3&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Working out and enforcing a process in which (to stay with our previous example) engineers and artists can smoothly work together is one thing to increase productivity and happiness. However, it does not change the fact that the engineer is still in most cases completely dependent on the artist to get a rendition of the item at work that complies to the established style and quality of the project&#039;s communication. Automating away the process of requesting and receiving artwork and leaving the artist with the sole task of artistic decision and intervention is the second core issue for Project Elmyra.
+&lt;/p&gt;
+&lt;br /&gt;
+
+&lt;h3&gt;Turning artistic effort into systemically reusable value&lt;/h3&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+The third, and most fundamental aspect of Project Elmyra lies in the past and future of artistic production itself. As with all things, computer-driven automation is also not stopping before the field of visual production, having led us to a reality of physical paintbrushes being transformed into digital brushes (in other words: the digitalization of our tools), but also, more importantly, giving us the opportunity to transform more and more of our ways in which we &quot;paint&quot; into reproducible algorithms (that is: the digitalization of our artistic strategies), which is exactly what we will make use of in Project Elmyra: Turning a (previously one-shot) artistic effort into a reproducible series of steps for our system to repeat and replay on our ever-evolving designs of open hardware cinema cameras and components.
+&lt;/p&gt;
+&lt;br /&gt;
+
+&lt;h3&gt;The plan&lt;/h3&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+So ... &lt;i&gt;&quot;What is it? And what does it do?&quot;&lt;/i&gt;, you might be wondering now! Still being at an early stage of development, we do expect some things will change, a lot is currently not implemented, and some parts we don&#039;t even know about yet, but here&#039;s what we currently can say about it: Our envisioned system automatically pulls in the latest hardware designs from our repositories on github, and through a human-friendly webinterface and a machine-friendly API offers automated visualizations (for the most part: renderings) of specific parts or sets of parts in these repositories. A little more concrete: Our hardware designers can push their latest changes onto github and then, in the browser, go straight to our system to obtain a visualization of their work, in a predefined style (e.g. shaded, illustrated/blueprint, realistic), specific resolution, specific format, etc. As all visualizations, and all their variants (different style, size, format, etc.) are available under well-defined and permanent URLs, it is possible to place visualizations in (for instance) a user manual, that always reflect the current state of the hardware, because the system seamlessly updates all visualizations behind the scenes as soon as changes occur. The visualization artists meanwhile take care to improve the default set of visualizations and to perform manual (but very importantly: redo-able) changes to specific parts that are available in the repositories. For a specific part an artist might, for instance, choose and define a better camera position (from the default one), or a manual override on the rendering parameters for blueprint renderings, because the part might be overly complex or vice versa very simple. All of these changes are retained and reapplied to future revisions of a part that might get pushed by the engineers. As near-future goals we are also looking into automated animated visualizations and automatically provided interactive visualization widgets (All based on the same general architecture outlined before). Lastly, some technical details: Our current implementation is based on Python and Flask, and for rendering it relies on a fantastic piece of free and open 3D software - you might have already guessed it: Blender!
+&lt;/p&gt;
+&lt;br /&gt;
+
+&lt;h3&gt;Open Source, of course.&lt;/h3&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Hopefully we could catch some interest and shed some light on this development for you - If you have questions, ideas, or most importantly if you&#039;re potentially interested in utilizing our software for your own project (Yes - it will be released as free and open software of course!) don&#039;t hesitate to let us know, we&#039;re happy to hear from you!
+&lt;/p&gt;
+&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-audience field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/27&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Beginner&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/taxonomy/term/28&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Intermediate&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/29&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Expert&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-status field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;In Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/axiom-beta-old&quot;&gt;AXIOM Beta&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/node/152&quot;&gt;AXIOM Gamma&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 07 Jul 2015 16:55:03 +0000</pubDate>
+ <dc:creator>simonrepp</dc:creator>
+ <guid isPermaLink="false">398 at </guid>
+  </item>
+  <item>
+    <title>Project Elmyra - Looking back, looking forward</title>
+    <link>/project-elmyra-looking-back-looking-forward-article-january-2016</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;justify twocoloumns&quot;&gt;A while ago we announced our development of a Blender-based industrial design visualization system, codenamed &quot;Elmyra&quot;. Elmyra will aid us to automate visualization tasks for our rapidly iterative and parallel camera hardware development. Time flies, so we want to give you a short review of what we&#039;ve been up to and where we&#039;re headed now!&lt;/p&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/screenshot_0.jpg&quot; class=&quot;colorbox&quot; rel=&quot;LL2&quot; title=&quot;Screenshot&quot;&gt;&lt;img src=&quot;/sites/default/files/screenshot_0.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;Two months ago we were at the Blender Conference in Amsterdam to provide a first glimpse of the system, giving some essential background information of our motivation and goals, as well as a brief live-demo.&lt;/p&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/interface.jpg&quot; class=&quot;colorbox&quot; rel=&quot;LL2&quot; title=&quot;Elmyra interface&quot;&gt;&lt;img src=&quot;/sites/default/files/interface.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;Attending the conference allowed us to receive some valuable feedback regarding the direction we&#039;re heading and to gain some insights into similar projects under development. It further resulted in some interesting conversations about how people could benefit from the system and we&#039;re working hard to integrate as much as our tight time-budget allows us into the project.&lt;/p&gt;
+&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;https://www.youtube.com/embed/ht1hPNjQxcY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;p class=&quot;justify twocoloumns&quot;&gt;Currently we put a lot of effort into providing a more user-friendly deployment process for Elmyra (also allowing more people to test-drive the system), closing some gaps (in terms of offered features) that still exist within the workflow offered by Elmyra, as well as fixing up some of the more obvious holes in the functionality, hopefully leading us to our first official Alpha release in the coming weeks. For the moment you can follow the development process on &lt;a href=&quot;https://github.com/apertus-open-source-cinema/elmyra&quot;&gt;Github&lt;/a&gt;. Stay tuned!
+&lt;/p&gt;
+
+&lt;article class=&quot;node-373 node node-article en node-hidden clearfix&quot; about=&quot;/node/373&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;a href=&quot;http://www.af-inventions.de/en&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/sites/default/files/1-afinventions_0.png&quot; alt=&quot;af inventions logo&quot; title=&quot;af inventions logo&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://dieangewandte.at/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/sites/default/files/02-angewandteartscience.png&quot; alt=&quot;dieangewandte logo&quot; title=&quot;dieangewandte logo&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://antmicro.com/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/sites/default/files/3-antmicro_0.png&quot; alt=&quot;antmicro logo&quot; title=&quot;antmicro logo&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/sites/default/files/4-apertus_0.png&quot; alt=&quot;apertus logo&quot; title=&quot;apertus logo&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://www.denz-deniz.com&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/sites/default/files/5-denz_0.png&quot; alt=&quot;denz logo&quot; title=&quot;denz logo&quot; /&gt;&lt;/a&gt;
+&lt;img style=&quot;float:left; padding-right:15px;&quot; src=&quot;https://eu.axiom-camera.com/assets/images/partners/EU.png&quot; width=&quot;100px&quot; /&gt;
+&lt;div class=&quot;caption&quot; style=&quot;margin-top:7px;&quot;&gt;
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 645560.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-status field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;In Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Project:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/node/152&quot;&gt;AXIOM Gamma&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 12 Jan 2016 15:35:27 +0000</pubDate>
+ <dc:creator>simonrepp</dc:creator>
+ <guid isPermaLink="false">427 at </guid>
+  </item>
+  <item>
+    <title>Project Hollywood</title>
+    <link>/en/hollywood</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden default-file&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/default_images/apertus-default-logo_2.jpg&quot; title=&quot;Project Hollywood&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-146-6W-j7VywBUM&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/default_images/apertus-default-logo_2.jpg?itok=xBGA32s-&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;A collaborative documentary film about open technology in Hollywood&lt;/h2&gt;
+&lt;div class=&quot;quoteblock-right&quot;&gt;The beauty of an open source camera to me is a step back toward the dark room, in which making the tools is part of the joy of making the art.&lt;div class=&quot;quoteblock-right-legend&quot;&gt;Lee Parker&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;dropcap&quot;&gt;W&lt;/span&gt;ith the title &lt;i&gt;&quot;Hollywood loves Open Source&quot;&lt;/i&gt;  we set out on a journey to learn how Hollywood reacts to new and open technology. Truth is: Open Source has already arrived there, and people are curious yet critical of this new quality. We want to learn, share and show these sentiments by featuring statements from important filmmakers and pioneers, especially those that are known to keep pushing for new technologies.&lt;br /&gt;
+Apertus° members from around the globe are interviewing a variety of cinematographers, directors, tech-visionaries and artists in a collaborative effort to create a documentary film of a new kind. A film about overcoming limitations and gaining freedom in the movie production landscape. &quot;Hollywood&quot; serves as a representation for the world-wide movie industry in this case. The purpose of the film will also be to provide an introductory platform for a wider discussion within the film community.&lt;/p&gt;
+
+&lt;div class=&quot;row-fluid&quot;&gt;
+&lt;div class=&quot;span9&quot;&gt;
+&lt;h2&gt;Revolutionary possibilities an Open-Source camera will bring to the Film Industry&lt;/h2&gt;
+&lt;a class=&quot;colorbox colorbox-insert-image&quot; rel=&quot;groupname&quot; href=&quot;/sites/default/files/ars_electronica.JPG&quot;&gt;&lt;img style=&quot;float: left; padding-right:20px;&quot; title=&quot;camera users free yourself&quot; src=&quot;/sites/default/files/ars_electronica.JPG&quot; alt=&quot;camera users free yourself&quot; width=&quot;180&quot; /&gt;&lt;/a&gt;
+&lt;p&gt;Open Source is defined as:&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;em&gt;&quot;In production and development, &lt;a title=&quot;What is Open Source?&quot; href=&quot;http://en.wikipedia.org/wiki/Open_source&quot;&gt;open source&lt;/a&gt; is a philosophy, or pragmatic methodology that promotes free redistribution and access to an end product&#039;s design and implementation details.&quot;&lt;br /&gt;&lt;br /&gt;
+&lt;sub&gt;From Wikipedia, the free encyclopedia&lt;/sub&gt;&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Interviews&lt;/h2&gt;
+&lt;p&gt;So far we have conducted interviews with the following people (more interviews are scheduled):&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;float:left; padding-right:20px; padding-bottom:20px;&quot; src=&quot;/sites/default/files/ton_roosendaal_interview_footage.jpg&quot; alt=&quot;Ton Roosendaal Blender Apertus Interview&quot; title=&quot;Ton Roosendaal Blender Apertus Interview&quot; width=&quot;250&quot; /&gt;
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ton Roosendaal&lt;/b&gt;&lt;br /&gt;
+&lt;i&gt;Original creator of the open-source 3D creation suite Blender, chairman of the Blender Foundation, pioneer of large scale open-content projects.&lt;/i&gt;&lt;/p&gt;
+&lt;p class=&quot;interview-statement&quot;&gt;&quot;With proprietary closed source software you are always locked away from the actual technology - with open source software like Blender you always have access to the technology - that&#039;s the same as with the Apertus camera system.&quot;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:left; padding-right:20px;&quot; src=&quot;/sites/default/files/apertus-axiom-hollywood-open-source-bob-primes-asc-tobias-deml-300x168.jpg&quot; alt=&quot;Bob Primes Apertus Interview&quot; title=&quot;Bob Primes Apertus Interview&quot; width=&quot;250&quot; /&gt;
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Bob Primes&lt;/b&gt;&lt;br /&gt;
+&lt;i&gt;won several awards (2 Emmys, ASC and lifetime achievement award), vice president of the American Society of Cinematographers (ASC) for more than a decade&lt;/i&gt;.&lt;/p&gt;
+&lt;p class=&quot;interview-statement&quot;&gt;&quot;You&#039;re not limited to the people sworn to secrecy within the company - anyone could contribute.&quot;&lt;/p&gt;
+&lt;br /&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:left; padding-right:20px;&quot; src=&quot;/sites/default/files/david_stump.jpg&quot; alt=&quot;David Stump Apertus Interview&quot; title=&quot;David Stump Apertus Interview&quot; /&gt;
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;David Stump&lt;/b&gt;&lt;br /&gt;
+&lt;i&gt;DOP &amp;amp;  Visual Effects Supervisor, won an Emmy and an Academy Award for Scientific and Technical Achievement. Chair of the Camera Subcommittee of the ASC Technical Committee&lt;/i&gt;&lt;/p&gt;
+&lt;p class=&quot;interview-statement&quot;&gt;&quot;The Spirit of Open Source frees up the Creative Spirit to do something that no one else thought of.&quot;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:left; padding-right:20px;&quot; src=&quot;/sites/default/files/kurt-brazda-interview_1.jpg&quot; alt=&quot;Kurt Brazda Apertus Interview&quot; title=&quot;Kurt Brazda Apertus Interview&quot; width=&quot;250&quot; /&gt;
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kurt Brazda&lt;/b&gt;&lt;br /&gt;
+&lt;i&gt;director and DOP, Co-Founder of AAC and AAC president for 25 years&lt;/i&gt;&lt;/p&gt;
+&lt;p class=&quot;interview-statement&quot;&gt;&quot;In Axiom I see a very good chance for DOPs to get back the freedom to dominate their created pictures again. Every creative work needs freedom.&quot;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:left; padding-right:20px;&quot; src=&quot;/sites/default/files/bobo-interview_0.jpg&quot; alt=&quot;Alexander Boboschewski Apertus Interview&quot; title=&quot;Alexander Boboschewski Apertus Interview&quot; width=&quot;250&quot; /&gt;
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Alexander Boboschewski&lt;/b&gt;&lt;br /&gt;
+&lt;i&gt;DOP and Steadicam Operator, Academy Award in 2008, deputy chairman AAC&lt;/i&gt;&lt;/p&gt;
+&lt;p class=&quot;interview-statement&quot;&gt;&quot;I think open source for a camera is a great idea - everybody can create &lt;i&gt;his&lt;/i&gt; own camera - you are able to add or leave things that you need or don&#039;t need on a camera&quot;&lt;/p&gt;
+
+&lt;h2&gt;Outline&lt;/h2&gt;
+&lt;p align=&quot;justify&quot;&gt;
+The film will introduce the viewer to the world of Open Source and Open Knowledge, a quick pan from Linux to Wikipedia, from Android to OpenOffice, and then focus on film-making; how open source is on track to become mainstream and widely established like Blender and how movements like Magic Lantern unleashed the power of the single user to become a developer, to transcend corporate restrictions and allow custom added features. It will draw comparisons to the Web 2.0, in which user-generated content can become user-generated functionality (see the Apps for smartphones for example) that transcend what the device is capable of initially.&lt;br /&gt;&lt;br /&gt;Now, how wonderful would it be if there was a camera that was built for exactly that purpose - to allow single users to expand its functionality, provide an open development platform, and put all cards on the table ... hardware- and software-wise.&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+&lt;div class=&quot;span6&quot;&gt;
+&lt;h2&gt;Message from the Director&lt;/h2&gt;
+&lt;img style=&quot;float: left; padding-right:20px;&quot; title=&quot;Tobias Deml Message from the Director&quot; src=&quot;/sites/default/files/tobias_deml.jpg&quot; alt=&quot;Tobias Deml Message from the Director&quot; width=&quot;170&quot; /&gt;
+&lt;p&gt;&lt;b&gt;Tobias Deml&lt;/b&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;i&gt;&quot;I hope for collaborators in other &quot;film capitals&quot; to interview important people in the film industry - with different points of view - to include them in the film. That makes the message more relevant around the world, not just in the &quot;Mekka&quot; here in Los Angeles.&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;span6&quot;&gt;
+&lt;h2&gt;Participate&lt;/h2&gt;
+&lt;p&gt;This is a community effort and a film that will be shot in collaboration with people living all around the world.&lt;br /&gt;
+The film and its footage will be released under a Creative Commons license.&lt;br /&gt;
+If you want to participate: &lt;a href=&quot;/contact&quot;&gt;Contact us&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/41&quot;&gt;Film/Movie/Documentary&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot;&gt;In Development&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 07 Feb 2013 20:21:11 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">146 at </guid>
+  </item>
+  <item>
+    <title>Website</title>
+    <link>/node/220</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden default-file&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/default_images/apertus-default-logo_2.jpg&quot; title=&quot;Website&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-220-6W-j7VywBUM&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/default_images/apertus-default-logo_2.jpg?itok=xBGA32s-&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is the website you are looking at. Based on Drupal 7 and the bootstrap theme.&lt;/p&gt;
+&lt;p&gt;Any help is appreciated.&lt;/p&gt;
+&lt;p&gt;- Design&lt;br /&gt;
+- Plumbing (Drupal)&lt;br /&gt;
+- Translation&lt;br /&gt;
+- Usability&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot;&gt;In Development&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 23 Apr 2013 13:31:09 +0000</pubDate>
+ <dc:creator>philippe</dc:creator>
+ <guid isPermaLink="false">220 at </guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="/taxonomy/term/41/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Film/Movie/Documentary</title>
+    <link>/taxonomy/term/41/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="/taxonomy/term/41/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Project Hollywood</title>
+    <link>/en/hollywood</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden default-file&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/default_images/apertus-default-logo_2.jpg&quot; title=&quot;Project Hollywood&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-146-S4ertR_aVfY&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/default_images/apertus-default-logo_2.jpg?itok=xBGA32s-&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;A collaborative documentary film about open technology in Hollywood&lt;/h2&gt;
+&lt;div class=&quot;quoteblock-right&quot;&gt;The beauty of an open source camera to me is a step back toward the dark room, in which making the tools is part of the joy of making the art.&lt;div class=&quot;quoteblock-right-legend&quot;&gt;Lee Parker&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;dropcap&quot;&gt;W&lt;/span&gt;ith the title &lt;i&gt;&quot;Hollywood loves Open Source&quot;&lt;/i&gt;  we set out on a journey to learn how Hollywood reacts to new and open technology. Truth is: Open Source has already arrived there, and people are curious yet critical of this new quality. We want to learn, share and show these sentiments by featuring statements from important filmmakers and pioneers, especially those that are known to keep pushing for new technologies.&lt;br /&gt;
+Apertus° members from around the globe are interviewing a variety of cinematographers, directors, tech-visionaries and artists in a collaborative effort to create a documentary film of a new kind. A film about overcoming limitations and gaining freedom in the movie production landscape. &quot;Hollywood&quot; serves as a representation for the world-wide movie industry in this case. The purpose of the film will also be to provide an introductory platform for a wider discussion within the film community.&lt;/p&gt;
+
+&lt;div class=&quot;row-fluid&quot;&gt;
+&lt;div class=&quot;span9&quot;&gt;
+&lt;h2&gt;Revolutionary possibilities an Open-Source camera will bring to the Film Industry&lt;/h2&gt;
+&lt;a class=&quot;colorbox colorbox-insert-image&quot; rel=&quot;groupname&quot; href=&quot;/sites/default/files/ars_electronica.JPG&quot;&gt;&lt;img style=&quot;float: left; padding-right:20px;&quot; title=&quot;camera users free yourself&quot; src=&quot;/sites/default/files/ars_electronica.JPG&quot; alt=&quot;camera users free yourself&quot; width=&quot;180&quot; /&gt;&lt;/a&gt;
+&lt;p&gt;Open Source is defined as:&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;em&gt;&quot;In production and development, &lt;a title=&quot;What is Open Source?&quot; href=&quot;http://en.wikipedia.org/wiki/Open_source&quot;&gt;open source&lt;/a&gt; is a philosophy, or pragmatic methodology that promotes free redistribution and access to an end product&#039;s design and implementation details.&quot;&lt;br /&gt;&lt;br /&gt;
+&lt;sub&gt;From Wikipedia, the free encyclopedia&lt;/sub&gt;&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Interviews&lt;/h2&gt;
+&lt;p&gt;So far we have conducted interviews with the following people (more interviews are scheduled):&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;float:left; padding-right:20px; padding-bottom:20px;&quot; src=&quot;/sites/default/files/ton_roosendaal_interview_footage.jpg&quot; alt=&quot;Ton Roosendaal Blender Apertus Interview&quot; title=&quot;Ton Roosendaal Blender Apertus Interview&quot; width=&quot;250&quot; /&gt;
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ton Roosendaal&lt;/b&gt;&lt;br /&gt;
+&lt;i&gt;Original creator of the open-source 3D creation suite Blender, chairman of the Blender Foundation, pioneer of large scale open-content projects.&lt;/i&gt;&lt;/p&gt;
+&lt;p class=&quot;interview-statement&quot;&gt;&quot;With proprietary closed source software you are always locked away from the actual technology - with open source software like Blender you always have access to the technology - that&#039;s the same as with the Apertus camera system.&quot;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:left; padding-right:20px;&quot; src=&quot;/sites/default/files/apertus-axiom-hollywood-open-source-bob-primes-asc-tobias-deml-300x168.jpg&quot; alt=&quot;Bob Primes Apertus Interview&quot; title=&quot;Bob Primes Apertus Interview&quot; width=&quot;250&quot; /&gt;
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Bob Primes&lt;/b&gt;&lt;br /&gt;
+&lt;i&gt;won several awards (2 Emmys, ASC and lifetime achievement award), vice president of the American Society of Cinematographers (ASC) for more than a decade&lt;/i&gt;.&lt;/p&gt;
+&lt;p class=&quot;interview-statement&quot;&gt;&quot;You&#039;re not limited to the people sworn to secrecy within the company - anyone could contribute.&quot;&lt;/p&gt;
+&lt;br /&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:left; padding-right:20px;&quot; src=&quot;/sites/default/files/david_stump.jpg&quot; alt=&quot;David Stump Apertus Interview&quot; title=&quot;David Stump Apertus Interview&quot; /&gt;
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;David Stump&lt;/b&gt;&lt;br /&gt;
+&lt;i&gt;DOP &amp;amp;  Visual Effects Supervisor, won an Emmy and an Academy Award for Scientific and Technical Achievement. Chair of the Camera Subcommittee of the ASC Technical Committee&lt;/i&gt;&lt;/p&gt;
+&lt;p class=&quot;interview-statement&quot;&gt;&quot;The Spirit of Open Source frees up the Creative Spirit to do something that no one else thought of.&quot;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:left; padding-right:20px;&quot; src=&quot;/sites/default/files/kurt-brazda-interview_1.jpg&quot; alt=&quot;Kurt Brazda Apertus Interview&quot; title=&quot;Kurt Brazda Apertus Interview&quot; width=&quot;250&quot; /&gt;
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kurt Brazda&lt;/b&gt;&lt;br /&gt;
+&lt;i&gt;director and DOP, Co-Founder of AAC and AAC president for 25 years&lt;/i&gt;&lt;/p&gt;
+&lt;p class=&quot;interview-statement&quot;&gt;&quot;In Axiom I see a very good chance for DOPs to get back the freedom to dominate their created pictures again. Every creative work needs freedom.&quot;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:left; padding-right:20px;&quot; src=&quot;/sites/default/files/bobo-interview_0.jpg&quot; alt=&quot;Alexander Boboschewski Apertus Interview&quot; title=&quot;Alexander Boboschewski Apertus Interview&quot; width=&quot;250&quot; /&gt;
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Alexander Boboschewski&lt;/b&gt;&lt;br /&gt;
+&lt;i&gt;DOP and Steadicam Operator, Academy Award in 2008, deputy chairman AAC&lt;/i&gt;&lt;/p&gt;
+&lt;p class=&quot;interview-statement&quot;&gt;&quot;I think open source for a camera is a great idea - everybody can create &lt;i&gt;his&lt;/i&gt; own camera - you are able to add or leave things that you need or don&#039;t need on a camera&quot;&lt;/p&gt;
+
+&lt;h2&gt;Outline&lt;/h2&gt;
+&lt;p align=&quot;justify&quot;&gt;
+The film will introduce the viewer to the world of Open Source and Open Knowledge, a quick pan from Linux to Wikipedia, from Android to OpenOffice, and then focus on film-making; how open source is on track to become mainstream and widely established like Blender and how movements like Magic Lantern unleashed the power of the single user to become a developer, to transcend corporate restrictions and allow custom added features. It will draw comparisons to the Web 2.0, in which user-generated content can become user-generated functionality (see the Apps for smartphones for example) that transcend what the device is capable of initially.&lt;br /&gt;&lt;br /&gt;Now, how wonderful would it be if there was a camera that was built for exactly that purpose - to allow single users to expand its functionality, provide an open development platform, and put all cards on the table ... hardware- and software-wise.&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+&lt;div class=&quot;span6&quot;&gt;
+&lt;h2&gt;Message from the Director&lt;/h2&gt;
+&lt;img style=&quot;float: left; padding-right:20px;&quot; title=&quot;Tobias Deml Message from the Director&quot; src=&quot;/sites/default/files/tobias_deml.jpg&quot; alt=&quot;Tobias Deml Message from the Director&quot; width=&quot;170&quot; /&gt;
+&lt;p&gt;&lt;b&gt;Tobias Deml&lt;/b&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;i&gt;&quot;I hope for collaborators in other &quot;film capitals&quot; to interview important people in the film industry - with different points of view - to include them in the film. That makes the message more relevant around the world, not just in the &quot;Mekka&quot; here in Los Angeles.&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;span6&quot;&gt;
+&lt;h2&gt;Participate&lt;/h2&gt;
+&lt;p&gt;This is a community effort and a film that will be shot in collaboration with people living all around the world.&lt;br /&gt;
+The film and its footage will be released under a Creative Commons license.&lt;br /&gt;
+If you want to participate: &lt;a href=&quot;/contact&quot;&gt;Contact us&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/41&quot;&gt;Film/Movie/Documentary&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot;&gt;In Development&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 07 Feb 2013 20:21:11 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">146 at </guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="/taxonomy/term/52/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>learn</title>
+    <link>/taxonomy/term/52/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="/taxonomy/term/52/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Acknowledging &#039;FPGA is for Freedom&#039;</title>
+    <link>/fpga-freedom</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Leaving the Walled Garden&lt;/h2&gt;
+&lt;p class=&quot;twocoloumns justify&quot;&gt;Apertus° is the culmination of a diverse pool of knowledge. Our members’ backgrounds extend from hardware development, coding and engineering, to graphic design, filmmaking, journalism and arts production. In 2013, it’s easy for us to see that not only is Open Source everywhere around us, it’s also doing some pretty amazing things! Two thirds of the servers comprising the internet are powered by open technologies. Wordpress (free and open source) is the most popular blogging platform on the planet. 
+&lt;br /&gt;
+The majority of mobile phones sold are now using Google’s Android OS - a variant of Linux, and Raspberry Pi’s - also running Linux - have sold over 1.75 million units (and this is showing no sign of slowing down anytime soon). The unprecedented rise of 3D printing has led to a vast network of users now sharing their designs (for printed objects) freely and openly online, and more people and businesses are continuing to discover the benefits of pooling their resources and releasing data for open access.
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;img src=&quot;/sites/default/files/field/image/photo2scale.png&quot; alt=&quot;&quot; /&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Working within Libre Culture&lt;/h2&gt;  
+&lt;p class=&quot;twocoloumns justify&quot;&gt;
+Coincidentally, Andrey Filippov (from Elphel Inc.) has just published a document outlining his experience working with open and closed source software / hardware in the development of his company’s camera hardware over the last ten years. This document can be read on the Elphel development blog &lt;a href=&quot;http://blog.elphel.com/2013/10/fpga-is-for-freedom&quot;&gt;here&lt;/a&gt;. At the half-way point in the article, Andrey discusses his frustration with certain companies restricting developer and end-user access to areas of their hardware, and thus limiting the potential for innovation by a third party. He points out that now, people expect a reasonable level of authority over the hardware and software they’re often paying good money for. When considering what this means for business, he points out that not allowing for people to study and examine their software / hardware  will ensure your product and / or company is left behind. 
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Where we stand&lt;/h2&gt;
+&lt;p class=&quot;twocoloumns justify&quot;&gt;With apertus°, we believe in the power of communities, of empowering the user to explore and tinker, to transform ideas into outstanding developments. Our primary intention has always been to ensure this freedom, so that anyone can hack and modify whatever they require in areas that may otherwise get overlooked. After releasing our code and documentation, we hope to invest more time and effort into building a thriving online ecosystem, supporting communities, teams and companies to share customized FPGA code, DIY designs for hardware modules, special-purpose camera OS disk images and whatever else (apertus° related) you can imagine. We intend to ship Axiom with the capacity for filmmakers and engineers to extend, reprogram and optimise the hardware so that it may be placed in a variety of specialised cinematographic scenarios that we have not yet thought of. And this is only the beginning. Whilst the tipping point for open software &amp;amp; hardware development has not yet reached critical mass, there is every indication it is approaching. 
+&lt;/p&gt;
+
+&lt;div class=&quot;caption&quot;&gt;Cover Photo under CC by &lt;a href=&quot;http://cargocollective.com/sashacohen&quot; target=&quot;_blank&quot;&gt;Sasha Cohen&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;learn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 24 Oct 2013 10:30:49 +0000</pubDate>
+ <dc:creator>Sasha</dc:creator>
+ <guid isPermaLink="false">256 at </guid>
+  </item>
+  <item>
+    <title>Blender based Workflow</title>
+    <link>/node/161</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Details&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://wiki.elphel.com/index.php?title=Apertus.BlenderWorkflow&quot;&gt;http://wiki.elphel.com/index.php?title=Apertus.BlenderWorkflow&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;How To Videos&lt;/h2&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/50247217&quot; width=&quot;870&quot; height=&quot;490&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&quot;http://vimeo.com/50247217&quot;&gt;tl-etalonaje-paseo&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/telenoika&quot;&gt;Telenoika&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src=&quot;http://player.vimeo.com/video/50247207&quot; width=&quot;870&quot; height=&quot;490&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&quot;http://vimeo.com/50247207&quot;&gt;tuto-edit-compositor&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/telenoika&quot;&gt;Telenoika&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;learn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-status field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;In Development&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 17 Feb 2013 21:11:13 +0000</pubDate>
+ <dc:creator>CarlosPadial</dc:creator>
+ <guid isPermaLink="false">161 at </guid>
+  </item>
+  <item>
+    <title>Cinelerra based Workflow</title>
+    <link>/node/160</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;
+The research presented here aims at establishing a digital cinema editing workflow made exclusively under Linux machines. The steps described below start at the point in which we already have a sequence, or many sequences, of digital negative (DNG) files. In the diagram, they correspond to the stages immediately after the third grey box. Everything described from there on has been tested and is documented here. 
+ &lt;br /&gt;&lt;br /&gt;Even though it is the aim of this documentation to gather information related to the whole process – which includes capturing and monitoring the recording, transferring the data to the computer, playing the JP4 files and finally converting them to DNG sequences - the previous parts are can be retraced by putting together information that can be found at Apertus’ site or that is spread throughout Elphel’s Wiki. We can consider that, therefore, as a second step towards our objective.
+ &lt;br /&gt;&lt;br /&gt;This research first tests which format is best to be used as proxy. It takes into consideration that editors will need to do many test renders during editing and that a fine photographic adjustment of the images will be done only at the final stages (those proxies, then, must be easily replaceable), in which the workflow is divided between the photographer, the audio technician and the final retouches by the editor.
+ &lt;br /&gt;&lt;br /&gt;Finally, this page is currently also mantained at the &lt;a href=&quot;http://szaszak.wordpress.com/linux/&quot; target=&quot;_blank&quot;&gt;author&#039;s blog&lt;/a&gt;, where it should be translated to Portuguese.&lt;br /&gt;
+&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;a href=&quot;http://szaszak.files.wordpress.com/2010/10/gpl_workflow.png&quot; target=&quot;_blank&quot;&gt;
+		&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/gpl_workflow.png&quot; alt=&quot;&quot; title=&quot;workflow&quot; /&gt;
+	&lt;/a&gt;
+&lt;/p&gt;
+&lt;h2&gt;Preparations for editing&lt;/h2&gt;
+&lt;h3&gt;Files to be used as proxies&lt;/h3&gt;
+&lt;p&gt;We could render the DNG files generated by &lt;a href=&quot;http://wiki.elphel.com/index.php?title=Movie2dng&quot; target=&quot;_blank&quot;&gt;movie2dng&lt;/a&gt; using &lt;a href=&quot;http://ufraw.sourceforge.net/&quot; target=&quot;_blank&quot;&gt;ufraw-batch&lt;/a&gt;. At this moment of the workflow, we are interested in generating proxies files - that is, light files that have three characteristics: they have to be able to used for editing; they have to present a good preview of the final video without compromising too much of the quality; and they have to register fast rendering times in our NLE (be it &lt;em&gt;Cinelerra&lt;/em&gt; or &lt;em&gt;Blender&lt;/em&gt;) so that we can do preview-renders of our edited video quickly and leave high CPU demands for post-editing.
+&lt;br /&gt;&lt;br /&gt;To achieve so, however, we have to test which type of file would best fit into all these requirements. Would the best format be TIF of JPG? For the test below, I used 4 sample DNGs generated by Elphel downloaded from Apertus Project&#039;s website. I copied them and pasted them into the same folder so that I would have 360 frames - or a good preview of what to expect from 15 seconds of a CIMAX recording (2592x1120) at 24fps. Note that the frames I used were even larger than the CIMAX format.
+&lt;/p&gt;
+&lt;h3&gt;Test 1&lt;/h3&gt;
+Process 360 DNG frames (occupying 3,4GB of disk space), or 15s of RAW video footage
+&lt;br /&gt;&lt;br /&gt;Command line used:
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;ufraw-batch --conf=apertus_teste.ufraw *.dng&lt;/code&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/table_test1.jpg&quot; title=&quot;table_test1&quot; /&gt;
+&lt;/p&gt;
+&lt;em&gt;Results:&lt;/em&gt; For what we can see from this first test, four formats have the potential to be used as proxies: &lt;em&gt;JPEG 50% PPG&lt;/em&gt;, &lt;em&gt;JPEG 50% Bilinear&lt;/em&gt;, &lt;em&gt;TIF Uncompressed Bilinear&lt;/em&gt; and &lt;em&gt;TIF Uncompressed PPG&lt;/em&gt;. The first two have the advantage of occupying very low disk space if compared to the third and fourth ones (44MB~ x 5,1GB). They can be a very interesting solution, especially for larger projects. But if we consider the workflow as a whole, the TIF formats should make out life easier at post-production. The problem with this test is that the command line above processes only one image at a time. With some research, I came across a very simple software called &lt;a href=&quot;http://www.gnu.org/software/parallel/&quot; target=&quot;_blank&quot;&gt;parallel&lt;/a&gt;, that can be easily compiled (don&#039;t use the pre-packaged versions, they are too old) and will help us to use all the cores of a multi-threaded processor, in my case, the Intel i7 860. Dividing the work between the cores of the processor dramatically reduced the time in my tests - generally, it took him half the time to complete the task; in some cases, it took him one third of the time.
+&lt;br /&gt;
+&lt;h3&gt;Test 2&lt;/h3&gt;
+Process 360 DNG frames (occupying 3,4GB of disk space), or 15s of RAW video footage - &lt;em&gt;using multi-threaded processing&lt;/em&gt;
+&lt;br /&gt;&lt;br /&gt;Command line used:
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;ls *.dng | parallel -j +0 ufraw-batch --conf=apertus02.ufraw --silent {}&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/table_test2.jpg&quot; title=&quot;table_test2&quot; /&gt;
+&lt;/p&gt;
+&lt;em&gt;Results:&lt;/em&gt; As it turns out, it seems that the best formats to be used as proxy are the &lt;em&gt;JPEG 50% Bilinear&lt;/em&gt; and the &lt;em&gt;JPEG 50% PPG&lt;/em&gt;. The observation about disk space occupied by both (see previous results) is still pertinent and reducing further the quality of the JPEGs (below 50%) may even fasten the overall conversion, but that must be tested in the timeline of the NLE, during a real editing project. The JPEG formats also benefited most from the multi-threaded task. 
+&lt;br /&gt;
+&lt;h3&gt;Diskspace worries&lt;/h3&gt;
+For the &lt;em&gt;TIF formats&lt;/em&gt;, we must consider the enormous amount of disk space occupied by them. The table below is just a rough preview. I take into consideration only the DNGs converted by movie2dng and their processed TIF counterparts, by ufraw-batch. You should have in mind that there are still the original Elphel&#039;s JP4 files, (many) Cinelerra preview renders you should make along the way, the temporary files you should use as the project goes through the whole process, original audio, audio for post-production and the final movie render.
+&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/disk_space.jpg&quot; title=&quot;disk_space&quot; width=&quot;600&quot; height=&quot;93&quot; /&gt;
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;h3&gt;
+	&lt;/h3&gt;&lt;p style=&quot;text-align:left;&quot;&gt;
+		&lt;span style=&quot;color:#ff9900;&quot;&gt;
+			&lt;a name=&quot;rendering_proxies&quot; id=&quot;rendering_proxies&quot;&gt; 
+			Rendering tests using the proxy files
+			&lt;/a&gt;
+		&lt;/span&gt;
+	&lt;/p&gt;
+
+It is now time to check how these image sequences will behave in our NLE. My initial intent is to use &lt;em&gt;Cinelerra&lt;/em&gt; as editor and &lt;em&gt;Blender&lt;/em&gt; for effects, such as titles or post-production. So I imported the files generated by the tests above into a timeline, using CIMAX standard as reference (2592x1120 at 24fps). Note that for this test, I use only the video stream, since it&#039;s too soon to preview which will be the best workflow for audio.
+&lt;br /&gt;
+&lt;h3&gt;Test 3&lt;/h3&gt;
+Render 360 frames, or 15s of 2592x1120 video footage at 24fps from Cinelerra&#039;s Timeline
+&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/table_test3.jpg&quot; title=&quot;table_test3&quot; /&gt;
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;em&gt;Results:&lt;/em&gt; The &lt;em&gt;JPEG 50% Bilinear&lt;/em&gt; and &lt;em&gt;JPEG 50% PPG&lt;/em&gt; are the fastest, both rendering at similar speeds. The difference in time when rendering these formats with the &lt;em&gt;JPEG Photo&lt;/em&gt; codec at 50% or 100% is almost irrelevant, but the space in disk occupied by them should weight in favour of JPEG Photo at 50%&#039;s side. It is worthy noticing the behaviour of JPEG brought to Cinelerra using AHD. It takes about 4x to render when compared to its cousins - if rendered with JPEG Photo at 100%, it also takes way more space in disk. Working with TIF here serves for us to have an idea of the necessary time to render the &lt;em&gt;final&lt;/em&gt; version of the video, that should be brought here using &lt;em&gt;TIF Uncompressed AHD&lt;/em&gt; and rendered either as a TIF Uncompressed Sequence (to be encoded by MEncoder for standard outputs) or as JPEG Photo at 100% with PCM audio in a MOV container.
+&lt;br /&gt;
+&lt;h3&gt;Overall conclusion from the tests&lt;/h3&gt;
+There are two main conclusions to be drawn from these tests. The first one is that the &lt;em&gt;JPEG 50% Bilinear&lt;/em&gt; and &lt;em&gt;JPEG 50% PPG&lt;/em&gt; are the best ones to be used as proxies. They are the fastest to be processed, both during ufraw&#039;s batch conversion and cinelerra&#039;s render: they take 7x real-time to be processed at the first step and only 2x real-time at the second one. They also occupy minimum space in disk, and can be easily previewed by MPlayer at anytime during the workflow. 
+&lt;br /&gt;&lt;br /&gt;But there is a major drawback in using the JPEG formats. If we combine them with img2list, we&#039;ll have a hard time replacing the JPEGs at Cinelerra&#039;s timeline with the final TIFs due to how img2list and Cinelerra work together (Cinelerra&#039;s XML don&#039;t point to the images, but to img2list&#039;s generated list, which can&#039;t be changed without harming Cinelerra&#039;s interpretation of it). That should leave you two options. You can invert the workflow and do the photographic treatment before editing. That can be done for some movies; for others, it will be unthinkable. Or, more reasonably, you could replace the JPEG image blocks manually in Cinelerra&#039;s timeline for the TIF ones. That can be less work than it seems, but you&#039;d have to have the very final cut of the movie at the moment of replacement, since further editing - even a minor tweak - will become quite hard. In other words, you&#039;d be fronzen there.
+&lt;br /&gt;&lt;br /&gt;The second conclusion is that, even though the &lt;em&gt;TIF Uncompressed PPG&lt;/em&gt; and the &lt;em&gt;TIF Uncompressed Bilinear&lt;/em&gt; will occupy way more space than the JPEGs and will take longer to be processed both at ufraw&#039;s batch and cinelerra&#039;s render phases, they may have advantages if you consider the workflow as a whole. Firstly, they will take 12x real-time at the first step and 7x real-time at render, should you combine them with JPEG Photo 50% for render previews. That is slow. However, that might be compensated at post-production. When you do the photographic treatment in UFRaw and generate new TIFs, you&#039;ll be able to simpy replace the TIFs you had used for the new ones in the folder. Cinelerra will read the alterings just fine, even though its XML points to the img2list&#039;s lists. The lists, in their turn, are already pointing to TIF files (this won&#039;t work for JPEG, though. You won&#039;t be able to use, for example, JPEG at 100% and replace the JPEG proxies at the folder - Cinelerra will break if you do that).
+&lt;br /&gt;&lt;br /&gt;This means that you will still have your image sequences behaving like movie blocks at the timeline, which is crucial. In case you must change that single frame that went unnoticed or change the duration or order of anything, that should be quite smooth and effortless. You will also lose MPlayer&#039;s ability of previewing a sequence of images as a file, which can be vey handy - but since the TIFs can be replaced at the folder and instantly read by Cinelerra, you might be able to check them directly at the timeline.
+&lt;br /&gt;&lt;br /&gt;In both cases, though, you will have to be very organized with your files and UFRaw&#039;s configuration files. Which way is best? Consider your project; consider the gear you have and judge for yourself.
+&lt;br /&gt;
+&lt;h2&gt;Editing&lt;/h2&gt;
+To edit the image sequences, we should use a tool called &lt;a href=&quot;http://www.malefico3d.org/blog-en/?page_id=224&quot; target=&quot;_blank&quot;&gt;img2list&lt;/a&gt;, developed by Claudio &#039;Malefico&#039;. If we simply import these frames into Cinelerra, they will be treated as single images by the software. Well, that&#039;s what they actually are, but img2list will help Cinelerra read the frames as a &#039;sequence of images&#039; (that is, a movie), which is exactly what we want to do. Now, they will behave exactly as movie blocks in the timeline. You will be able to split them, to stretch or shrink them exactly as if they were, for example, a DV file. As an aditional comment, img2list will work only if the image sequence is named in a certain pattern, which happens to be compatible with the pattern used by movie2dng.
+&lt;br /&gt;&lt;br /&gt;Editing in Cinelerra is quite well known and &lt;a href=&quot;http://cinelerra.org/docs.php&quot; target=&quot;_blank&quot;&gt;very well documented&lt;/a&gt;, so I will skip the introductory steps here. Rendering the video in Cinelerra to preview the final result should take into consideration the tests presented above, so you should probably want to render the video in a MOV container, using &lt;em&gt;JPEG Photo&lt;/em&gt; at 50% or 100% as codec settings.
+&lt;br /&gt;
+&lt;h2&gt;Post-production&lt;/h2&gt;
+Image treatment should be done using the original DNG files, for the simple reason that they are RAW. Both &lt;em&gt;Cinelerra&lt;/em&gt; and &lt;em&gt;Blender&lt;/em&gt; are able to open DNG files from cameras, such as Pentax&#039;s DNGs. But it seems that only Cinelerra will open Elphel&#039;s converted DNGs without having to recompile the software. To work with DNGs in Cinelerra will be extremely time consuming, though. Minor tweaks in colour or slightly altering contrast will take an enormously long time to be previewed, transforming a delicate process into nightmarish hell (that&#039;s the main reason why we transformed the original DNG into JPEG proxies in the first place).
+&lt;br /&gt;&lt;br /&gt;A reasonable option would be to make Blender read Elphel&#039;s DNG-converted files and use its &lt;a href=&quot;http://blenderunderground.com/2008/03/31/introduction-to-composite-nodes-part-1/&quot; target=&quot;_blank&quot;&gt;compositing nodes tool&lt;/a&gt; to do the colour correction. That has yet to be tested. Also, we would have to establish a communication between Cinelerra&#039;s EDL (a XML file) and Blender, so that we could import our EDL in Blender.
+&lt;br /&gt;&lt;br /&gt;&lt;em&gt;UFRaw&lt;/em&gt;, however, has the right tools and immediate preview. Its main problem is that it lacks the time-lapse factor (that is, you can only view a single, still, frame). That can arranged in terms, using &lt;em&gt;MPlayer&lt;/em&gt; to preview the processed sequence (see below), but it should present difficulties in scenes that have moving cameras or strong changes in contrast. The following will consider a workflow using UFRaw.
+&lt;br /&gt;&lt;br /&gt;First of all, we need to know which DNG files we&#039;ll be working with. It would make no sense to go through DNGs that belong to recorded sequences we didn&#039;t use in the final editing cut. The information we need is inside Cinelerra&#039;s EDL, which is a XML file. By going through this file, you can know precisely which frames have to go through post-production. An example of the section we need inside Cinelerra&#039;s XML is (click on image to enlarge):
+&lt;br /&gt;&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;a href=&quot;http://szaszak.files.wordpress.com/2010/10/cinelerra_xml.png&quot; target=&quot;_blank&quot;&gt;
+		&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/cinelerra_xml.png?w=1024&quot; alt=&quot;&quot; title=&quot;cinelerra_xml&quot; width=&quot;450&quot; height=&quot;63&quot; class=&quot;aligncenter size-small wp-image-840&quot; /&gt;
+	&lt;/a&gt;
+&lt;/p&gt;
+&lt;br /&gt;&lt;br /&gt;This excerpt show two very small blocks of video in a single track, called &quot;Video 1&quot;. The first one uses 7 frames, there is a 3-frames space between the blocks and then there is a 6-frames video block. Visually, it would look like this in your timeline:
+&lt;br /&gt;&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/cinelerra_timeline_img2list.jpg&quot; alt=&quot;&quot; title=&quot;cinelerra_timeline_img2list&quot; width=&quot;500&quot; height=&quot;145&quot; class=&quot;aligncenter size-full wp-image-841&quot; /&gt;
+&lt;/p&gt;
+&lt;br /&gt;&lt;br /&gt;Now we must translate that information into human-readable terms. It must be simple to understand. We can &lt;em&gt;make a script&lt;/em&gt; using the long command line below. For file &quot;cinelerra.xml&quot; as input, it will give us a file called &quot;List_of_DNGs_for_post_production.txt&quot;, which is a text file you can print or read in the computer, the way you feel more comfortable with. The line:
+&lt;br /&gt;&lt;br /&gt;
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;grep &quot;EDIT STARTSOURCE=&quot; cinelerra_outra_pasta.xml | cut -d&quot;&amp;gt;&quot; -f1,2 | cut -d&quot;=&quot; -f1,2,4,5 &amp;gt; temp_readableXML.txt &amp;amp;&amp;amp; sed -ie &#039;s/&amp;lt;EDIT STARTSOURCE=&quot;/- frames /g&#039; temp_readableXML.txt &amp;amp;&amp;amp; sed -ie &#039;s/&quot; CHANNEL=&quot;/ to /g&#039; temp_readableXML.txt &amp;amp;&amp;amp; sed -ie &#039;s/&quot;&amp;gt;&amp;lt;FILE SRC=/ File: /g&#039; temp_readableXML.txt &amp;amp;&amp;amp; grep File temp_readableXML.txt &amp;gt; temp_readableXML2.txt &amp;amp;&amp;amp; gawk &#039;{ $8 = $5 + $3; $9 = $3+1 ;print $6,$7,$1,$2,$9,$4,$8 }&#039; temp_readableXML2.txt &amp;gt; List_of_DNGs_for_post_production.txt &amp;amp;&amp;amp; rm temp_readableXML*.txt temp_readableXML.txte&lt;/code&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;&lt;br /&gt;Will give us this more reassuring output in the text file:
+&lt;br /&gt;&lt;br /&gt;
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;File: &quot;/home/livre/Desktop/testes_e_exemplos_elphel/dngs/img2list/lista&quot; - frames 1 to 7&lt;br /&gt;
+			File: &quot;/home/livre/Desktop/testes_e_exemplos_elphel/dngs/img2list/lista&quot; - frames 8 to 13&lt;/code&gt;&lt;br /&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;Now it is clear which DNGs we should use. In this case, I&#039;d just go through my file &quot;lista&quot; (which is a img2list file I had created previously for editing) and see which DNGs I&#039;ll have to reprocess in &lt;em&gt;UFRaw&lt;/em&gt; and &lt;em&gt;ufraw-batch&lt;/em&gt;. The easiest way to do that would be to copy those files to a temporary folder, treat them and check them out directly at Cinelerra&#039;s timeline or with MPlayer:
+&lt;br /&gt;&lt;br /&gt;Command line used:
+&lt;br /&gt;&lt;br /&gt;
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;mplayer &quot;mf://*.jpg&quot; -mf fps=24:type=jpg -fs -vf dsize=2592:1120&lt;/code&gt;&lt;br /&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;When you&#039;re satisfied with the results, copy the resulting files (probably &lt;em&gt;Uncompressed AHD TIFs&lt;/em&gt;) and paste them into the original DNG&#039;s folder. If you have used Uncompressed TIFs as proxies, you will be prompted to replace the TIFs in that folder. Do it, replace them. And you&#039;re done. 
+&lt;br /&gt;&lt;br /&gt;Now, when you open your Cinelerra project again (that cinelerra.xml file, in our example), the program will read your new TIFs instead of the old ones and you&#039;re ready to mix the other final sources (audio and lettering) for a final render.
+&lt;br /&gt;&lt;br /&gt;Lettering and other effects should be done in Blender. Depending on Blender&#039;s behaviour, we can use proxies to do it and export the result using an alpha channel, so that it can be brought into Cinelerra&#039;s timeline for the final render. In case Blender is able to read our original files, we can do the final render inside it. In both scenarios, a Render Farm can be built to help the CPU efforts.
+&lt;br /&gt;
+&lt;h3&gt;Research continues...&lt;/h3&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;learn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-audience field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/28&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Intermediate&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/taxonomy/term/29&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Expert&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-status field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/34&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Completed&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 17 Feb 2013 20:56:19 +0000</pubDate>
+ <dc:creator>flavio</dc:creator>
+ <guid isPermaLink="false">160 at </guid>
+  </item>
+  <item>
+    <title>Lenses</title>
+    <link>/en/lens</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;alert alert-error&quot;&gt;This page and the information on it is related ONLY to the Elphel camera, NOT Axiom.&lt;/div&gt;
+&lt;p&gt;Elphel 353 cameras have a C/CS mount which is basically just a female thread (nominally 1 inch/25 mm in diameter, with 32 threads per inch). The flange focal distance is 0.6900 in/17.526 mm for a C-mount.&lt;/p&gt;
+&lt;p&gt;C-Mount (The letter &quot;C&quot; is said to stand for &quot;cine&quot;) is common for 16mm lenses as well as machine vision, automation and specialised television applications. Which has lead to a very wide range of lenses to choose from: &lt;a href=&quot;http://us.c-mount.passion.pro/&quot;&gt;List of almost 300 C/CS-mount lenses with sample images&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/C_mount_lens_Pentax_12mm_f1.2.jpg&quot; width=&quot;570px&quot; /&gt;
+Image from &lt;a href=&quot;http://en.wikipedia.org/wiki/File:C_mount_lens_Pentax_12mm_f1.2.jpg&quot;&gt;wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;CS-Mount&lt;/h2&gt;
+&lt;p&gt;CS-mount has a flange focal distance of 0.4931 in/12.526 mm and is otherwise identical to the C-mount. Elphel 353 cameras have a CS-mount by default and a spacer ring (that ships with every Elphel kit) can be used to connect all C-mount lenses to the camera as well.&lt;/p&gt;
+&lt;h2&gt;Field of View&lt;/h2&gt;
+&lt;p&gt;The following illustration shows the viewing angle for a set of different focal lengths at Full HD resolution (with approximate 35mm equivalents &amp;amp; Horizontal FOV).&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;colorbox&quot; href=&quot;/sites/default/files/Elphel353_LensAngles.png&quot;&gt;&lt;img width=&quot;570&quot; src=&quot;/sites/default/files/Elphel353_LensAngles.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The following illustrations show a person standing 1 meter from the lens at different focal lengths&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M1_3.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 1.3mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M1_7.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 1.7mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M3.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 3mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M5.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 5mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M8.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 8mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M12_5.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 12.5mm | Subject Distance: 1m&lt;/p&gt;
+&lt;h2&gt;SLR lenses&lt;/h2&gt;
+&lt;p&gt;Because of the rather small sensor area (1/2.5&quot;) compared to 35mm film in current Elphel 353 cameras the crop factor for using lenses that were designed for SLR cameras is rather high (~6x) which makes these lenses currently unfit for our applications. Future bigger sensor front ends might change this situation with Elphel 373 (see &lt;a href=&quot;/roadmap&quot;&gt;Roadmap&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;Optical design for certain sensor area&lt;/h2&gt;
+&lt;p&gt;The mount name alone does not specify if a particular lens is able to cover a certain sensor area. So this technical specifications of a lens needs some extra attention. Typical optical designs are (1/4&quot;, 1/3&quot;, 1/2&quot;, 1/2.5&quot; (Elphel 353), 2/3&quot;, 1&quot;, 4/3&quot;, APS-C, etc.). If your lens is designed for a smaller sensor than the size of the sensor you are using it is possible that the image circle will not be able to cover the whole sensor area leading to vignetting or in extreme cases even complete darkness on the outer sensor regions. In general the quality of a lens (sharpness, amount of distortion, aberration, etc.) degrades with the distance from the image centre, so it is in general better to use only the inner regions of the image circle for the sensor area. Most lenses already account for this and cover a bigger area than the sensor size they are designed for. The opposite case is that the lens is made for a bigger image circle than the dimensions of your sensor, normally this is less of a problem but in extreme cases it could result in stray light which is reflected by parts of the lens mount or sensor PCB reaching the sensor.&lt;/p&gt;
+&lt;h2&gt;B4 Lenses&lt;/h2&gt;
+&lt;p&gt;Lenses designed for 3-chip-cameras like Canon or Fujinon (B4-Mount) broadcast optics have a higher flange focal distance because the light has to pass a prism before hitting the 3 sensors and a so called &quot;lateral &lt;a href=&quot;http://en.wikipedia.org/wiki/Dispersion_%28optics%29&quot;&gt;dispersion&lt;/a&gt;&quot; (to offset colour separation caused by &lt;a href=&quot;http://en.wikipedia.org/wiki/Dichroic_filter&quot;&gt;dichroic&lt;/a&gt; prisms). This makes them incompatible with any single sensor camera. Though there are adapters (rather expensive, several thousand $) available that correct the colour convergence of broadcast lenses to work with single-chip designs.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;learn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-audience field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/27&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Beginner&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/taxonomy/term/28&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Intermediate&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/29&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Expert&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-status field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/34&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Completed&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 02 Mar 2013 17:54:13 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">181 at </guid>
+  </item>
+  <item>
+    <title>Open Practices of Video Creatives</title>
+    <link>/sharing-creation-attitude</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h3&gt;About the Editor&lt;/h3&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+&lt;div class=&quot;span3&quot;&gt;&lt;img src=&quot;/sites/default/files/Laura.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span9&quot;&gt;&lt;div class=&quot;twocoloumns justify&quot;&gt;&lt;b&gt;Laura Camellini&lt;/b&gt; studied Arts and CAD Design, Industrial Automation and Mechanics - she is graduated in communication design and qualified as web journalist. Now she is &lt;a href=&quot;http://www.jeeltcraft.com&quot; target=&quot;_blank&quot;&gt;blogging&lt;/a&gt; about open source technology and giving lectures about open source interfaces for creative editing of video and graphical contents or how to use creative commons licences. Recently Laura joined the apertus° website and newsletter editor team. This article is &lt;a href=&quot;http://www.jeeltcraft.com/sharing-creation-attitude/&quot; target=&quot;_blank&quot;&gt;co-published on her blog: The Drunk Stage.&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;img src=&quot;/sites/default/files/tube-open-movie.png&quot; /&gt;&lt;br /&gt;
+&lt;div class=&quot;caption&quot;&gt;Still image from the currently ongoing 3D animated &lt;a href=&quot;http://urchn.org/&quot; target=&quot;_blank&quot;&gt;Tube Open Movie production&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;threecoloumns justify&quot;&gt;
+As communities grow throughout the world wide web, and develop their own unique tools to create and share their visions, we are reminded that the act of sharing has always been important for artists.	With the aging concept of ‘copyright’ propelling everyone to seek total creative ownership over their creations, audiences are immediately restricted by the way in which they may interact with the work. Beyond the limits of creative control imposed here, there lies an immediate need to share, a need which can drive the process of creation and social response more than we may realise. Writing about the recent history of open movie creation is difficult, but thanks to the nature of the Internet it is possible to see that there have been many projects on this front. Some of these projects have succeeded and some have not. The main purpose of this article is to explore the current state of this unique culture, focusing on &lt;a href=&quot;http://www.blender.org/features-gallery/blender-open-projects/&quot; target=&quot;_blank&quot;&gt;4 open movie projects&lt;/a&gt;, all of which have succeeded largely due to a strong community effort and the support of a well organized body such as the &lt;a href=&quot;http://www.blender.org/&quot; target=&quot;_blank&quot;&gt;Blender institute&lt;/a&gt;. Thanks to a rise in open source awareness, many artists are now also using open licenses to share their work. This allows anyone to not only view their creations, but to also study the ‘materials’ used, modify them and build upon the original structure.
+&lt;/div&gt;
+
+&lt;br /&gt;
+&lt;div align=&quot;center&quot;&gt;
+	&lt;img src=&quot;/sites/default/files/sintel.png&quot; /&gt;&lt;br /&gt;
+	&lt;div class=&quot;caption&quot;&gt;Still image from &lt;a href=&quot;http://www.sintel.org/&quot; target=&quot;_blank&quot;&gt;Sintel&lt;/a&gt; - the 3rd Blender Open Movie (code-named Durian)&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;slogan&quot;&gt;The concept of open movie-making has spread all around the world thanks to the capabilities offered by Blender, a leading open source 3D creation suite.&lt;/div&gt;
+&lt;div class=&quot;threecoloumns justify&quot;&gt;
+Under this model, an audience member can quickly become a kind of co-creator if they so desire. When applied to video creation, this style of production is quite complex. Nevertheless, it has lead a niche community of artists and programmers to examine Blender’s high-end capabilities. The result of this is that the software has been developed to the point where it can be used by professionals in a (film industry) pipeline environment. Alongside a greater use of open licensing, crowd-funding has  grown a lot in the last three years. Networks like &lt;a href=&quot;http://www.kickstarter.com/&quot; target=&quot;_blank&quot;&gt;kickstarter.com&lt;/a&gt; have helped many open movie projects start out on the road to production, but this doesn’t guarantee that projects can now survive on crowd-funding revenue streams alone. Using the blender institute open movies as a primary example, an open movie will usually share everything related to it’s production in the form of source files (accessible and editable to anyone using the same open source software used by the production crew). It is not uncommon for the crew to also share detailed information relating to their production methods, so that others (outside of their project)  can attempt to recreate the final work. A great mention needs to be done about Tube Open Movie, the first independent open movie, which was started in 2010, and launched with a kickstarter campaign. &lt;a href=&quot;http://urchn.org/post/mediagoblin&quot; target=&quot;_blank&quot;&gt;This&lt;/a&gt; is the presentation of the Tube Open Movie at the Blender conference in 2012. Whilst you can see the crew talk about their methods here, the most interesting part is actually on their blog, where they share issues, techniques and tricks that can be useful for overcoming the difficulties involved with open source software.
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;640&quot; src=&quot;http://www.kickstarter.com/projects/1331941187/the-tube-open-movie/widget/video.html&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;div class=&quot;caption&quot;&gt;In April 2012 the Tube Open Movie project managed to raise 40.000$ in their &lt;a href=&quot;http://www.kickstarter.com/projects/1331941187/the-tube-open-movie/comments&quot; target=&quot;_blank&quot;&gt;kickstarter campaign&lt;/a&gt; - almost 200% of their funding goal.&lt;/div&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;http://www.youtube.com/embed/R6MlUcmOul8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;http://www.youtube.com/embed/Ip8ezVI5SME&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;div class=&quot;threecoloumns justify&quot;&gt;
+There is an interesting post in their blog, called “Steers of Teal” (an inversion of the title belonging to the most recent Blender Institute open movie), with production files accessible &lt;a href=&quot;http://urchn.org/post/steers-of-teal-production-files-released&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. The open movie projects have resulted in great advances and further development of these tools. As an example, the Blender Foundation’s ‘Tears of Steel’ resulted in powerful new video editing and compositing capabilities inside blender. As Blender is open source, anyone is free to download the software and access this functionality.
+&lt;/div&gt;
+&lt;img src=&quot;http://axiom.apertus.org/img/axiom-render-4.png&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/sites/default/files/b_prix_01.jpg&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;threecoloumns justify&quot;&gt;
+For a situationist such as myself, a system of quotes and detournement that allow everyone to use the creative material for growing ideas in many direction is the most fertile terrain I could find to play my creative role. 3D creation is not the only area receiving a greater interest in openness. The apertus° community, working mostly in the field of cinema &amp;amp; video production, are now focusing on open hardware design. It is their intention to spread knowledge and support an ecosystem for open filmmaking, building high quality open hardware designed from the outset to be configurable and hackable by the end user. In 2012, the apertus° project received an award of Distinction in the Digital Communities category of Ars Electronica. From their progress, we can see that there is a very real desire for open tools developing right around world. The most recent news update from the Apertus community describes an evolving situation in their ambitions, with an interest in strengthening their community via the creation of a &lt;a href=&quot;/node/199&quot;&gt;news portal for open filmmaking&lt;/a&gt;.
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;div class=&quot;caption&quot;&gt;Executive Editor: &lt;a href=&quot;/user/16&quot;&gt;Sasha Cohen&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;learn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 25 Jun 2013 18:22:05 +0000</pubDate>
+ <dc:creator>Sasha</dc:creator>
+ <guid isPermaLink="false">236 at </guid>
+  </item>
+  <item>
+    <title>Small Cinemas vs. the DCI</title>
+    <link>/small-cinemas-vs-the-DCI-article</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;DCI - the big boys&lt;/h2&gt;
+&lt;p class=&quot;twocoloumns justify&quot;&gt;The Digital Cinema Initiatives (DCI) is formed by the six major US film studios: Metro-Goldwyn-Mayer, Paramount Pictures, Sony Pictures Entertainment, 20th Century Fox, Universal Studios, The Walt Disney Company and Warner Bros. and defines international standards for digital film formats and projection. On the bright side these guys define what aspect ratios, resolutions, frame rates,etc. are defined by standards named &quot;2K&quot; or &quot;4K&quot; when they are shown in cinema or how many frames per second films shot in HFR really have. But there is also the dark secretive side that is happening behind closed doors and here the DCI comes up with plans for anti-piracy measures and how to enforce tight control over cinemas.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/cinema.jpg&quot; /&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;Swimming with the big boys or going down&lt;/h2&gt;
+&lt;p class=&quot;twocoloumns justify&quot;&gt;The DCI norm defines that equipment for digital cinemas only receives the DCI certification if it contains a so called &lt;i&gt;Secure Media Box&lt;/i&gt;. This is basically a DRM blackbox that implants a backdoor into the cinemas video server hardware and is meant to communicate with the DCIs servers and controls which films the cinema is permitted to shown at what times. The DCI is pushing for worldwide adoption of digital projection mainly to save money and increase influence. A 35mm film copy costs around 600€. For a single film to premiere at the same time globally you have to create many thousand copies. So switching to delivering hard-drives instead makes sense economically. There are also plans to transfer the films to cinemas over the Internet to further reduce costs, but so far these methods have not been implemented on a bigger scale. The &lt;i&gt;Secure Media Box&lt;/i&gt; also contains the keys required to play encrypted DCPs in a vault that is inaccessible from the outside. Every projection system has its own signature so keys are signed for each device individually. The play-out in this &lt;i&gt;Secure Media Box&lt;/i&gt; can also implement a so called &quot;forensic marking&quot; - a watermark that is invisible during projection. On pirated films created with camcorders the watermark can be made visible again to identify the cinema and time/date of the recording (more information in the &lt;a href=&quot;/sites/default/files/77347edcine_white_bookint_1005404.pdf&quot;&gt;European Digital Cinema Security White Book&lt;/a&gt; from page 139 on). In addition to this imposed dictatorship, DCI certified equipment is also more expensive (60,000 - 90,000 € for 10 years) compared to 35mm projection equipment (15,000 - 25,000 € for 30 years). Most cinemas who convert to digital in Europe receive government benefits to cover the high investments. The smaller independent cinemas with a stronger focus on Arthouse films often do not meet the funding criterias. With 35mm film copy distribution being phased out already those independent cinemas now face bankruptcy and many already had to close.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/cinema2.jpg&quot; /&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;The DCI Rebellion&lt;/h2&gt;
+&lt;p class=&quot;twocoloumns justify&quot;&gt;Not everyone is accepting the DCI dictatorship and so smaller cinema owners, developers and enthusiasts from all around the world have teamed up to come up with an alternative system based on open source technology. We talked to some of them to gain insight into what&#039;s really going on and what they are doing to save their cinemas.&lt;/p&gt;
+
+&lt;h3&gt;Interview: Nicolas Bertrand - France&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;What is the situation in France?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;In France public funding supports around 900 theaters with 56,000,000 € for covering the digital projection transitions. A big part of the other countries have no public funding at all. The actual funding is rather complex and runs through a bank and a 3rd party integrator (who retains ownership of the digital cinema system until is completely payed off). In the US this integrator is owned by the DCI as well - in Europe that isn&#039;t the case most of the time. But for cinema owners the problem is not only funding. Its a paradigm change - now they suddenly need to deal with software and hardware providers and its often difficult for them to decide what they really need (like 3D, HFR). For instance Globecast/Smartjog offers to encrypt the DCP for satellite transmission for an extra charge, but the DCPs are actually already encrypted. So independent cinemas become dependent on equipment and service providers and they cannot easily appropriate the technology due to cost and high security levels. &lt;/i&gt;&lt;/p&gt;
+
+
+
+&lt;h3&gt;Photo Credits&lt;/h3&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/m4tik/4687192723/sizes/o/in/photostream/&quot;&gt;http://www.flickr.com/photos/m4tik/4687192723/sizes/o/in/photostream/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/phill_dvsn/4505703550/sizes/o/in/photostream/&quot;&gt;http://www.flickr.com/photos/phill_dvsn/4505703550/sizes/o/in/photostream/&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;learn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 04 Sep 2013 13:13:18 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">240 at </guid>
+  </item>
+  <item>
+    <title>The Beginning of Independent Film - In Edison we &quot;don&#039;t&quot; trust</title>
+    <link>/independent-filmmaking-history-article</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Making some searches I found this gold nugget in Wikipedia about Independent film history.&lt;/p&gt;
+
+
+&lt;h2&gt;In Edison we don&#039;t trust&lt;/h2&gt;
+
+&lt;p&gt;The beginning of film making history began when some movie makers and producers decided to run away from East Coast and from Thomas Edison who was reigning without wanting to share his technology and newly created industry. They decided to go west to a little village named Hollywood to make some movies in little studios.&lt;/p&gt;
+
+&lt;p&gt;They were escaping from the Motion Picture Patents Company (MPPC) or &quot;Edison Trust&quot; that was a cartel that held a monopoly on film production and distribution comprising all the major film companies of the time (Edison, Biograph, Vitagraph, Essanay, Selig, Lubin, Kalem, American Star, American Pathé), the leading distributor (George Kleine) and the biggest supplier of raw film, Eastman Kodak. (there was a patent on Raw film!!!)&lt;/p&gt;
+
+&lt;a href=&quot;/sites/default/files/6374299897_5de9c3745e_b.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/6374299897_5de9c3745e_b.jpg&quot; alt=&quot;Kinetoscope&quot; title=&quot;Kinetoscope&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;The Kinetoscope marketed by Thomas Edison (even though it was invented by Thomas Armat and C. Francis Jenkins - Astoria: Museum of the Moving Image. Image Credits: Creative Commons License by Wally Gobetz (flickr.com).&lt;/div&gt;
+
+
+&lt;p&gt;&lt;em&gt;&quot;At the time of the formation of the MPPC, Thomas Edison owned most of the major patents relating to motion pictures, including that for raw film. The MPPC vigorously enforced its patents, constantly bringing suits and receiving injunctions against independent filmmakers. Because of this, a number of filmmakers responded by building their own cameras and moving their operations to Hollywood, California, where the distance from Edison&#039;s home base of New Jersey made it more difficult for the MPPC to enforce its patents. The Edison Trust was soon ended by two decisions of the Supreme Court of the United States: one in 1912, which canceled the patent on raw film, and a second in 1915, which cancelled all MPPC patents. Though these decisions succeeded at legalizing independent film, they would do little to remedy the de facto ban on small productions; the independent filmmakers who had fled to Southern California during the enforcement of the trust had already laid the groundwork for the studio system of classical Hollywood cinema.&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;a href=&quot;/sites/default/files/8094110877_149ed2fcb5_o.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/8094110877_149ed2fcb5_o.jpg&quot; alt=&quot;Thomas Edison&quot; title=&quot;Thomas Edison&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;Thomas Edison. Image Credits: Creative Commons License by the Boston Public Library.&lt;/div&gt;
+
+
+&lt;p&gt;Of course &quot;The Hollywood oligopoly replaced the Edison monopoly&quot; later and then it&#039;s another story of fights and lawsuits but that&#039;s a topic for an article in the future ;-).&lt;/p&gt;
+
+&lt;p&gt;a number of filmmakers responded by building their own cameras and moved west to a little village named Hollywood.&lt;/p&gt;
+
+&lt;p&gt;What is interesting is that the technology used during these times has also evolved being smaller and simpler than before and facilitating the birth of independent filmmakers and producer BUT (generally) applying the same rules as big production companies (the movie industry is not a watertight compartment and some majors are also putting money today in &quot;not-so-independant&quot; companies. Remember the quote saying that if you see a movie producer jumping out from the last floor of his building, just follow him because there is surely some money to earn :D&lt;/p&gt;
+
+&lt;p&gt;The road of producing movies is made of some revolutionary cycle (the creations of studios, the addition of sound to movies, color film, etc...), revolutionary advances of the technology and revolutionary ways to come up with new ways to conceive and achieve a movie (the French nouvelle vague, the Italian neorealism, the new Hollywood, the web, movies financed by fans) and we can see that it&#039;s a whole that can not be separated.&lt;/p&gt;
+
+&lt;h2&gt;Technology and independent films today&lt;/h2&gt;
+
+&lt;a href=&quot;/sites/default/files/6560258827_0370c7404d_b.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/6560258827_0370c7404d_b.jpg&quot; alt=&quot;Hollywood&quot; title=&quot;Hollywood&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;Image Credits: Creative Commons License by romain-novarina (flickr.com).&lt;/div&gt;
+
+&lt;p&gt;he independent film scene&#039;s development in the 1990s and 2000s has been stimulated by a range of factors, including the development of affordable digital cinematography cameras that can rival 35 mm film quality and easy-to-use computer editing software. Until digital alternatives became available, the cost of professional film equipment and stock was a major obstacle to independent filmmakers who wanted to make their own films. In 2002, the cost of 35 mm film stock went up 23%, according to Variety. With the advent of consumer camcorders in 1985, and more importantly, the arrival of digital video in the early 1990s lowered the technology barrier to movie production. The personal computer and non-linear editing system have dramatically reduced costs of post-production, while technologies such as DVD, Blu-ray Disc and online video services have simplified distribution. Even 3-D technology is available to low-budget, independent filmmakers now.&lt;/p&gt;
+
+&lt;a href=&quot;/sites/default/files/3377259391_b7e8e01c48_b.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/3377259391_b7e8e01c48_b.jpg&quot; alt=&quot;Hollywood&quot; title=&quot;Hollywood&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;Image Credits: Creative Commons License by ricardodiaz11 (flickr.com).&lt;/div&gt;
+
+&lt;p&gt;With new technology, such as the Arri Alexa, RED Epic, and the many new DSLRs, independent films can create footage that looks like 35mm film without the same high cost. These cameras also perform well in low light situations. In 2008 Canon released the first DSLR camera that could shoot full HD video, the Canon EOS 5D Mark II. With the creation of the 5D Mark II, and subsequent DSLRs capable of video, independent filmmakers have the ability to shoot 1080p video at 24fps, which is considered the standard for &#039;film&#039; Also these DSLRs allow for a greater control over depth of field, great low light capabilities, and a large variety of exchangeable lenses — things which independent filmmakers have been longing for for years.&lt;/p&gt;
+
+&lt;a href=&quot;/sites/default/files/4407050524_d692461db5_b.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/4407050524_d692461db5_b.jpg&quot; alt=&quot;Hollywood&quot; title=&quot;Hollywood&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;caption&quot; style=&quot;text-align:center&quot;&gt;Image Credits: Creative Commons License by lakelandlocal (flickr.com).&lt;/div&gt;
+
+&lt;p&gt;In addition to new digital cameras, independent film makers are benefiting from the new editing software. Instead of needing a post-house to do the editing, independent film makers can now use a personal computer and cheap editing software to edit their films. These new technologies allow independent film makers to create films that are comparable to high-budget films.&quot;&lt;/p&gt;
+
+
+&lt;p&gt;Well they do not talk about apertus°, Linux and Open source tools but well:D&lt;/p&gt;
+
+&lt;p&gt;By the way: apertus° is working on a collaborative documentary film about open source in hollywood&#039;s film production landscape called: &quot;Hollywood loves Open Source&quot;.&lt;/p&gt;
+
+&lt;p&gt;Closing words are from director &lt;b&gt;Francis Ford Coppola&lt;/b&gt;, an advocate of new technologies like non-linear editing and digital cameras who in 2007 said that:&lt;/p&gt;
+
+
+&quot;cinema is escaping being controlled by the financier, and that&#039;s a wonderful thing. You don&#039;t have to go hat-in-hand to some film distributor and say, &#039;Please will you let me make a movie?&#039;&quot;
+&lt;h2&gt;&lt;span class=&quot;slogan&quot;&gt;Just make it!&lt;/span&gt;&lt;/h2&gt;
+
+
+&lt;h3&gt;Related Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Independent_film&quot; target=&quot;_blank&quot;&gt;Source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://99u.com/articles/6973/francis-ford-coppola-on-risk-money-craft-collaboration&quot; target=&quot;_blank&quot;&gt;Francis Ford Coppola On Risk, Money, Craft &amp;amp; Collaboration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;American Independent Cinema: An Introduction by Yannis Tzioumakis - Publisher: Edinburgh University Press&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;article class=&quot;node-481 node node-page en clearfix&quot; about=&quot;/node/481&quot; typeof=&quot;foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Further Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Newsletter&quot; target=&quot;blank&quot;&gt;Newsletter editions&lt;/a&gt; - Previous, HTML newsletters archived. &lt;a href=&quot;http://newsletter.apertus.org/lists/?p=subscribe&amp;amp;id=1&quot; target=&quot;blank&quot;&gt;Subscribe here&lt;/a&gt; to receive yours via email.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Prices&quot; target=&quot;blank&quot;&gt;Shop links, prices and availability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Camera_Structure&quot; target=&quot;blank&quot;&gt;Camera structure&lt;/a&gt; - A complete guide to the camera&#039;s specifications and components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Beta/Video&quot; target=&quot;blank&quot;&gt;AXIOM Beta sample videos&lt;/a&gt; - Uncompressed .mov .mp4 and .dng files in 720p, 1080p and 4K are archived here if you&#039;d like to play with them. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEBkXWJgDUvEysgwMsNOzTuwJB0vSRnamxlx6PK4vM671L1g/viewform&quot; target=&quot;blank&quot;&gt;Pre-order notification&lt;/a&gt; - Receive an email when a more user-friendly version of the camera is ready to ship. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema&quot; target=&quot;blank&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Join_the_Team&quot; target=&quot;blank&quot;&gt;Join the Team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/Social&quot; target=&quot;blank&quot;&gt;Social accounts&lt;/a&gt; - Links to YouTube etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.apertus.org/index.php/AXIOM_Project_Background&quot; target=&quot;blank&quot;&gt;AXIOM Project Background&lt;/a&gt; - How apertus° and the AXIOM project got started. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h2&gt;Want to participate?&lt;/h2&gt;
+&lt;p&gt;Want to provide feedback or suggest improvements? Want to try your own approach and need help?&lt;/p&gt;
+
+&lt;p&gt;Get in touch via &lt;a class=&quot;btn&quot; href=&quot;/irc-chat&quot; target=&quot;blank&quot;&gt;IRC&lt;/a&gt; or &lt;a class=&quot;btn&quot; href=&quot;/contact&quot; target=&quot;blank&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;learn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 04 Apr 2013 23:16:10 +0000</pubDate>
+ <dc:creator>Alban</dc:creator>
+ <guid isPermaLink="false">556 at </guid>
+  </item>
+  <item>
+    <title>The Deadest Pixel</title>
+    <link>/dead-pixel-story-article-june-2015</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;twocoloumns justify&quot;&gt;
+You watched our Team Talk Videos and and had a dead pixel in full screen, now you want to throw away your LCD screen? Hold your liquid crystal horses! We left the dreaded dot in the upper left corner of our video on purpose! Why? We talked about the story of the dead pixel in our update videos in &lt;a href=&quot;http://youtu.be/x7ZJxeNtjQw?t=28m38s&quot;&gt;Team Talk Vol 2&lt;/a&gt;.  But we want to dedicate and entire article to it now - as a reminder of the importance of Open Source technology.
+&lt;/p&gt;
+&lt;br /&gt;
+
+&lt;img src=&quot;/sites/default/files/teamtalk2-chapter9.jpg&quot; style=&quot;width:880px&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;p class=&quot;twocoloumns justify&quot;&gt;
+You see, we could have removed the dot from every single shot pretty easily, but we decided to leave it in. We purchased a small camera to document certain aspects of the AXIOM project live. Our choice fell on a small cinema camera. So small, some might say it fits in your pocket and with a push of the &lt;i&gt;magic&lt;/i&gt; button, you are able to capture breathtakingly beautiful cinematic images. The camera was acquired second hand and had no warranty anymore. Still we decided to contact our beloved competitor and ask how they compensate for dead pixels on the sensor. Some background: Every image sensor has dead or hot pixels, it&#039;s a natural byproduct of the manufacturing process and as long as the amount of dead pixels doesn&#039;t reach a certain threshold its not a problem. The missing values are simple replaced by neighboring pixel values during image processing within the camera so as long as the camera knows which pixels are to be compensated no ugly dots are able to ruin your precious footage. But instead of helping us add the dead pixel to the ones to be compensated in-camera the tech support team advised us to buy a new camera. What a waste.
+&lt;/p&gt;
+&lt;div class=&quot;slogan&quot;&gt;
+This will never happen on any AXIOM camera!
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;learn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 03 Jun 2015 11:00:04 +0000</pubDate>
+ <dc:creator>getzi</dc:creator>
+ <guid isPermaLink="false">392 at </guid>
+  </item>
+  <item>
+    <title>The Final Step - Digital Cinema Projection - DCPs created with OpenDCP</title>
+    <link>/opendcp-article</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;The last step onto the Big Screen&lt;/h2&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+	&lt;div class=&quot;span4&quot;&gt;
+&lt;a href=&quot;/sites/default/files/field/image/cinema_projection.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/field/image/cinema_projection.jpg&quot; title=&quot;digital projection&quot; alt=&quot;digital projection&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;span8&quot;&gt;
+&lt;p&gt;The very last step for post production of a digital cinema project is typically packing the finished film into a DCI compliant DCP (&lt;a href=&quot;http://en.wikipedia.org/wiki/Digital_Cinema_Package&quot; target=&quot;_blank&quot;&gt; Wikipedia: Digital Cinema Package&lt;/a&gt;). This is THE standard playback format for video servers and is used in pretty much every digital projection cinema nowadays. While this last step sounds rather straightforward and simple, people regularly turn pale when they learn that post houses charge several thousands of dollars (USD) and upwards for creating a DCP of a clip that is not even a minute long. For a long time there has been no way to produce a DCP without paying that ransom. For some time. anxious rebels tried to find alternatives with their own tools and work-flows but the result was mostly a solution for those very few who participated in the efforts themselves and could operate the command-line tools (like &lt;a href=&quot;https://github.com/wolfgangw/digital_cinema_tools_distribution/wiki/How-to-use-Digital-Cinema-Tools&quot; target=&quot;_blank&quot;&gt;Digital Cinema Tools&lt;/a&gt;).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Open DCP&lt;/h2&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+	&lt;div class=&quot;span4&quot;&gt;
+		&lt;a href=&quot;/sites/default/files/jpeg2000.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img title=&quot;OpenDCP&quot; alt=&quot;OpenDCP&quot; src=&quot;/sites/default/files/jpeg2000.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;span8&quot;&gt;
+&lt;p&gt;But then there was light at the end of the Tunnel: Terrence Meiczinger&#039;s efforts with OpenDCP finally made DCP creation accessible, affordable and understandable for everyone. His free open source software suite with intuitive GUI does everything that commercial software - costing several thousand dollars - can do:
+&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;JPEG2000 encoding from 8/12/16-bit images&lt;/li&gt;
+&lt;li&gt;2K/4K&lt;/li&gt;
+&lt;li&gt;support all major framerates (up to HFR)&lt;/li&gt;
+&lt;li&gt;Full 3D support&lt;/li&gt;
+&lt;li&gt;Cross Platform (Linux, Mac and Windows Builds available)&lt;/li&gt;
+&lt;li&gt;Open Source (GNU GPL v3)&lt;/li&gt;
+&lt;/ul&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;p&gt;We talked to &lt;b&gt;Terrence Meiczinger&lt;/b&gt; to learn more:&lt;/p&gt;
+
+&lt;h3&gt;How/When/Why did you decide on starting the OpenDCP development?&lt;/h3&gt;
+&lt;p&gt;I&#039;m a part owner of a movie theater and in late 2009 we completed our switch to digital. One of things we wanted to do is make a custom digital policy trailer to explain our 3D system. I started doing some investigation in early 2010 and at the time there were very few options for creating DCPs. Dolby and DVS Clipster were $20,000US. EasyDCP and DoRemi&#039;s CineAsset were somewhere around $5000US, all well beyond our budget. I then looked at having a post house do the conversion and they wanted upwards of $2000US to convert our 30 second policy trailer. At this point, I decided to look into doing it myself and after some google searches came across &lt;a href=&quot;http://www.reduser.net/forum/showthread.php?33118-Digital-Cinema-Package&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;this thread&lt;/a&gt; - which started it all.&lt;/p&gt;
+&lt;p&gt;A lot of people had been working to piece together a workflow using a bunch of different tools. After some trial and error I was able to get a working DCP, but it was far from an easy task. One of the weak links was the opencinematools program to create the XML files for the DCPs. It was great start, but the developer had moved onto other projects and development was halted, leaving bugs and missing features. So, one weekend in September 2010, I decided to tackle writing a new application to take care of the XML creation and a day or two later, the first version of OpenDCP was born. A few weeks later, I added a tool to simplify the jpeg2000 encoding and after that the ability to create the MXF files. It kept growing from there.&lt;/p&gt;
+
+&lt;h3&gt;Can you tell us a bit about your background and dayjob?&lt;/h3&gt;
+&lt;p&gt;I have a degree in Electrical Engineering and worked for various companies in the telecommunications field. I primarily focus on developing test automation tools. Currently, I&#039;m at a small startup developing the next generation of networking equipment for datacenters.&lt;/p&gt;
+
+&lt;h3&gt;What are your future plans for OpenDCP? Or do you have plans for a different project?&lt;/h3&gt;
+&lt;p&gt;OpenDCP was originally based on what I personally needed and development was driven by that. Now, with more users, I try and focus on things other people find useful. I don&#039;t have an official release schedule of features or anything, many times things I do are whatever interests me at the moment. I don&#039;t get a lot of time to work on OpenDCP, maybe a couple hours a month, so much of the time I try and work on things I can get completed in those short bursts. Some things I would like to get to are adding multi-reel support in the GUI, increase encoding performance, and implement a new GUI design to simplify the process while still retaining the flexibility of the current design. I don&#039;t have any plans to add more projects to my plate. :-) &lt;/p&gt;
+
+&lt;h3&gt;Are there other people involved in OpenDCP development or is it just you?&lt;/h3&gt;
+&lt;p&gt;It&#039;s pretty much just myself doing development. Occasionally, somebody will submit a code fix. I get some help in other ways, like testing, suggestions, clarification of specifications, and many people have done a nice job of creating guides on how to create DCPs &lt;/p&gt;
+
+&lt;h3&gt;Has the OpenDCP release ever gotten you a paid job or project that you wouldn&#039;t have gotten without OpenDCP?&lt;/h3&gt;
+&lt;p&gt;I&#039;ve had several offers from people and companies looking to develop digital cinema related projects, but I haven&#039;t ever taken on any of them. However, I&#039;ve been able to use many of the things I&#039;ve learned while developing OpenDCP in my day jobs. For example, early on in OpenDCP, I decided to try CMake to handle the cross-platform compiling. At one of the companies I worked, they did a lot of cross-compiling of their product and they had these convoluted hand created makefiles and compilation directives. It was an absolute nightmare and it was many thousands of lines of code. I decided it was a perfect fit for CMake and in a few weeks we had everything ported over. We ended up with something like 80 lines of CMake code and reduced nearly all of the compilation directives.&lt;/p&gt;
+
+&lt;a href=&quot;/sites/default/files/dvdomatic.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/dvdomatic.jpg&quot; /&gt;&lt;/a&gt;
+&lt;h2&gt;Derivates&lt;/h2&gt;
+&lt;p&gt;Another DCP creation software that is derived from parts of the OpenDCP codebase is &lt;a href=&quot;http://carlh.net/software/dvdomatic/&quot;&gt;DVD-o-matic&lt;/a&gt;. The software&#039;s title puts emphasis on the ability to import VOB (directly from DVD) or M2TS files (from Blu-Ray) to create DCPs.&lt;/p&gt;
+
+&lt;h2&gt;Using OpenDCP&lt;/h2&gt;
+&lt;p&gt;Danny Lacey created an in depth video taking you through every step from converting your film with OpenDCP to viewing it in an actual digital cinema projection theatre.&lt;/p&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;http://www.youtube.com/embed/5DKYY3DuDA8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.opendcp.org/&quot; target=&quot;_blank&quot;&gt;OpenDCP Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://code.google.com/p/opendcp/&quot; target=&quot;_blank&quot;&gt;OpenDCP source code on Google Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pages/OpenDCP/122849571125347&quot; target=&quot;_blank&quot;&gt;OpenDCP page on facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://carlh.net/software/dvdomatic/&quot;&gt;DVD-o-matic Website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;learn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 14 Mar 2013 14:52:10 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">187 at </guid>
+  </item>
+  <item>
+    <title>Why all the secrecy with Axiom?</title>
+    <link>/en/node/161</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;i&gt;apertus° is an open project with free people collaborating so why all the secrecy? Why not open all the discussion and details about Axiom and let everyone participate like it is common for open source projects? The following paragraph tries to explain our reasons.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;apertus° is currently at a major turning point. We are attempting to transform apertus° from a purely community driven project (with lots of great people but unfortunately no responsibility) into a commercial entity that emerges from within the community (and takes the responsibility). Axiom is putting the project on a cliffs edge. Now we reached a point where we can only advance forward with Axiom with money - a lot of money. And that makes things complicated. So we considered the best way to raise this money: a pre-sale crowd funding campaign. That way the money comes from a community of filmmakers which seemed like a natural connection for apertus° instead of trying to find traditional investors who are - blatantly said - just interested in profits of a growing start up. Crowd funding is a very risky endeavor though, with all-or-nothing (&lt;a href=&quot;http://en.wikipedia.org/wiki/Street_Performer_Protocol&quot;&gt;Street Performer Protocol&lt;/a&gt;) campaigns we either raise the required amount of money or the project is dead. A rather scary prospect since we devoted years of our time into this project already. So we analyzed what makes a crowd funding campaign successful: beside obviously having to pitch an awesome product and a sophisticated plan in a convincing way it all comes down to getting broad media attention at the right time leading to a big amount of people visiting the crowd funding website and eventually backing the project financially.
+&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;/sites/default/files/apertus_stats.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;When we announced Axiom during &lt;a href=&quot;http://lsm.apertus.org&quot;&gt;LSM&lt;/a&gt; this summer and some blogs and news websites picked up the story our website traffic suddenly spiked at around 1400% of our normal average. The following days we received quite an amount of emails. 
+So we figured the crowd funding campaign will need a big bang start. We will need to surprise (or better &quot;shock&quot;) the whole world as intensely as possible. But you can only surprise with something that nobody knows yet. So that&#039;s reason number 1.&lt;/p&gt;
+&lt;p&gt;Reason number 2 is that we want to avoid public confusion: People scanning over technical discussions can quickly get a wrong impression of what was being considered, what was decided or dropped and what was working and implemented and maybe dropped a bit later on again. And the apertus° community consists of all kinds of different people with different occupations and from different parts of the world. After all we are all humans and have different views on things. We already saw big blogs/news portals publishing wrong information or rumors as a result from this. Of course we could attempt to spot and correct errors constantly, but would that really help reduce confusion or just create even more of it?&lt;br /&gt;
+So we decided to rather prepare all facts properly and in a way they can not be misunderstood - nicely illustrated and clearly explained reducing potential confusion to a minimum.&lt;/p&gt;
+&lt;p&gt;This is the path we chose and now we stick to it.&lt;/p&gt;
+
+&lt;h2&gt;Developer Program&lt;/h2&gt;
+&lt;p&gt;But to be honest we hate that we cannot publicly discuss Axiom with everyone. We are so eager to learn what you think of it and give you a chance to interact and participate in its creation.&lt;/p&gt;
+&lt;p&gt;So we are considering an Axiom developer program at the moment giving developers early access.&lt;/p&gt;
+&lt;p&gt;We will post more details about the program soon.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;learn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-audience field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/28&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Intermediate&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 02 Mar 2013 17:06:54 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">180 at </guid>
+  </item>
+  <item>
+    <title>Why Kickstarter moved closer to Axiom and at the same time further away</title>
+    <link>/en/node/163</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Kickstarter crosses the ocean&lt;/h2&gt;
+&lt;p&gt;When we drafted our plan for how to create Axiom, it was clear that we want to use the biggest, most successful and most widely known crowd funding platform on the planet for our crowd funding campaign: &lt;a href=&quot;http://www.kickstarter.com/&quot;&gt;Kickstarter&lt;/a&gt;. But since Kickstarter was limited to US projects we had to consider doing some workarounds like asking a US 
+based apertus° member to run the campaign in his name. But research showed that this could have ended quite badly with this particular helpful member having to pay many thousand dollars of income tax for the Kickstarter raised money in worst case.
+Now Kickstarter announced they will keep their promise to &lt;a href=&quot;http://www.kickstarter.com/blog/kickstarter-in-the-uk&quot;&gt;expand into the UK this fall&lt;/a&gt; and for the first time touch European soil. 
+Since apertus° is a mostly European based project that brings Kickstarter a little bit closer to us again. We have UK based members and even setting up a UK based legal entity would be possible with some efforts.&lt;/p&gt;
+
+&lt;a href=&quot;/sites/default/files/kickstarter_innovation_tower01.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/kickstarter_innovation_tower01.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;h2&gt;How the crowd funding bubble and innovation tower collapsed&lt;/h2&gt;
+&lt;p&gt;For some time analysts had increasing worries that a hugely funded Kickstarter backed project would fail terribly or even have their initiators flee the country with the backers money in their suitcases. 
+Such a case would lead to backers loosing trust in crowd funding based systems and stopping to back projects in masses ultimately threatening the existance of crowd funding as a whole. 
+So Kickstarter decided to release some air from that bubble with a very severe move: In a blog post entitled &lt;a href=&quot;http://www.kickstarter.com/blog/kickstarter-is-not-a-store&quot;&gt;&quot;Kickstarter Is Not a Store&quot;&lt;/a&gt; they 
+announced they would ban &quot;product renderings&quot; from hardware projects. Now this does not seem like a big restriction does it? It does! Any project seeking to create something that does not exist yet uses pre-visualization tools
+to create images of what they want to create. The most successful Kickstarter projects: 
+&lt;a href=&quot;http://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console&quot;&gt;Ouya&lt;/a&gt;, 
+&lt;a href=&quot;http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android&quot;&gt;Pebble&lt;/a&gt;, 
+&lt;a href=&quot;http://www.kickstarter.com/projects/1523379957/oculus-rift-step-into-the-game&quot;&gt;Oculus Rift&lt;/a&gt; among many others would not have seen the light of the day if these restrictions were introduced earlier. We put a lot of effort into planning Axiom and creating 3D models of it to give you a chance to see it as if it was a finished product that you could hold in hands. But did we try to trick you into believing it was already an existing physical camera?
+Kickstarter tried to address the angry mob that formed after this announcement by stating that they do want technical drawings, CAD designs, sketches featured in projects just no photo-realistic 
+renders that would trick customers into thinking the product actually exists yet. 
+So why didn&#039;t Kickstarter adopt a policy that renderings must be labeled as such. After all project that show very sophisticated 3D rendering are more likely to have a solid plan for developing their product than a project showing a pencil drawing.&lt;/p&gt;
+
+&lt;p&gt;So Kickstarter should have entitled their blog post &quot;Kickstarter Is Not a Store - Yet (but we are working on it)&quot;. Some time ago crowd funding was equal to user-driven-innovation far away from big corporate enterprises. 
+The will to reinvent the world bottom up is a fundamental part of the apertus° ideology. But in our view the Kickstarter bubble has already burst. Hardware innovation will most likely have to find other platforms to continue existing. What will remain on Kickstarter are hardware projects that are already finished and just seek a way to sell their goods in higher quantities. Hail the Kickstore.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;a href=&quot;http://attentionmeter.com/?d1=kickstarter.com&amp;amp;d2=indiegogo.com&quot;&gt;&lt;img src=&quot;/sites/default/files/kickstarter_indiegogo01.jpg&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&quot;http://www.indiegogo.com/&quot;&gt;Indiegogo&lt;/a&gt;, the second largest global crowd funding platform that does not impose any restrictions or rules on project creators whatsoever has seen extreme growth in the last year.
+In terms of traffic and website users Indiegogo is now as large as Kickstarter was one year ago. Many people connect Indiegogo immediately with their flexible funding approach (where projects do not need to reach a certain goal to get the money) 
+but in fact projects can decide if they want to use an &lt;a href=&quot;http://www.indiegogo.com/how-pricing-works-on-indiegogo&quot;&gt;all-or-nothing (Fixed Funding) or Flexible Funding approach&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Kickstarter itself states that projects should not expect to get traffic just because they run on Kickstarter. The biggest drive has to come from the projects itself. So does the platform matter after all?
+ 
+&lt;/p&gt;&lt;h2&gt;The Path for apertus° Axiom?&lt;/h2&gt;
+&lt;p&gt;The truth is we do not know where to go. Maybe we will figure out a way to use Kickstarter, maybe they will change their policy again, maybe they will finally respond to our support emails with a real answer rather 
+than an automated reply with the link to the Kickstarter FAQ. Maybe we will use Indiegogo. The only certain thing is that our campaign will use the all-or-nothing system and that we wont stop just because life isn&#039;t always easy. :-)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;learn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 02 Mar 2013 16:58:22 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">179 at </guid>
+  </item>
+  </channel>
+</rss>

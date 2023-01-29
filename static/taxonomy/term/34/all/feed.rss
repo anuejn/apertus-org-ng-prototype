@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="/taxonomy/term/34/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Completed</title>
+    <link>/taxonomy/term/34/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="/taxonomy/term/34/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>AXIOM Alpha</title>
+    <link>/alpha_prototype</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/project/alpha-prototype-5d_0.jpg&quot; title=&quot;AXIOM Alpha&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-167-e2A_9qT8T28&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/project/alpha-prototype-5d_0.jpg?itok=wSuy06G7&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;  
+&lt;div class=&quot;breadcrumbsubnav&quot;&gt;
+  &lt;a class=&quot;chevron-a&quot; href=&quot;/views/alpha-news&quot;&gt;
+    &lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt; 
+  &lt;/a&gt;
+  &lt;a class=&quot;chevron-a&quot; href=&quot;/axiom-alpha-tech-specs&quot;&gt;
+    &lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt; 
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-alpha&quot; class=&quot;selected breadsubnav-item&quot;&gt;
+    Overview
+  &lt;/a&gt;
+
+  &lt;a href=&quot;/axiom-alpha-tech-specs&quot; class=&quot;breadsubnav-item&quot;&gt;
+    Tech Specs
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-alpha-imagesensor&quot; class=&quot;breadsubnav-item&quot;&gt;
+    Image Sensor
+  &lt;/a&gt;
+  &lt;a href=&quot;/views/alpha-videos&quot; class=&quot;breadsubnav-item&quot;&gt;
+    Videos
+  &lt;/a&gt;
+  &lt;a href=&quot;/views/alpha-news&quot; class=&quot;breadsubnav-item&quot;&gt;
+    Related Articles
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/Alpha03_1.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img src=&quot;/sites/default/files/Alpha03_1.jpg&quot; alt=&quot;AXIOM alpha rigged up&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+	&lt;div class=&quot;span8&quot;&gt;
+
+		&lt;p class=&quot;twocoloumns justify&quot;&gt;
+			&lt;i&gt;apertus° AXIOM Alpha&lt;/i&gt; is the name of a proof-of-concept prototype that is more than just a lab experiment. It is already meeting the demands of some real world applications like being used for film production to some degree. We are certain though that while it will not be the answer to all our prayers and not the goal of all our dreams yet it can be seen as the first step to embark on a journey to that place where we want to be one day. The main motto with AXIOM Alpha is &quot;Keep it simple!&quot;. The features are reduced to the absolute essential core. No luxuries. So for example we chose the lens mount that is the simplest and easiest to implement from a technical point of view but allows manual aperture control: The Nikon F-mount. Any future AXIOM model will have a wider selection of lens mount options.
+		&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;span4&quot;&gt;
+		&lt;a href=&quot;/sites/default/files/alpha-image-prcessing-pipeline-v05.png&quot; rel=&quot;lightbox&quot; class=&quot;colorbox&quot;&gt;&lt;img style=&quot;padding-bottom:20px; width: 450px; padding-top:20px&quot; src=&quot;/sites/default/files/alpha-image-prcessing-pipeline-v05.png&quot; alt=&quot;signal stage of AXIOM alpha, F-mount lens, super35 sensor, processing with 12v and usb2 input, onward to fullHD scaling to HDMI-out&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/34&quot;&gt;Completed&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 20 Feb 2013 17:49:16 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">167 at </guid>
+  </item>
+  <item>
+    <title>AXIOM Gamma</title>
+    <link>/en/node/152</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden default-file&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/default_images/apertus-default-logo_2.jpg&quot; title=&quot;AXIOM Gamma&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-94-e2A_9qT8T28&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/default_images/apertus-default-logo_2.jpg?itok=xBGA32s-&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;breadcrumbsubnav&quot;&gt;
+  &lt;a class=&quot;chevron-a&quot; href=&quot;/views/gamma-news&quot;&gt;
+    &lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt; 
+  &lt;/a&gt;
+  &lt;a class=&quot;chevron-a&quot; href=&quot;/axiom-gamma-tech-specs&quot;&gt;
+    &lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt; 
+  &lt;/a&gt;
+  &lt;a href=&quot;/views/gamma-news&quot; class=&quot;breadsubnav-item&quot;&gt;
+    Latest News
+  &lt;/a&gt;
+
+  &lt;a href=&quot;/axiom-gamma&quot; class=&quot;selected breadsubnav-item&quot;&gt;
+    Overview
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-gamma-tech-specs&quot; class=&quot;breadsubnav-item&quot;&gt;
+    Tech Specs
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-gamma-modularity&quot; class=&quot;breadsubnav-item&quot;&gt;
+    Modularity
+  &lt;/a&gt;
+  &lt;a href=&quot;/axiom-gamma-partners&quot; class=&quot;breadsubnav-item&quot;&gt;
+    Partners
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;img src=&quot;/sites/default/files/project/AXIOM_GAMMA-website-banner-01.jpg&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;div class=&quot;row-fluid&quot;&gt;
+  &lt;div class=&quot;span6&quot;&gt;
+    &lt;h2&gt;About&lt;/h2&gt;
+      &lt;p align=&quot;justify&quot;&gt;
+      The AXIOM Gamma is the AXIOM Betas big brother and packs more performance and modularity in a larger and more expensive package. The AXIOM Gamma is planned to utilize a fully modular hardware concept (the &quot;Open Module Concept&quot;) that allows swapping of all essential camera components like changing PCIe cards in your PC. But since this modularity also includes the enclosure there is no single way the AXIOM Gamma can look like, below you see different stages and design studies that show different concepts.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;span6 &quot;&gt;
+    &lt;h2&gt;Funding&lt;/h2&gt;
+      &lt;p align=&quot;justify&quot;&gt;The AXIOM development &lt;a href=&quot;/axiom-gamma-partners&quot;&gt;consortium&lt;/a&gt; has received a Horizon2020 ICT grant from the European Union funding the entire development up to a &quot;pilot&quot; production of the AXIOM Gamma. This grant runs from spring 2015 to summer 2016. The AXIOM Gamma is currently estimated to be available to end user in Q4 2016 at the earliest. We might run a crowd funding campaign to cover starting production around that time.
+&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--&lt;img src=&quot;/sites/default/files/axiom-website-banner-2013-V4_0.jpg&quot; alt=&quot;apertus° AXIOM&quot; title=&quot;apertus° AXIOM&quot;&gt;&lt;br /&gt;!--&gt;
+&lt;br /&gt;
+&lt;article class=&quot;node-373 node node-article en node-hidden clearfix&quot; about=&quot;/node/373&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;a href=&quot;http://www.af-inventions.de/en&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/sites/default/files/1-afinventions_0.png&quot; alt=&quot;af inventions logo&quot; title=&quot;af inventions logo&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://dieangewandte.at/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/sites/default/files/02-angewandteartscience.png&quot; alt=&quot;dieangewandte logo&quot; title=&quot;dieangewandte logo&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://antmicro.com/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/sites/default/files/3-antmicro_0.png&quot; alt=&quot;antmicro logo&quot; title=&quot;antmicro logo&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/sites/default/files/4-apertus_0.png&quot; alt=&quot;apertus logo&quot; title=&quot;apertus logo&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://www.denz-deniz.com&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/sites/default/files/5-denz_0.png&quot; alt=&quot;denz logo&quot; title=&quot;denz logo&quot; /&gt;&lt;/a&gt;
+&lt;img style=&quot;float:left; padding-right:15px;&quot; src=&quot;https://eu.axiom-camera.com/assets/images/partners/EU.png&quot; width=&quot;100px&quot; /&gt;
+&lt;div class=&quot;caption&quot; style=&quot;margin-top:7px;&quot;&gt;
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 645560.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 07 Aug 2012 19:41:12 +0000</pubDate>
+ <dc:creator>philippe</dc:creator>
+ <guid isPermaLink="false">94 at </guid>
+  </item>
+  <item>
+    <title>Cinelerra based Workflow</title>
+    <link>/node/160</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;
+The research presented here aims at establishing a digital cinema editing workflow made exclusively under Linux machines. The steps described below start at the point in which we already have a sequence, or many sequences, of digital negative (DNG) files. In the diagram, they correspond to the stages immediately after the third grey box. Everything described from there on has been tested and is documented here. 
+ &lt;br /&gt;&lt;br /&gt;Even though it is the aim of this documentation to gather information related to the whole process – which includes capturing and monitoring the recording, transferring the data to the computer, playing the JP4 files and finally converting them to DNG sequences - the previous parts are can be retraced by putting together information that can be found at Apertus’ site or that is spread throughout Elphel’s Wiki. We can consider that, therefore, as a second step towards our objective.
+ &lt;br /&gt;&lt;br /&gt;This research first tests which format is best to be used as proxy. It takes into consideration that editors will need to do many test renders during editing and that a fine photographic adjustment of the images will be done only at the final stages (those proxies, then, must be easily replaceable), in which the workflow is divided between the photographer, the audio technician and the final retouches by the editor.
+ &lt;br /&gt;&lt;br /&gt;Finally, this page is currently also mantained at the &lt;a href=&quot;http://szaszak.wordpress.com/linux/&quot; target=&quot;_blank&quot;&gt;author&#039;s blog&lt;/a&gt;, where it should be translated to Portuguese.&lt;br /&gt;
+&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;a href=&quot;http://szaszak.files.wordpress.com/2010/10/gpl_workflow.png&quot; target=&quot;_blank&quot;&gt;
+		&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/gpl_workflow.png&quot; alt=&quot;&quot; title=&quot;workflow&quot; /&gt;
+	&lt;/a&gt;
+&lt;/p&gt;
+&lt;h2&gt;Preparations for editing&lt;/h2&gt;
+&lt;h3&gt;Files to be used as proxies&lt;/h3&gt;
+&lt;p&gt;We could render the DNG files generated by &lt;a href=&quot;http://wiki.elphel.com/index.php?title=Movie2dng&quot; target=&quot;_blank&quot;&gt;movie2dng&lt;/a&gt; using &lt;a href=&quot;http://ufraw.sourceforge.net/&quot; target=&quot;_blank&quot;&gt;ufraw-batch&lt;/a&gt;. At this moment of the workflow, we are interested in generating proxies files - that is, light files that have three characteristics: they have to be able to used for editing; they have to present a good preview of the final video without compromising too much of the quality; and they have to register fast rendering times in our NLE (be it &lt;em&gt;Cinelerra&lt;/em&gt; or &lt;em&gt;Blender&lt;/em&gt;) so that we can do preview-renders of our edited video quickly and leave high CPU demands for post-editing.
+&lt;br /&gt;&lt;br /&gt;To achieve so, however, we have to test which type of file would best fit into all these requirements. Would the best format be TIF of JPG? For the test below, I used 4 sample DNGs generated by Elphel downloaded from Apertus Project&#039;s website. I copied them and pasted them into the same folder so that I would have 360 frames - or a good preview of what to expect from 15 seconds of a CIMAX recording (2592x1120) at 24fps. Note that the frames I used were even larger than the CIMAX format.
+&lt;/p&gt;
+&lt;h3&gt;Test 1&lt;/h3&gt;
+Process 360 DNG frames (occupying 3,4GB of disk space), or 15s of RAW video footage
+&lt;br /&gt;&lt;br /&gt;Command line used:
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;ufraw-batch --conf=apertus_teste.ufraw *.dng&lt;/code&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/table_test1.jpg&quot; title=&quot;table_test1&quot; /&gt;
+&lt;/p&gt;
+&lt;em&gt;Results:&lt;/em&gt; For what we can see from this first test, four formats have the potential to be used as proxies: &lt;em&gt;JPEG 50% PPG&lt;/em&gt;, &lt;em&gt;JPEG 50% Bilinear&lt;/em&gt;, &lt;em&gt;TIF Uncompressed Bilinear&lt;/em&gt; and &lt;em&gt;TIF Uncompressed PPG&lt;/em&gt;. The first two have the advantage of occupying very low disk space if compared to the third and fourth ones (44MB~ x 5,1GB). They can be a very interesting solution, especially for larger projects. But if we consider the workflow as a whole, the TIF formats should make out life easier at post-production. The problem with this test is that the command line above processes only one image at a time. With some research, I came across a very simple software called &lt;a href=&quot;http://www.gnu.org/software/parallel/&quot; target=&quot;_blank&quot;&gt;parallel&lt;/a&gt;, that can be easily compiled (don&#039;t use the pre-packaged versions, they are too old) and will help us to use all the cores of a multi-threaded processor, in my case, the Intel i7 860. Dividing the work between the cores of the processor dramatically reduced the time in my tests - generally, it took him half the time to complete the task; in some cases, it took him one third of the time.
+&lt;br /&gt;
+&lt;h3&gt;Test 2&lt;/h3&gt;
+Process 360 DNG frames (occupying 3,4GB of disk space), or 15s of RAW video footage - &lt;em&gt;using multi-threaded processing&lt;/em&gt;
+&lt;br /&gt;&lt;br /&gt;Command line used:
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;ls *.dng | parallel -j +0 ufraw-batch --conf=apertus02.ufraw --silent {}&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/table_test2.jpg&quot; title=&quot;table_test2&quot; /&gt;
+&lt;/p&gt;
+&lt;em&gt;Results:&lt;/em&gt; As it turns out, it seems that the best formats to be used as proxy are the &lt;em&gt;JPEG 50% Bilinear&lt;/em&gt; and the &lt;em&gt;JPEG 50% PPG&lt;/em&gt;. The observation about disk space occupied by both (see previous results) is still pertinent and reducing further the quality of the JPEGs (below 50%) may even fasten the overall conversion, but that must be tested in the timeline of the NLE, during a real editing project. The JPEG formats also benefited most from the multi-threaded task. 
+&lt;br /&gt;
+&lt;h3&gt;Diskspace worries&lt;/h3&gt;
+For the &lt;em&gt;TIF formats&lt;/em&gt;, we must consider the enormous amount of disk space occupied by them. The table below is just a rough preview. I take into consideration only the DNGs converted by movie2dng and their processed TIF counterparts, by ufraw-batch. You should have in mind that there are still the original Elphel&#039;s JP4 files, (many) Cinelerra preview renders you should make along the way, the temporary files you should use as the project goes through the whole process, original audio, audio for post-production and the final movie render.
+&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/disk_space.jpg&quot; title=&quot;disk_space&quot; width=&quot;600&quot; height=&quot;93&quot; /&gt;
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;h3&gt;
+	&lt;/h3&gt;&lt;p style=&quot;text-align:left;&quot;&gt;
+		&lt;span style=&quot;color:#ff9900;&quot;&gt;
+			&lt;a name=&quot;rendering_proxies&quot; id=&quot;rendering_proxies&quot;&gt; 
+			Rendering tests using the proxy files
+			&lt;/a&gt;
+		&lt;/span&gt;
+	&lt;/p&gt;
+
+It is now time to check how these image sequences will behave in our NLE. My initial intent is to use &lt;em&gt;Cinelerra&lt;/em&gt; as editor and &lt;em&gt;Blender&lt;/em&gt; for effects, such as titles or post-production. So I imported the files generated by the tests above into a timeline, using CIMAX standard as reference (2592x1120 at 24fps). Note that for this test, I use only the video stream, since it&#039;s too soon to preview which will be the best workflow for audio.
+&lt;br /&gt;
+&lt;h3&gt;Test 3&lt;/h3&gt;
+Render 360 frames, or 15s of 2592x1120 video footage at 24fps from Cinelerra&#039;s Timeline
+&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/table_test3.jpg&quot; title=&quot;table_test3&quot; /&gt;
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;em&gt;Results:&lt;/em&gt; The &lt;em&gt;JPEG 50% Bilinear&lt;/em&gt; and &lt;em&gt;JPEG 50% PPG&lt;/em&gt; are the fastest, both rendering at similar speeds. The difference in time when rendering these formats with the &lt;em&gt;JPEG Photo&lt;/em&gt; codec at 50% or 100% is almost irrelevant, but the space in disk occupied by them should weight in favour of JPEG Photo at 50%&#039;s side. It is worthy noticing the behaviour of JPEG brought to Cinelerra using AHD. It takes about 4x to render when compared to its cousins - if rendered with JPEG Photo at 100%, it also takes way more space in disk. Working with TIF here serves for us to have an idea of the necessary time to render the &lt;em&gt;final&lt;/em&gt; version of the video, that should be brought here using &lt;em&gt;TIF Uncompressed AHD&lt;/em&gt; and rendered either as a TIF Uncompressed Sequence (to be encoded by MEncoder for standard outputs) or as JPEG Photo at 100% with PCM audio in a MOV container.
+&lt;br /&gt;
+&lt;h3&gt;Overall conclusion from the tests&lt;/h3&gt;
+There are two main conclusions to be drawn from these tests. The first one is that the &lt;em&gt;JPEG 50% Bilinear&lt;/em&gt; and &lt;em&gt;JPEG 50% PPG&lt;/em&gt; are the best ones to be used as proxies. They are the fastest to be processed, both during ufraw&#039;s batch conversion and cinelerra&#039;s render: they take 7x real-time to be processed at the first step and only 2x real-time at the second one. They also occupy minimum space in disk, and can be easily previewed by MPlayer at anytime during the workflow. 
+&lt;br /&gt;&lt;br /&gt;But there is a major drawback in using the JPEG formats. If we combine them with img2list, we&#039;ll have a hard time replacing the JPEGs at Cinelerra&#039;s timeline with the final TIFs due to how img2list and Cinelerra work together (Cinelerra&#039;s XML don&#039;t point to the images, but to img2list&#039;s generated list, which can&#039;t be changed without harming Cinelerra&#039;s interpretation of it). That should leave you two options. You can invert the workflow and do the photographic treatment before editing. That can be done for some movies; for others, it will be unthinkable. Or, more reasonably, you could replace the JPEG image blocks manually in Cinelerra&#039;s timeline for the TIF ones. That can be less work than it seems, but you&#039;d have to have the very final cut of the movie at the moment of replacement, since further editing - even a minor tweak - will become quite hard. In other words, you&#039;d be fronzen there.
+&lt;br /&gt;&lt;br /&gt;The second conclusion is that, even though the &lt;em&gt;TIF Uncompressed PPG&lt;/em&gt; and the &lt;em&gt;TIF Uncompressed Bilinear&lt;/em&gt; will occupy way more space than the JPEGs and will take longer to be processed both at ufraw&#039;s batch and cinelerra&#039;s render phases, they may have advantages if you consider the workflow as a whole. Firstly, they will take 12x real-time at the first step and 7x real-time at render, should you combine them with JPEG Photo 50% for render previews. That is slow. However, that might be compensated at post-production. When you do the photographic treatment in UFRaw and generate new TIFs, you&#039;ll be able to simpy replace the TIFs you had used for the new ones in the folder. Cinelerra will read the alterings just fine, even though its XML points to the img2list&#039;s lists. The lists, in their turn, are already pointing to TIF files (this won&#039;t work for JPEG, though. You won&#039;t be able to use, for example, JPEG at 100% and replace the JPEG proxies at the folder - Cinelerra will break if you do that).
+&lt;br /&gt;&lt;br /&gt;This means that you will still have your image sequences behaving like movie blocks at the timeline, which is crucial. In case you must change that single frame that went unnoticed or change the duration or order of anything, that should be quite smooth and effortless. You will also lose MPlayer&#039;s ability of previewing a sequence of images as a file, which can be vey handy - but since the TIFs can be replaced at the folder and instantly read by Cinelerra, you might be able to check them directly at the timeline.
+&lt;br /&gt;&lt;br /&gt;In both cases, though, you will have to be very organized with your files and UFRaw&#039;s configuration files. Which way is best? Consider your project; consider the gear you have and judge for yourself.
+&lt;br /&gt;
+&lt;h2&gt;Editing&lt;/h2&gt;
+To edit the image sequences, we should use a tool called &lt;a href=&quot;http://www.malefico3d.org/blog-en/?page_id=224&quot; target=&quot;_blank&quot;&gt;img2list&lt;/a&gt;, developed by Claudio &#039;Malefico&#039;. If we simply import these frames into Cinelerra, they will be treated as single images by the software. Well, that&#039;s what they actually are, but img2list will help Cinelerra read the frames as a &#039;sequence of images&#039; (that is, a movie), which is exactly what we want to do. Now, they will behave exactly as movie blocks in the timeline. You will be able to split them, to stretch or shrink them exactly as if they were, for example, a DV file. As an aditional comment, img2list will work only if the image sequence is named in a certain pattern, which happens to be compatible with the pattern used by movie2dng.
+&lt;br /&gt;&lt;br /&gt;Editing in Cinelerra is quite well known and &lt;a href=&quot;http://cinelerra.org/docs.php&quot; target=&quot;_blank&quot;&gt;very well documented&lt;/a&gt;, so I will skip the introductory steps here. Rendering the video in Cinelerra to preview the final result should take into consideration the tests presented above, so you should probably want to render the video in a MOV container, using &lt;em&gt;JPEG Photo&lt;/em&gt; at 50% or 100% as codec settings.
+&lt;br /&gt;
+&lt;h2&gt;Post-production&lt;/h2&gt;
+Image treatment should be done using the original DNG files, for the simple reason that they are RAW. Both &lt;em&gt;Cinelerra&lt;/em&gt; and &lt;em&gt;Blender&lt;/em&gt; are able to open DNG files from cameras, such as Pentax&#039;s DNGs. But it seems that only Cinelerra will open Elphel&#039;s converted DNGs without having to recompile the software. To work with DNGs in Cinelerra will be extremely time consuming, though. Minor tweaks in colour or slightly altering contrast will take an enormously long time to be previewed, transforming a delicate process into nightmarish hell (that&#039;s the main reason why we transformed the original DNG into JPEG proxies in the first place).
+&lt;br /&gt;&lt;br /&gt;A reasonable option would be to make Blender read Elphel&#039;s DNG-converted files and use its &lt;a href=&quot;http://blenderunderground.com/2008/03/31/introduction-to-composite-nodes-part-1/&quot; target=&quot;_blank&quot;&gt;compositing nodes tool&lt;/a&gt; to do the colour correction. That has yet to be tested. Also, we would have to establish a communication between Cinelerra&#039;s EDL (a XML file) and Blender, so that we could import our EDL in Blender.
+&lt;br /&gt;&lt;br /&gt;&lt;em&gt;UFRaw&lt;/em&gt;, however, has the right tools and immediate preview. Its main problem is that it lacks the time-lapse factor (that is, you can only view a single, still, frame). That can arranged in terms, using &lt;em&gt;MPlayer&lt;/em&gt; to preview the processed sequence (see below), but it should present difficulties in scenes that have moving cameras or strong changes in contrast. The following will consider a workflow using UFRaw.
+&lt;br /&gt;&lt;br /&gt;First of all, we need to know which DNG files we&#039;ll be working with. It would make no sense to go through DNGs that belong to recorded sequences we didn&#039;t use in the final editing cut. The information we need is inside Cinelerra&#039;s EDL, which is a XML file. By going through this file, you can know precisely which frames have to go through post-production. An example of the section we need inside Cinelerra&#039;s XML is (click on image to enlarge):
+&lt;br /&gt;&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;a href=&quot;http://szaszak.files.wordpress.com/2010/10/cinelerra_xml.png&quot; target=&quot;_blank&quot;&gt;
+		&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/cinelerra_xml.png?w=1024&quot; alt=&quot;&quot; title=&quot;cinelerra_xml&quot; width=&quot;450&quot; height=&quot;63&quot; class=&quot;aligncenter size-small wp-image-840&quot; /&gt;
+	&lt;/a&gt;
+&lt;/p&gt;
+&lt;br /&gt;&lt;br /&gt;This excerpt show two very small blocks of video in a single track, called &quot;Video 1&quot;. The first one uses 7 frames, there is a 3-frames space between the blocks and then there is a 6-frames video block. Visually, it would look like this in your timeline:
+&lt;br /&gt;&lt;br /&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+	&lt;img src=&quot;http://szaszak.files.wordpress.com/2010/10/cinelerra_timeline_img2list.jpg&quot; alt=&quot;&quot; title=&quot;cinelerra_timeline_img2list&quot; width=&quot;500&quot; height=&quot;145&quot; class=&quot;aligncenter size-full wp-image-841&quot; /&gt;
+&lt;/p&gt;
+&lt;br /&gt;&lt;br /&gt;Now we must translate that information into human-readable terms. It must be simple to understand. We can &lt;em&gt;make a script&lt;/em&gt; using the long command line below. For file &quot;cinelerra.xml&quot; as input, it will give us a file called &quot;List_of_DNGs_for_post_production.txt&quot;, which is a text file you can print or read in the computer, the way you feel more comfortable with. The line:
+&lt;br /&gt;&lt;br /&gt;
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;grep &quot;EDIT STARTSOURCE=&quot; cinelerra_outra_pasta.xml | cut -d&quot;&amp;gt;&quot; -f1,2 | cut -d&quot;=&quot; -f1,2,4,5 &amp;gt; temp_readableXML.txt &amp;amp;&amp;amp; sed -ie &#039;s/&amp;lt;EDIT STARTSOURCE=&quot;/- frames /g&#039; temp_readableXML.txt &amp;amp;&amp;amp; sed -ie &#039;s/&quot; CHANNEL=&quot;/ to /g&#039; temp_readableXML.txt &amp;amp;&amp;amp; sed -ie &#039;s/&quot;&amp;gt;&amp;lt;FILE SRC=/ File: /g&#039; temp_readableXML.txt &amp;amp;&amp;amp; grep File temp_readableXML.txt &amp;gt; temp_readableXML2.txt &amp;amp;&amp;amp; gawk &#039;{ $8 = $5 + $3; $9 = $3+1 ;print $6,$7,$1,$2,$9,$4,$8 }&#039; temp_readableXML2.txt &amp;gt; List_of_DNGs_for_post_production.txt &amp;amp;&amp;amp; rm temp_readableXML*.txt temp_readableXML.txte&lt;/code&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;&lt;br /&gt;Will give us this more reassuring output in the text file:
+&lt;br /&gt;&lt;br /&gt;
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;File: &quot;/home/livre/Desktop/testes_e_exemplos_elphel/dngs/img2list/lista&quot; - frames 1 to 7&lt;br /&gt;
+			File: &quot;/home/livre/Desktop/testes_e_exemplos_elphel/dngs/img2list/lista&quot; - frames 8 to 13&lt;/code&gt;&lt;br /&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;Now it is clear which DNGs we should use. In this case, I&#039;d just go through my file &quot;lista&quot; (which is a img2list file I had created previously for editing) and see which DNGs I&#039;ll have to reprocess in &lt;em&gt;UFRaw&lt;/em&gt; and &lt;em&gt;ufraw-batch&lt;/em&gt;. The easiest way to do that would be to copy those files to a temporary folder, treat them and check them out directly at Cinelerra&#039;s timeline or with MPlayer:
+&lt;br /&gt;&lt;br /&gt;Command line used:
+&lt;br /&gt;&lt;br /&gt;
+&lt;table border=&quot;0&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCFF&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;code&gt;mplayer &quot;mf://*.jpg&quot; -mf fps=24:type=jpg -fs -vf dsize=2592:1120&lt;/code&gt;&lt;br /&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;When you&#039;re satisfied with the results, copy the resulting files (probably &lt;em&gt;Uncompressed AHD TIFs&lt;/em&gt;) and paste them into the original DNG&#039;s folder. If you have used Uncompressed TIFs as proxies, you will be prompted to replace the TIFs in that folder. Do it, replace them. And you&#039;re done. 
+&lt;br /&gt;&lt;br /&gt;Now, when you open your Cinelerra project again (that cinelerra.xml file, in our example), the program will read your new TIFs instead of the old ones and you&#039;re ready to mix the other final sources (audio and lettering) for a final render.
+&lt;br /&gt;&lt;br /&gt;Lettering and other effects should be done in Blender. Depending on Blender&#039;s behaviour, we can use proxies to do it and export the result using an alpha channel, so that it can be brought into Cinelerra&#039;s timeline for the final render. In case Blender is able to read our original files, we can do the final render inside it. In both scenarios, a Render Farm can be built to help the CPU efforts.
+&lt;br /&gt;
+&lt;h3&gt;Research continues...&lt;/h3&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;learn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-audience field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/28&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Intermediate&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/taxonomy/term/29&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Expert&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-status field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/34&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Completed&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 17 Feb 2013 20:56:19 +0000</pubDate>
+ <dc:creator>flavio</dc:creator>
+ <guid isPermaLink="false">160 at </guid>
+  </item>
+  <item>
+    <title>DNG Converter</title>
+    <link>/dng_converter</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden default-file&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/default_images/apertus-default-logo_2.jpg&quot; title=&quot;DNG Converter&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-102-e2A_9qT8T28&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/default_images/apertus-default-logo_2.jpg?itok=xBGA32s-&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+&lt;div class=&quot;field-items&quot;&gt;
+&lt;div class=&quot;field-item even&quot; property=&quot;encoded&quot;&gt;
+&lt;p class=&quot;alert alert-info&quot;&gt;Notice: This page is about the &lt;a href=&quot;http://www3.elphel.com/nc353&quot; target=&quot;_blank&quot;&gt;Elphel®  Model 353 camera&lt;/a&gt; NOT about &lt;a href=&quot;/axiom&quot;&gt;apertus° Axiom&lt;/a&gt;! Elphel® is a registered trademark of &lt;a href=&quot;http://www3.elphel.com/&quot; target=&quot;_blank&quot;&gt;Elphel, Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The DNG Converter is a command-line tool to convert raw footage from the Elphel internal JP4 RAW codec into a DNG sequence. The software is part of the JP4Tools collection.&lt;/p&gt;
+&lt;p&gt;An older version is available for Linux on launchpad as binary package: &lt;a href=&quot;http://wiki.elphel.com/index.php?title=Movie2dng&quot;&gt;http://wiki.elphel.com/index.php?title=Movie2dng&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Source Code&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/apertus-open-source-cinema/jp4tools&quot; target=&quot;_blank&quot;&gt;Code on GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Related Project(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/elphelcamera&quot;&gt;Elphel Camera&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Sep 2012 13:07:12 +0000</pubDate>
+ <dc:creator>philippe</dc:creator>
+ <guid isPermaLink="false">102 at </guid>
+  </item>
+  <item>
+    <title>Lenses</title>
+    <link>/en/lens</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div class=&quot;alert alert-error&quot;&gt;This page and the information on it is related ONLY to the Elphel camera, NOT Axiom.&lt;/div&gt;
+&lt;p&gt;Elphel 353 cameras have a C/CS mount which is basically just a female thread (nominally 1 inch/25 mm in diameter, with 32 threads per inch). The flange focal distance is 0.6900 in/17.526 mm for a C-mount.&lt;/p&gt;
+&lt;p&gt;C-Mount (The letter &quot;C&quot; is said to stand for &quot;cine&quot;) is common for 16mm lenses as well as machine vision, automation and specialised television applications. Which has lead to a very wide range of lenses to choose from: &lt;a href=&quot;http://us.c-mount.passion.pro/&quot;&gt;List of almost 300 C/CS-mount lenses with sample images&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/C_mount_lens_Pentax_12mm_f1.2.jpg&quot; width=&quot;570px&quot; /&gt;
+Image from &lt;a href=&quot;http://en.wikipedia.org/wiki/File:C_mount_lens_Pentax_12mm_f1.2.jpg&quot;&gt;wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;CS-Mount&lt;/h2&gt;
+&lt;p&gt;CS-mount has a flange focal distance of 0.4931 in/12.526 mm and is otherwise identical to the C-mount. Elphel 353 cameras have a CS-mount by default and a spacer ring (that ships with every Elphel kit) can be used to connect all C-mount lenses to the camera as well.&lt;/p&gt;
+&lt;h2&gt;Field of View&lt;/h2&gt;
+&lt;p&gt;The following illustration shows the viewing angle for a set of different focal lengths at Full HD resolution (with approximate 35mm equivalents &amp;amp; Horizontal FOV).&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;colorbox&quot; href=&quot;/sites/default/files/Elphel353_LensAngles.png&quot;&gt;&lt;img width=&quot;570&quot; src=&quot;/sites/default/files/Elphel353_LensAngles.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The following illustrations show a person standing 1 meter from the lens at different focal lengths&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M1_3.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 1.3mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M1_7.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 1.7mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M3.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 3mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M5.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 5mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M8.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 8mm | Subject Distance: 1m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sites/default/files/1M12_5.jpg&quot; /&gt;&lt;br /&gt;Focal Length: 12.5mm | Subject Distance: 1m&lt;/p&gt;
+&lt;h2&gt;SLR lenses&lt;/h2&gt;
+&lt;p&gt;Because of the rather small sensor area (1/2.5&quot;) compared to 35mm film in current Elphel 353 cameras the crop factor for using lenses that were designed for SLR cameras is rather high (~6x) which makes these lenses currently unfit for our applications. Future bigger sensor front ends might change this situation with Elphel 373 (see &lt;a href=&quot;/roadmap&quot;&gt;Roadmap&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;Optical design for certain sensor area&lt;/h2&gt;
+&lt;p&gt;The mount name alone does not specify if a particular lens is able to cover a certain sensor area. So this technical specifications of a lens needs some extra attention. Typical optical designs are (1/4&quot;, 1/3&quot;, 1/2&quot;, 1/2.5&quot; (Elphel 353), 2/3&quot;, 1&quot;, 4/3&quot;, APS-C, etc.). If your lens is designed for a smaller sensor than the size of the sensor you are using it is possible that the image circle will not be able to cover the whole sensor area leading to vignetting or in extreme cases even complete darkness on the outer sensor regions. In general the quality of a lens (sharpness, amount of distortion, aberration, etc.) degrades with the distance from the image centre, so it is in general better to use only the inner regions of the image circle for the sensor area. Most lenses already account for this and cover a bigger area than the sensor size they are designed for. The opposite case is that the lens is made for a bigger image circle than the dimensions of your sensor, normally this is less of a problem but in extreme cases it could result in stray light which is reflected by parts of the lens mount or sensor PCB reaching the sensor.&lt;/p&gt;
+&lt;h2&gt;B4 Lenses&lt;/h2&gt;
+&lt;p&gt;Lenses designed for 3-chip-cameras like Canon or Fujinon (B4-Mount) broadcast optics have a higher flange focal distance because the light has to pass a prism before hitting the 3 sensors and a so called &quot;lateral &lt;a href=&quot;http://en.wikipedia.org/wiki/Dispersion_%28optics%29&quot;&gt;dispersion&lt;/a&gt;&quot; (to offset colour separation caused by &lt;a href=&quot;http://en.wikipedia.org/wiki/Dichroic_filter&quot;&gt;dichroic&lt;/a&gt; prisms). This makes them incompatible with any single sensor camera. Though there are adapters (rather expensive, several thousand $) available that correct the colour convergence of broadcast lenses to work with single-chip designs.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/52&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;learn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-audience field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Audience:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/27&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Beginner&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/taxonomy/term/28&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Intermediate&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/29&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Expert&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-status field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Status:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/34&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Completed&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 02 Mar 2013 17:54:13 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">181 at </guid>
+  </item>
+  <item>
+    <title>PMOD Debug Board</title>
+    <link>/pmod-debug</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/project/PMOD-debug-top.png&quot; title=&quot;PMOD Debug Board&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-251-e2A_9qT8T28&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/project/PMOD-debug-top.png?itok=aJdjKtLe&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;About&lt;/h2&gt;
+&lt;p&gt;A debug PMOD interface for FPGA development (like for the Zedboard) featuring 64 LEDS that can conveniently be interfaced from inside the FPGA. With the FPGA executing all instructions concurrently, you cannot inspect actions in a step-by-step manner and debug FPGA operations like normal code with breakpoints. As such, this LED matrix is a convenient way to visualize all the processes performed inside the FPGA with your VHDL code. The LEDs are multiplexed (4 blocks: LO, RO, LU, RU with 16 LEDs each) with a 4:16 decoder.&lt;/p&gt;
+
+&lt;a href=&quot;/sites/default/files/project/PMOD-debug-top.png&quot; class=&quot;colorbox colorbox-insert-image&quot; rel=&quot;pcb1&quot;&gt;&lt;img class=&quot;thumbnail&quot; src=&quot;/sites/default/files/project/PMOD-debug-top.png&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt; &lt;div class=&quot;caption&quot;&gt;PCB Top Side.&lt;/div&gt;
+
+&lt;a href=&quot;/sites/default/files/PMOD-debug-bottom.png&quot; class=&quot;colorbox colorbox-insert-image&quot; rel=&quot;pcb1&quot;&gt;&lt;img class=&quot;thumbnail&quot; src=&quot;/sites/default/files/PMOD-debug-bottom.png&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt; &lt;div class=&quot;caption&quot;&gt;PCB Bottom Side.&lt;/div&gt;
+
+&lt;p&gt;&lt;b&gt;Size:&lt;/b&gt; 57.30 x 15.52 mm&lt;/p&gt;
+
+&lt;h2&gt;Source Files&lt;/h2&gt;
+
+&lt;p&gt;&lt;b&gt;Download:&lt;/b&gt; &lt;a href=&quot;/sites/default/files/PMOD%20Debug%20Board%20-%20Layout.zip&quot;&gt;PCB Board Layout Files&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;License:&lt;/b&gt; CERN Open Hardware License&lt;/p&gt;
+
+&lt;h2&gt;Order&lt;/h2&gt;
+
+&lt;p&gt;&lt;b&gt;Order (unpopulated PCB):&lt;/b&gt; &lt;a target=&quot;_blank&quot; href=&quot;http://oshpark.com/shared_projects/OhXV1RwT&quot;&gt;OSH Park PCB Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Order populated PCB:&lt;/b&gt; &lt;a target=&quot;_blank&quot; href=&quot;/contact&quot;&gt;Contact us&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;489&quot; src=&quot;//www.youtube.com/embed/AWdFSR6ddgc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;489&quot; src=&quot;//www.youtube.com/embed/jOR21CDXVJQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Example VHDL Code&lt;/h2&gt;
+&lt;pre&gt;
+----------------------------------------------------------------------------
+--  pmod_debug.vhd
+--	ZedBoard simple VHDL example
+--	Version 1.0
+--
+--  Copyright (C) 2013 H.Poetzl
+--
+--	This program is free software: you can redistribute it and/or
+--	modify it under the terms of the GNU General Public License
+--	as published by the Free Software Foundation, either version
+--	2 of the License, or (at your option) any later version.
+--
+----------------------------------------------------------------------------
+
+
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.numeric_std.ALL;
+
+entity pmod_debug is
+    port (
+	clk	: in std_logic;				-- base clock
+	--
+	value	: in std_logic_vector(63 downto 0);	-- &#039;1&#039; on &#039;0&#039; off
+	update	: in std_logic;				-- load
+	--
+	jxm	: out std_logic_vector(3 downto 0);	-- mask &#039;0&#039; = on
+	jxa	: out std_logic_vector(3 downto 0)	-- address (inv)
+    );
+
+end entity pmod_debug;
+
+architecture RTL of pmod_debug is
+begin
+
+    pmod_vis: process(clk, value, update)
+	variable vis_addr : natural range 0 to 15 := 15;
+	variable vis_cnt : natural range 0 to 15 := 0;
+	
+	variable mem : std_logic_vector(63 downto 0);
+    begin
+	if rising_edge(update) then
+	    mem := value;
+	end if;
+
+	if rising_edge(clk) then
+	    if vis_cnt = 0 then		-- setup address
+		jxa &lt;/pre&gt;
+
+&lt;h3&gt;Constraints file (*.xdc) containing port definitions for port JC and JD&lt;/h3&gt;
+&lt;pre&gt;
+set_property PACKAGE_PIN AB7 [get_ports {pmod_jcm[0]}]
+set_property PACKAGE_PIN AB6 [get_ports {pmod_jcm[1]}]
+set_property PACKAGE_PIN AA4 [get_ports {pmod_jcm[2]}]
+set_property PACKAGE_PIN Y4 [get_ports {pmod_jcm[3]}]
+
+set_property PACKAGE_PIN U4 [get_ports {pmod_jca[0]}]
+set_property PACKAGE_PIN T4 [get_ports {pmod_jca[1]}]
+set_property PACKAGE_PIN T6 [get_ports {pmod_jca[2]}]
+set_property PACKAGE_PIN R6 [get_ports {pmod_jca[3]}]
+
+set_property PACKAGE_PIN V7 [get_ports {pmod_jdm[0]}]
+set_property PACKAGE_PIN W7 [get_ports {pmod_jdm[1]}]
+set_property PACKAGE_PIN V4 [get_ports {pmod_jdm[2]}]
+set_property PACKAGE_PIN V5 [get_ports {pmod_jdm[3]}]
+
+set_property PACKAGE_PIN U5 [get_ports {pmod_jda[0]}]
+set_property PACKAGE_PIN U6 [get_ports {pmod_jda[1]}]
+set_property PACKAGE_PIN W5 [get_ports {pmod_jda[2]}]
+set_property PACKAGE_PIN W6 [get_ports {pmod_jda[3]}]
+
+set_property IOSTANDARD LVCMOS33 [get_ports pmod_*]
+&lt;/pre&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 05 Oct 2013 12:56:18 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">251 at </guid>
+  </item>
+  <item>
+    <title>Pong</title>
+    <link>/pong-project</link>
+    <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sites/default/files/project/paddle_schematics.jpg&quot; title=&quot;Pong&quot; class=&quot;colorbox&quot; data-colorbox-gallery=&quot;gallery-node-300-e2A_9qT8T28&quot; data-cbox-img-attrs=&quot;{&amp;quot;title&amp;quot;: &amp;quot;&amp;quot;, &amp;quot;alt&amp;quot;: &amp;quot;&amp;quot;}&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;/sites/default/files/styles/project-header/public/project/paddle_schematics.jpg?itok=AMlluCAL&quot; width=&quot;1170&quot; height=&quot;200&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;We implemented Pong as &lt;a href=&quot;/node/324&quot;&gt;April fools joke in 2014&lt;/a&gt; when we claimed AXIOM has been bought by a Japanese game console manufacturer and from now was to be turned into a cinematic retro gaming console.&lt;br /&gt;
+&lt;br /&gt;
+&lt;a class=&quot;colorbox&quot; rel=&quot;axiomgamingcamera&quot; href=&quot;/sites/default/files/axiom-gaming-camera-03.jpg&quot;&gt;&lt;img src=&quot;/sites/default/files/axiom-gaming-camera-03.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;a class=&quot;colorbox&quot; rel=&quot;axiomgamingcamera&quot; href=&quot;/sites/default/files/paddle-controller.jpg&quot;&gt;&lt;img src=&quot;/sites/default/files/paddle-controller.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img style=&quot;float:left; padding-right:15px&quot; src=&quot;https://raw.githubusercontent.com/apertus-open-source-cinema/alpha-hardware/master/Paddle/paddle_board.png&quot; width=&quot;300px&quot; /&gt;
+&lt;h2&gt;Paddle Controller Hardware&lt;/h2&gt;
+&lt;a href=&quot;https://github.com/apertus-open-source-cinema/alpha-hardware/tree/master/Paddle&quot; target=&quot;_blank&quot;&gt;Hardware files on GitHub&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/apertus-open-source-cinema/alpha-software/tree/pong&quot; target=&quot;_blank&quot;&gt;Firmware Image Tree for Pong on GitHub&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/apertus-open-source-cinema/alpha-software/blob/pong/pong/pong.c&quot; target=&quot;_blank&quot;&gt;Pong C Code on GitHub&lt;/a&gt;&lt;br /&gt;
+
+
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/project/paddle_schematics.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img style=&quot;float:left; padding-right:15px&quot; src=&quot;/sites/default/files/project/paddle_schematics.jpg&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://github.com/apertus-open-source-cinema/alpha-hardware/blob/master/Paddle/paddle_schematic.pdf?raw=true&quot; target=&quot;_blank&quot;&gt;Download Schematics PDF&lt;/a&gt;
+&lt;div style=&quot;clear:both&quot;&gt;&lt;/div&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;/sites/default/files/PaddleBox.jpg&quot; class=&quot;colorbox&quot;&gt;&lt;img style=&quot;float:left; padding-right:15px&quot; src=&quot;/sites/default/files/PaddleBox.jpg&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://github.com/apertus-open-source-cinema/alpha-hardware/raw/master/Paddle/PaddleBox.eps&quot; target=&quot;_blank&quot;&gt;Download Paddle Enclosure Box EPS for Laser Cutter&lt;/a&gt;
+&lt;div style=&quot;clear:both&quot;&gt;&lt;/div&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+&lt;hr /&gt;
+&lt;br /&gt;
+&lt;p style=&quot;padding-left:100px; padding-right:100px;&quot;&gt;&lt;i&gt;Let me start by saying we are very sorry in case we managed to scare you for a second (or maybe a bit longer) :) I hope we did not do any permanent damage to your opinion of us. We did not sell the company and we have no plans to do so. We were actually pretty sure our proposals were considered extreme enough that nobody would take them seriously. So let&#039;s summarize what we pulled off this year at the one time of the year when there are no rules (April 1st).&lt;/i&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h2&gt;On April 1st we posted the following announcement:&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;article class=&quot;node-298 node node-article en node-hidden clearfix&quot; about=&quot;/node/298&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;a class=&quot;colorbox&quot; rel=&quot;axiomgamingcamera&quot; href=&quot;/sites/default/files/axiom-gaming-camera-03.jpg&quot;&gt;&lt;img src=&quot;/sites/default/files/axiom-gaming-camera-03.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;The next step for apertus°&lt;/h2&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+With great pleasure, we hereby announce that the apertus° project has been acquired by a Japanese multinational consumer electronics company seeking to remain anonymous. With a new owner, the focus of the revolutionary Axiom camera will shift to a different target market: The Axiom is set to become the first cinematic camera featuring a crystal sharp 4K video game experience. Endless on-set gaming fun is now a guarantee.&lt;/p&gt;
+&lt;br /&gt;
+&lt;h1 style=&quot;color:#F15B40;&quot;&gt;The Best Camera to Play.&lt;/h1&gt;
+&lt;iframe width=&quot;870&quot; height=&quot;490&quot; src=&quot;//www.youtube.com/embed/sUaN9tx07jk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+The apertus° Axiom Gaming Camera opens the door to an incredible journey. Enter immersive new cinematic worlds fused with the best retro gaming experience since the eighties. Apertus° puts the casual gaming film-maker first, with an astounding launch line-up including 10 retro games already in development. Capture amazing top-tier footage whilst playing Pong 4K, soon to be followed with Pacman 6K*.&lt;br /&gt;
+&lt;br /&gt;
+* HFR and Stereo 3D gaming lineup will follow soon.
+&lt;/p&gt;
+
+&lt;br /&gt;
+&lt;h1&gt;Accessorize Yourself!&lt;/h1&gt;
+
+&lt;a class=&quot;colorbox&quot; rel=&quot;axiomgamingcamera&quot; href=&quot;/sites/default/files/paddle-controller.jpg&quot;&gt;&lt;img src=&quot;/sites/default/files/paddle-controller.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Every Axiom Gaming Camera will come with the custom developed Pong 4K Gaming Paddle, held in a specially designed Axiom Alpha enclosure. One Dimension. 4K Resolution. Infinite Fun! The Axiom Gaming Camera will also integrate with your favourite camera gear accessories for further interactive gaming control. The possibilities are endless: wireless follow focus game controller, ‘catch the clap’ controller, bad actor wipeout gaming pistol, etc. The Axiom Gaming Camera obeys your every command.&lt;/p&gt;
+&lt;br /&gt;
+&lt;h1 style=&quot;font-size:3.3em; padding-bottom:20px&quot;&gt;Declare Yourself Playful&lt;/h1&gt;
+&lt;a class=&quot;colorbox&quot; rel=&quot;axiomgamingcamera&quot; href=&quot;/sites/default/files/Pong-4K-Cardridge.png&quot;&gt;&lt;img style=&quot;float:left; padding-right:15px;&quot; width=&quot;300px&quot; src=&quot;/sites/default/files/Pong-4K-Cardridge.png&quot; /&gt;&lt;/a&gt;
+&lt;h2 style=&quot;color:#F15B40;&quot;&gt;Be a game changer!&lt;/h2&gt;
+&lt;p class=&quot;justify&quot;&gt;
+Swap games easily even whilst shooting 4K footage at up to 120 FPS. All this and more can be done in camera with our convenient solid state media gaming cartridge holding up to 3 games per unit*.&lt;br /&gt;
+&lt;br /&gt;
+* can also be used to store up to 1 hour of uncompressed 4K raw footage.&lt;/p&gt;
+&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;h1 style=&quot;font-size:3.3em; color:#F15B40; padding-bottom:10px&quot;&gt;Ready to Game?
+&lt;h2&gt;Built for the future with the best from the past.&lt;/h2&gt;
+&lt;/h1&gt;&lt;p class=&quot;justify twocoloumns&quot;&gt;
+Axiom means creativity without limits. Unforgettable gaming experiences featuring the greatest from the birth of gaming. You choose the experience. Alone on your own, or together with your crew. Nothing will hold you or your imagination back. Finally, spend all of that useless time waiting around on-set playing with something meaningful.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;On April 2nd we posted the followup statement (which was also fake of course):&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;article class=&quot;node-299 node node-article en node-hidden clearfix&quot; about=&quot;/node/299&quot; typeof=&quot;sioc:Item foaf:Document&quot;&gt;
+
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p style=&quot;padding-left:100px; padding-right:100px;&quot; class=&quot;justify&quot;&gt;&lt;i&gt;
+Dear readers, when I visited the apertus° website yesterday I first thought our webserver had been hacked, but I&#039;ve quickly found out who was responsible for these &lt;a href=&quot;/2014-axiom-becomes-gaming-console-article&quot;&gt;irresponsible lies regarding the Axiom project being converted into a gaming console&lt;/a&gt;. I can assure you that the company has not been sold to anyone. None of the BS is true and I have no idea why anybody would want to spread such blatant lies at this time of the year. I am the CEO of the apertus° company and have personally fired those who are responsible. I can assure you that this will never happen again.&lt;br /&gt;
+&lt;br /&gt;
+A friend of mine who speaks Japanese has looked at the video and explained to me what the guy is actually talking about. It&#039;s all a fake. He&#039;s explaining how to prepare Sushi and that he likes to eat Miso soup before doing so....&lt;br /&gt;
+&lt;br /&gt;
+&lt;iframe width=&quot;670&quot; height=&quot;377&quot; src=&quot;//www.youtube.com/embed/Fyz1x8GQUw8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;br /&gt;
+
+You journalists out there, please stop calling me. I have nothing else to say. I want to finish post production for &lt;a href=&quot;http://vanitas.picoux.be/&quot; target=&quot;blank&quot;&gt;my feature film&lt;/a&gt; and haven&#039;t been able to get any work done all day.&lt;br /&gt;
+&lt;br /&gt;
+&lt;iframe width=&quot;670&quot; height=&quot;377&quot; src=&quot;//www.youtube.com/embed/IHSjgcm9s_4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;padding-left:100px; padding-right:100px;&quot; class=&quot;justify&quot;&gt;&lt;i&gt;
+Oh, but for those wondering what all the fuss around Pong is about. This is actually true. The Axiom Alpha prototype can really run Pong as 4K real time overlay above the footage it is capturing. And &lt;a href=&quot;/pong-project&quot;&gt;the paddle&lt;/a&gt; also works... now that I can&#039;t get anything done in the editing room I might go play Pong for a bit,.... see you!&lt;/i&gt;&lt;/p&gt;&lt;br /&gt;
+
+&lt;div style=&quot;padding-left:600px;&quot;&gt;Your apertus° CEO,&lt;br /&gt;Oscar Spierenburg&lt;/div&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;p style=&quot;padding-left:100px; padding-right:100px;&quot;&gt;
+&lt;iframe width=&quot;670&quot; height=&quot;377&quot; src=&quot;//www.youtube.com/embed/zcC-p44c75k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+  
+  
+&lt;/article&gt;&lt;!-- /.node --&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;p&gt;We have seen posts in game development forums where people expressed interest in this new gaming console and we have seen posts from angry people asking how we could betray our loyal fans by selling out like this ... So did we manage to fool you? :P&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-project-type field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;hr&gt;&lt;div class=&quot;alert alert-info&quot;&gt;Project Type: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/39&quot;&gt;Hardware&lt;/a&gt;&lt;/span&gt;, &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/40&quot;&gt;Software&lt;/a&gt;&lt;/span&gt; Status: &lt;span class=&quot;badge badge-info&quot;&gt;&lt;a href=&quot;/taxonomy/term/34&quot;&gt;Completed&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-projects field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Related Project(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/alpha_prototype&quot;&gt;AXIOM Alpha&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 01 Apr 2014 14:02:34 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">300 at </guid>
+  </item>
+  </channel>
+</rss>
