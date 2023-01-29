@@ -1,0 +1,4 @@
+<div class="brutal-block" {% if color %} style="background: {{color}}" {% endif %}>
+    <img src="{{img}}" {% if img_style %} style="{{img_style}}" {% endif %} />
+    {{body | markdown(inline=true) | safe}}
+</div>

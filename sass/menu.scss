@@ -1,0 +1,115 @@
+.top-menu {
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.top-menu::-webkit-scrollbar {
+    display: none;
+}
+
+.menu-center {
+    display: flex;
+    min-width: 1400px;
+    margin: 0 auto;
+
+    width: fit-content;
+    position: relative;
+}
+
+.top-menu a {
+    background: steelblue;
+}
+
+.second-level a {
+    background: brown;
+}
+
+a.logo {
+    margin-right: 10px;
+    height: 50px;
+}
+
+.logo img {
+    padding: 5px;
+    width: 130px;
+}
+
+
+.top-menu a {
+    white-space: nowrap;
+    padding: 0 10px;
+    transition: filter 0.2s;
+}
+
+.top-menu a:hover {
+    filter: saturate(2);
+}
+
+
+/* second level menu */
+.menu * {
+    display: flex;
+    line-height: 50px;
+}
+
+ul.menu {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.top-menu a,
+.top-menu p {
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto';
+    font-size: 22px;
+    display: inline;
+}
+
+.active-trail > a,
+a.logo {
+    color: white !important;
+    filter: saturate(2);
+}
+
+ul.menu>li>ul {
+    position: relative;
+    float: left;
+    top: 50px;
+}
+
+
+ul.menu>li {
+    padding: 0 !important;
+    margin: 0;
+}
+
+.region-search-bar {
+    display: none;
+}
+
+.breadcrumb {
+    background: green;
+    display: none;
+}
+
+a.btn-navbar {
+    display: none;
+}
+
+#collapse-helper {
+    display: none;
+}
+
+.collapse-button {
+    display: none;
+}
+
+.nav-collapse {
+    flex-direction: column;
+}

@@ -1,0 +1,76 @@
+/* Oswald latin */
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Oswald Light'), local('Oswald-Light'), url(/sites/all/themes/apertus_bootstrap/fonts/Oswald-Light.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  /*@import url(https://fonts.googleapis.com/css?family=Oswald:300);*/
+  
+  /* Droid Sans latin */
+  @font-face {
+    font-family: 'Droid Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Droid Sans Regular'), local('DroidSans-Regular'), url(/sites/all/themes/apertus_bootstrap/fonts/Droid-Sans400.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  /* Droid Sans latin */
+  @font-face {
+    font-family: 'Droid Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Droid Sans Bold'), local('DroidSans-Bold'), url(/sites/all/themes/apertus_bootstrap/fonts/Droid-Sans700.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  /*@import url(https://fonts.googleapis.com/css?family=Droid+Sans:100,400,700);*/
+  
+  /* Calligraffitti latin */
+  @font-face {
+    font-family: 'Calligraffitti';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Calligraffitti Regular'), local('Calligraffitti-Regular'), url(/sites/all/themes/apertus_bootstrap/fonts/Calligraffitti.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  /*@import url(https://fonts.googleapis.com/css?family=Calligraffitti:400);*/
+  
+  /* Roboto latin */
+  @font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Roboto Light'), local('Roboto-Light'), url(/sites/all/themes/apertus_bootstrap/fonts/Roboto.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  /*@import url(https://fonts.googleapis.com/css?family=Roboto:300);*/
+  
+  /* Lato latin */
+  @font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lato Regular'), local('Lato-Regular'), url(/sites/all/themes/apertus_bootstrap/fonts/Lato.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  /*@import url('https://fonts.googleapis.com/css?family=Lato');*/
+  
+  /* Montserrat latin */
+  @font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Montserrat SemiBold'), local('Montserrat-SemiBold'), url(/sites/all/themes/apertus_bootstrap/fonts/Montserrat.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  /* Aleo latin */
+  @font-face {
+    font-family: 'Aleo';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Aleo Bold'), local('Aleo-Bold'), url(/sites/all/themes/apertus_bootstrap/fonts/Aleo-Bold.woff) format('woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  

@@ -1,0 +1,44 @@
+{% import "menu-macros.html" as macros %}
+
+<div class="top-menu">
+    <div class="menu-center">
+        <a class="logo pull-left navbar-brand" href="/" title="Home">
+            <img src="https://www.apertus.org/sites/all/themes/apertus_bootstrap_2019/images/apertus-logo-white.svg"
+                alt="Home" />
+        </a>
+        <input type="checkbox" id="collapse-helper">
+        <label class="collapse-button" for="collapse-helper">☰</label>
+
+        <div class="nav-collapse collapse">
+            <ul class="menu first-level">
+                {% set root = get_section(path="_index.md") %}
+                {% for subsection_path in root.subsections %}
+                {% set page = get_section(path=subsection_path) %}
+                <li class="{{macros::is_active_path(page=page)}}">
+                    <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+                </li>
+                {% endfor %}
+
+                {% for page in root.pages %}
+                <li class="{{macros::is_active_path(page=page)}}">
+                    <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+
+            {% for subsection_path in root.subsections %}
+            {% set page = get_section(path=subsection_path) %}
+            {% set current_url = get_url(path=current_path, trailing_slash=true) %}                
+            {% if current_url is starting_with(page.permalink) %}
+            <ul class="menu second-level" />
+                {% for page in page.pages %}
+                <li class="{{macros::is_active_path(page=page)}}">
+                    <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>

@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+
+{%- if page %}
+    {%- set resource = page %}
+{%- elif section %}
+    {%- set resource = section %}
+{%- endif %}
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>{{ resource.title }} | apertus° - open source cinema</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/main.css" />
+</head>
+
+<body>
+    {% include "top-menu.html" %}
+
+
+    <div class="page-content">
+        {% block content %} 
+        {{ resource.content | safe }}
+        {% endblock %}
+    </div>
+</html>

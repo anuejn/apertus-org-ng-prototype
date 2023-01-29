@@ -1,0 +1,6 @@
+{% macro is_active_path(page) %}
+    {% set current_url = get_url(path=current_path, trailing_slash=true) %}                
+    {% if current_url is starting_with(page.permalink) %}
+        active-trail
+    {% endif %}
+{% endmacro is_active_path %}

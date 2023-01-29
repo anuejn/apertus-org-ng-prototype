@@ -1,0 +1,160 @@
+.top-menu {
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+}
+
+.top-menu::-webkit-scrollbar {
+    display: none;
+}
+
+.navbar {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.navbar-inner,
+.navbar-outer {
+    width: 100%;
+    position: relative;
+}
+
+/* top level menu */
+
+.navbar-inner {}
+
+.navbar-inner a {
+    background: steelblue;
+}
+
+/* breadcrumb and second level menu */
+
+.navbar-outer {
+}
+
+.navbar-outer ul.menu {
+    justify-content: left;
+}
+
+.navbar-outer a {
+    background: brown;
+}
+
+.menu-center,
+.navbar-inner,
+.container {
+    height: 50px;
+}
+
+.menu *,
+.container *,
+.menu-center>*,
+.breadcrumb {
+    display: flex;
+    line-height: 50px;
+}
+
+a.logo {
+    margin-right: 10px;
+}
+
+.logo img {
+    padding: 5px;
+    height: 100%;
+    width: 130px;
+}
+
+ul.menu {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.top-menu a,
+.top-menu p {
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto';
+    font-size: 21px;
+    display: inline;
+}
+
+a.active-trail,
+a.logo {
+    color: white !important;
+    filter: saturate(2);
+}
+
+.top-menu a {
+    white-space: nowrap;
+    padding: 0 8px;
+    transition: filter 0.2s;
+}
+
+.top-menu a:hover {
+    filter: saturate(2);
+}
+
+ul.menu>li>ul {
+    display: none;
+}
+
+ul.menu>li {
+    padding: 0 !important;
+    ;
+    margin: 0;
+}
+
+.region-search-bar {
+    display: none;
+}
+
+.breadcrumb {
+    background: green;
+    display: none;
+}
+
+a.btn-navbar {
+    display: none;
+}
+.collapse-button {
+    width: 50px;
+    background: steelblue;
+    color: white;
+    justify-content: center;
+    font-size: 30px;
+}
+
+#collapse-helper {
+    display: none;
+}
+
+input:checked ~ .nav-collapse {
+    height: 100vh;
+}
+
+input:checked ~ label {
+    filter: saturate(2);
+}
+
+.nav-collapse {
+    width: 100vw;
+    position: absolute;
+    top: 50px;
+    height: 0;
+    overflow-y: hidden;
+    transition: height 0.25s;
+    display: flex;
+}
+
+ul.menu {
+}
+
+ul.menu > li > a {
+    margin-left: auto;
+}
+
+.navbar-outer ul.menu > li > a {
+    margin-left: 0;
+}
